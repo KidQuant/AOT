@@ -1,0 +1,1501 @@
+id,first_name,last_name,email,gender,loyalty_status,education,average_spend_2021,total_spend_2021,most_traveled_city,most_traveled_state
+1,Coop,Volonte,Coop.Volonte@datascience.aot.com,Male,Gold,Bachelor Degree,$372.75,"$2,409.21",Huntington,WV
+2,Stephanus,Ramsell,Stephanus.Ramsell@datascience.aot.com,Male,Silver,Master Degree,$291.01,"$2,114.26",Suffolk,VA
+3,Iggy,Hynard,Iggy.Hynard@datascience.aot.com,Male,Gold,High School Diploma,$161.81,"$2,464.32",Lincoln,NE
+4,Albie,Gilli,Albie.Gilli@datascience.aot.com,Male,None,Some College,$266.77,"$4,415.03",Northridge,CA
+5,Yulma,Mayall,Yulma.Mayall@datascience.aot.com,Male,Platnium,Some College,$364.93,"$3,056.20",Lafayette,LA
+6,Axe,Ilyinski,Axe.Ilyinski@datascience.aot.com,Genderfluid,None,Master Degree,$292.57,"$2,727.48",Charlottesville,VA
+7,Kayley,Tumilty,Kayley.Tumilty@datascience.aot.com,Female,Gold,PhD,$360.31,"$1,220.68",Sacramento,CA
+8,Gradeigh,Endecott,Gradeigh.Endecott@datascience.aot.com,Male,Silver,PhD,$196.53,"$4,127.89",New Hyde Park,NY
+9,Eliot,Robottham,Eliot.Robottham@datascience.aot.com,Male,Platnium,Master Degree,$193.24,"$4,865.17",Denver,CO
+10,Laverne,Leynagh,Laverne.Leynagh@datascience.aot.com,Female,Silver,Master Degree,$276.87,"$1,699.14",Omaha,NE
+11,Ciro,Stukings,Ciro.Stukings@datascience.aot.com,Male,Silver,Bachelor Degree,$315.70,"$4,717.12",Garland,TX
+12,Lynne,Reames,Lynne.Reames@datascience.aot.com,Female,Silver,Some College,$187.67,"$1,687.87",West Hartford,CT
+13,Penn,Forshaw,Penn.Forshaw@datascience.aot.com,Male,None,Master Degree,$289.46,$914.80,Lansing,MI
+14,Sophronia,Brigham,Sophronia.Brigham@datascience.aot.com,Female,Silver,Master Degree,$193.88,"$3,987.80",Young America,MN
+15,Evita,Giacobbo,Evita.Giacobbo@datascience.aot.com,Female,Silver,PhD,$372.73,"$2,256.31",Hot Springs National Park,AR
+16,Amandie,Tamplin,Amandie.Tamplin@datascience.aot.com,Female,Platnium,High School Diploma,$342.23,"$4,429.79",New York City,NY
+17,Kerr,Toby,Kerr.Toby@datascience.aot.com,Male,Platnium,Some College,$162.03,"$1,036.54",,
+18,Carlynn,Grishmanov,Carlynn.Grishmanov@datascience.aot.com,Female,None,Bachelor Degree,$331.33,"$2,020.78",Fort Smith,AR
+19,Horten,Farden,Horten.Farden@datascience.aot.com,Male,None,High School Diploma,$354.59,"$4,707.51",Hartford,CT
+20,Harriet,Menicomb,Harriet.Menicomb@datascience.aot.com,Genderqueer,None,Some College,$225.83,"$1,634.75",Richmond,CA
+21,Estell,Dunsmore,Estell.Dunsmore@datascience.aot.com,Female,Gold,High School Diploma,$251.13,"$4,546.92",Memphis,TN
+22,Brant,Maudling,Brant.Maudling@datascience.aot.com,Male,None,Some College,$223.39,$472.32,New Bedford,MA
+23,Ansell,Venediktov,Ansell.Venediktov@datascience.aot.com,Male,Gold,Bachelor Degree,$216.56,"$3,361.05",Waterbury,CT
+24,Maxwell,Rushmere,Maxwell.Rushmere@datascience.aot.com,Male,Silver,High School Diploma,$216.03,"$4,898.90",Los Angeles,CA
+25,Perrine,Gelder,Perrine.Gelder@datascience.aot.com,Female,Silver,Master Degree,$228.22,"$2,659.56",Chicago,IL
+26,Westleigh,Vevers,Westleigh.Vevers@datascience.aot.com,Male,None,PhD,$264.23,$828.69,,
+27,Lester,Twinning,Lester.Twinning@datascience.aot.com,Male,Gold,Some College,$208.24,"$4,164.26",Madison,WI
+28,Cristen,Jamary,Cristen.Jamary@datascience.aot.com,Female,Gold,PhD,$231.81,"$3,136.43",Daytona Beach,FL
+29,Emelia,Mathy,Emelia.Mathy@datascience.aot.com,Genderfluid,None,High School Diploma,$252.33,"$1,761.67",Hayward,CA
+30,Zandra,enzley,Zandra.enzley@datascience.aot.com,Female,Silver,PhD,$160.06,$964.29,Milwaukee,WI
+31,Vivia,Denziloe,Vivia.Denziloe@datascience.aot.com,Female,None,Master Degree,$311.92,"$2,006.75",Spokane,WA
+32,Matthias,Blondelle,Matthias.Blondelle@datascience.aot.com,Male,Gold,Some College,$173.32,"$2,910.10",Charleston,SC
+33,Tommie,Long,Tommie.Long@datascience.aot.com,Female,Gold,Bachelor Degree,$236.61,"$4,170.25",San Jose,CA
+34,Linda,Gras,Linda.Gras@datascience.aot.com,Female,Silver,Bachelor Degree,$204.24,"$1,653.08",Charleston,WV
+35,Joceline,Jenny,Joceline.Jenny@datascience.aot.com,Female,Silver,Bachelor Degree,$289.07,"$1,205.97",Fort Worth,TX
+36,Maurie,Kirvin,Maurie.Kirvin@datascience.aot.com,Male,None,Bachelor Degree,$169.32,"$3,469.22",Detroit,MI
+37,Addison,Smeuin,Addison.Smeuin@datascience.aot.com,Male,Gold,Some College,$340.79,"$4,336.01",Cincinnati,OH
+38,Wilfrid,Bachnic,Wilfrid.Bachnic@datascience.aot.com,Male,None,PhD,$223.21,$473.83,Saint Louis,MO
+39,Hinda,Wegner,Hinda.Wegner@datascience.aot.com,Female,Platnium,High School Diploma,$375.27,"$4,101.98",Canton,OH
+40,Deana,Longford,Deana.Longford@datascience.aot.com,Polygender,Silver,Master Degree,$156.74,"$1,579.14",Washington,DC
+41,Gearard,Meegan,Gearard.Meegan@datascience.aot.com,Male,Silver,PhD,$235.68,"$2,169.83",Charleston,WV
+42,Mason,Dilon,Mason.Dilon@datascience.aot.com,Male,Gold,Master Degree,$295.97,"$1,445.30",Charleston,SC
+43,Farica,Iggalden,Farica.Iggalden@datascience.aot.com,Female,Silver,PhD,$161.31,"$4,853.71",Fort Wayne,IN
+44,Arlen,Alpe,Arlen.Alpe@datascience.aot.com,Male,Gold,High School Diploma,$257.57,"$3,751.80",Salt Lake City,UT
+45,Vinson,Jako,Vinson.Jako@datascience.aot.com,Genderqueer,Platnium,Master Degree,$325.64,"$3,472.98",Houston,TX
+46,Marja,O'Connor,Marja.O'Connor@datascience.aot.com,Female,Gold,Master Degree,$373.43,$972.79,El Paso,TX
+47,Nobe,Schneidar,Nobe.Schneidar@datascience.aot.com,Bigender,Platnium,Master Degree,$399.02,"$3,853.09",Port Washington,NY
+48,Cacilie,Cullip,Cacilie.Cullip@datascience.aot.com,Female,Platnium,PhD,$380.67,"$2,800.83",Oklahoma City,OK
+49,Alina,Piddock,Alina.Piddock@datascience.aot.com,Female,None,High School Diploma,$247.33,"$2,470.67",Atlanta,GA
+50,Weylin,Thackeray,Weylin.Thackeray@datascience.aot.com,Male,Silver,Master Degree,$162.38,"$1,847.04",Monticello,MN
+51,Phil,Chasier,Phil.Chasier@datascience.aot.com,Agender,None,High School Diploma,$306.86,"$1,918.91",Plano,TX
+52,Burke,Shiel,Burke.Shiel@datascience.aot.com,Male,Gold,Bachelor Degree,$197.22,$910.83,Springfield,IL
+53,Eberto,Riddlesden,Eberto.Riddlesden@datascience.aot.com,Male,Silver,Master Degree,$166.39,$811.41,Garland,TX
+54,Harper,Martindale,Harper.Martindale@datascience.aot.com,Male,Silver,Master Degree,$219.66,"$2,123.86",Washington,DC
+55,Shaw,Garaway,Shaw.Garaway@datascience.aot.com,Male,None,Bachelor Degree,$234.08,"$1,679.29",Birmingham,AL
+56,Jaquenetta,Edsall,Jaquenetta.Edsall@datascience.aot.com,Non-binary,Platnium,Bachelor Degree,$209.12,"$2,644.18",Omaha,NE
+57,Vonny,MacColgan,Vonny.MacColgan@datascience.aot.com,Female,Gold,Master Degree,$163.20,$736.10,Rochester,NY
+58,Judd,Clorley,Judd.Clorley@datascience.aot.com,Non-binary,Silver,PhD,$265.85,"$3,259.55",Mesa,AZ
+59,Beckie,Follet,Beckie.Follet@datascience.aot.com,Female,Platnium,Master Degree,$183.85,"$4,670.69",,
+60,Bastien,Mincini,Bastien.Mincini@datascience.aot.com,Male,Silver,PhD,$172.72,"$1,570.35",Miami,FL
+61,Jerome,Corner,Jerome.Corner@datascience.aot.com,Male,None,PhD,$204.08,"$1,702.62",,
+62,Ransom,Tennet,Ransom.Tennet@datascience.aot.com,Non-binary,Silver,Bachelor Degree,$164.01,"$1,764.45",Des Moines,IA
+63,Sander,Branchett,Sander.Branchett@datascience.aot.com,Male,Platnium,Bachelor Degree,$336.97,"$3,387.15",Spring,TX
+64,Stanton,Brotherheed,Stanton.Brotherheed@datascience.aot.com,Male,Silver,Some College,$228.54,"$3,031.98",Houston,TX
+65,Shurwood,Zapatero,Shurwood.Zapatero@datascience.aot.com,Male,Platnium,Bachelor Degree,$194.37,"$3,048.79",,
+66,Lindsy,Valentino,Lindsy.Valentino@datascience.aot.com,Female,None,Some College,$381.82,$524.39,Champaign,IL
+67,Kippy,Hunnywell,Kippy.Hunnywell@datascience.aot.com,Male,Platnium,Bachelor Degree,$267.45,"$3,201.99",Montgomery,AL
+68,Bathsheba,Burstow,Bathsheba.Burstow@datascience.aot.com,Female,Gold,Bachelor Degree,$150.99,"$1,590.48",Anaheim,CA
+69,De,Raithby,De.Raithby@datascience.aot.com,Female,Silver,High School Diploma,$158.07,"$3,583.69",El Paso,TX
+70,Oates,Labrow,Oates.Labrow@datascience.aot.com,Male,Gold,,,,Arlington,TX
+71,Mallory,Papa,Mallory.Papa@datascience.aot.com,Male,Platnium,Master Degree,$197.35,"$3,290.77",Albany,NY
+72,Brewer,Alster,Brewer.Alster@datascience.aot.com,Male,Silver,Master Degree,$259.20,"$2,129.08",,
+73,Lauryn,Noraway,Lauryn.Noraway@datascience.aot.com,Female,None,Some College,$177.03,"$2,611.24",Long Beach,CA
+74,Ezekiel,Maharry,Ezekiel.Maharry@datascience.aot.com,Genderfluid,Platnium,Some College,$195.65,"$3,522.20",San Francisco,CA
+75,Mikel,Trengove,Mikel.Trengove@datascience.aot.com,Male,Platnium,High School Diploma,$157.11,"$3,628.53",Fresno,CA
+76,Dottie,Theze,Dottie.Theze@datascience.aot.com,Female,Gold,High School Diploma,$367.85,"$4,470.77",,
+77,Beulah,Liles,Beulah.Liles@datascience.aot.com,Female,None,High School Diploma,$334.55,"$1,263.49",Boise,ID
+78,Saree,Risdale,Saree.Risdale@datascience.aot.com,Agender,None,Bachelor Degree,$272.14,"$4,554.85",Portland,OR
+79,Boyd,Rolfo,Boyd.Rolfo@datascience.aot.com,Male,None,PhD,$345.65,"$1,749.20",Las Vegas,NV
+80,Ellsworth,Dono,Ellsworth.Dono@datascience.aot.com,Polygender,Silver,Some College,$381.05,"$2,169.23",Syracuse,NY
+81,Steven,Abbet,Steven.Abbet@datascience.aot.com,Male,Silver,Some College,$211.60,"$1,338.30",Salem,OR
+82,Brigham,Prodrick,Brigham.Prodrick@datascience.aot.com,Male,Gold,Some College,$288.31,"$3,943.23",Naples,FL
+83,Marne,Sheppard,Marne.Sheppard@datascience.aot.com,Female,None,Bachelor Degree,$151.68,$764.51,Bronx,NY
+84,Frans,Noury,Frans.Noury@datascience.aot.com,Polygender,Gold,High School Diploma,$340.31,"$4,412.32",Amarillo,TX
+85,Nyssa,Kohlerman,Nyssa.Kohlerman@datascience.aot.com,Female,Silver,PhD,$365.34,"$1,064.25",Omaha,NE
+86,Rochella,Varvara,Rochella.Varvara@datascience.aot.com,Female,Gold,Bachelor Degree,$195.92,"$2,904.99",,
+87,Bogey,Birchenhead,Bogey.Birchenhead@datascience.aot.com,Bigender,Gold,Master Degree,$247.72,$945.74,Garland,TX
+88,Adore,Ellsworthe,Adore.Ellsworthe@datascience.aot.com,Female,Silver,Some College,$177.98,"$1,343.86",Farmington,MI
+89,Carey,Brech,Carey.Brech@datascience.aot.com,Male,None,High School Diploma,$372.15,"$2,136.14",,
+90,Kippie,Squires,Kippie.Squires@datascience.aot.com,Male,Platnium,Bachelor Degree,$274.09,$671.50,Lubbock,TX
+91,Tonie,Polden,Tonie.Polden@datascience.aot.com,Female,Gold,PhD,$312.41,"$1,515.98",,
+92,Gennifer,Brotherhead,Gennifer.Brotherhead@datascience.aot.com,Female,Platnium,Some College,$260.92,"$4,111.20",Washington,DC
+93,Hamilton,Dibbe,Hamilton.Dibbe@datascience.aot.com,Bigender,Platnium,High School Diploma,$179.07,$515.97,Biloxi,MS
+94,Lisbeth,Bratton,Lisbeth.Bratton@datascience.aot.com,Female,Platnium,PhD,$260.32,"$2,923.06",Pasadena,CA
+95,Chiquita,Mehaffey,Chiquita.Mehaffey@datascience.aot.com,Polygender,None,High School Diploma,$322.47,"$3,777.42",,
+96,Talia,Tribbeck,Talia.Tribbeck@datascience.aot.com,Female,Silver,Bachelor Degree,$277.51,"$3,778.47",Sacramento,CA
+97,Loy,Butterfill,Loy.Butterfill@datascience.aot.com,Male,None,PhD,$382.63,$948.57,Sandy,UT
+98,Des,Fintoph,Des.Fintoph@datascience.aot.com,Male,None,PhD,$297.03,"$2,179.63",Elmira,NY
+99,Menard,Vaissiere,Menard.Vaissiere@datascience.aot.com,Male,None,High School Diploma,$397.50,"$2,770.42",Peoria,IL
+100,Clerkclaude,Corradino,Clerkclaude.Corradino@datascience.aot.com,Male,Silver,Master Degree,$375.72,"$3,520.01",Chicago,IL
+101,Candy,Quigg,Candy.Quigg@datascience.aot.com,Female,Platnium,PhD,$167.07,$811.86,Fresno,CA
+102,Aila,Verbeek,Aila.Verbeek@datascience.aot.com,Female,None,,,,Austin,TX
+103,Adrian,Oret,Adrian.Oret@datascience.aot.com,Male,Gold,Master Degree,$240.45,"$3,366.86",Tulsa,OK
+104,Randal,Galley,Randal.Galley@datascience.aot.com,Male,None,Bachelor Degree,$342.26,$500.52,Daytona Beach,FL
+105,Ora,Rosbotham,Ora.Rosbotham@datascience.aot.com,Female,Platnium,High School Diploma,$201.28,"$4,139.20",Redwood City,CA
+106,Milt,Gittings,Milt.Gittings@datascience.aot.com,Male,Gold,Master Degree,$266.33,"$3,790.38",Memphis,TN
+107,Brandea,Anstice,Brandea.Anstice@datascience.aot.com,Female,Gold,Some College,$297.74,"$2,219.77",Houston,TX
+108,Nehemiah,Bryers,Nehemiah.Bryers@datascience.aot.com,Male,Silver,PhD,$375.11,"$4,321.74",Tyler,TX
+109,Rania,Andreasson,Rania.Andreasson@datascience.aot.com,Female,None,High School Diploma,$155.42,"$4,717.83",Mesa,AZ
+110,Goldarina,Shillinglaw,Goldarina.Shillinglaw@datascience.aot.com,Female,Silver,Master Degree,$277.84,"$3,300.73",Pittsburgh,PA
+111,Arvie,Downs,Arvie.Downs@datascience.aot.com,Male,Silver,Bachelor Degree,$190.15,"$4,163.43",Tucson,AZ
+112,Tabbie,Fearneley,Tabbie.Fearneley@datascience.aot.com,Male,None,Master Degree,$234.79,"$3,525.32",Fullerton,CA
+113,Carmine,Fincham,Carmine.Fincham@datascience.aot.com,Female,Platnium,Master Degree,$307.72,"$2,409.60",Bethesda,MD
+114,Kameko,Stare,Kameko.Stare@datascience.aot.com,Female,Gold,PhD,$332.00,"$4,176.35",Omaha,NE
+115,Reggi,Javes,Reggi.Javes@datascience.aot.com,Female,Silver,Bachelor Degree,$362.11,"$4,512.75",Omaha,NE
+116,Hildegarde,Horrell,Hildegarde.Horrell@datascience.aot.com,Female,None,Master Degree,$315.47,"$3,417.43",Dallas,TX
+117,Ariana,Plevey,Ariana.Plevey@datascience.aot.com,Female,Gold,Some College,$178.18,"$2,206.76",Midland,TX
+118,Gillie,Vaskov,Gillie.Vaskov@datascience.aot.com,Female,Silver,Master Degree,$389.43,"$2,195.29",Charlotte,NC
+119,Alaine,Mathonnet,Alaine.Mathonnet@datascience.aot.com,Female,None,Master Degree,$152.36,"$1,238.46",Davenport,IA
+120,Kean,Khoter,Kean.Khoter@datascience.aot.com,Male,Gold,Some College,$264.52,"$1,785.30",Phoenix,AZ
+121,Kenyon,Bissett,Kenyon.Bissett@datascience.aot.com,Male,Gold,PhD,$365.56,"$4,305.90",Seattle,WA
+122,Erma,Jewel,Erma.Jewel@datascience.aot.com,Genderfluid,None,Some College,$366.34,"$1,960.62",,
+123,Kelby,Iglesias,Kelby.Iglesias@datascience.aot.com,Male,Platnium,Master Degree,$263.49,"$1,711.28",,
+124,Tiler,Cattow,Tiler.Cattow@datascience.aot.com,Male,None,Master Degree,$354.20,"$3,027.10",Houston,TX
+125,Kynthia,McCrohon,Kynthia.McCrohon@datascience.aot.com,Female,None,PhD,$352.48,"$4,790.18",Jacksonville,FL
+126,Brendin,Chantrell,Brendin.Chantrell@datascience.aot.com,Male,Silver,Master Degree,$327.17,"$1,594.69",Jamaica,NY
+127,Collie,Balam,Collie.Balam@datascience.aot.com,Genderqueer,Gold,High School Diploma,$231.40,"$4,672.65",,
+128,Nichole,Gemmill,Nichole.Gemmill@datascience.aot.com,Male,None,Bachelor Degree,$232.59,"$3,165.73",Sioux Falls,SD
+129,Armstrong,Murty,Armstrong.Murty@datascience.aot.com,Male,Silver,PhD,$356.48,$596.46,Norfolk,VA
+130,Royal,Wickham,Royal.Wickham@datascience.aot.com,Male,Gold,Bachelor Degree,$332.55,"$1,123.68",,
+131,Ronald,Brealey,Ronald.Brealey@datascience.aot.com,Male,Gold,Some College,$279.35,$652.19,Kansas City,MO
+132,Belle,Mowett,Belle.Mowett@datascience.aot.com,Female,None,Master Degree,$372.25,$760.18,Kansas City,KS
+133,Onfroi,Iggulden,Onfroi.Iggulden@datascience.aot.com,Male,Gold,Some College,$301.66,"$1,957.12",Las Vegas,NV
+134,Tobye,Tukesby,Tobye.Tukesby@datascience.aot.com,Female,None,PhD,$201.56,"$4,844.39",Albuquerque,NM
+135,Hebert,Hartles,Hebert.Hartles@datascience.aot.com,Male,None,,,,Helena,MT
+136,Rafa,Potts,Rafa.Potts@datascience.aot.com,Female,None,PhD,$195.89,"$3,861.11",Hagerstown,MD
+137,Cello,Pietrowicz,Cello.Pietrowicz@datascience.aot.com,Male,Gold,High School Diploma,$395.79,"$3,835.77",Springfield,MA
+138,Nada,Handover,Nada.Handover@datascience.aot.com,Female,Gold,Some College,$228.09,"$1,436.54",Palmdale,CA
+139,Vanny,Bentham,Vanny.Bentham@datascience.aot.com,Female,None,Bachelor Degree,$278.58,"$3,636.73",Oakland,CA
+140,Beulah,Skipping,Beulah.Skipping@datascience.aot.com,Female,Silver,Some College,$350.87,"$3,427.75",Saint Petersburg,FL
+141,Corrie,Miche,Corrie.Miche@datascience.aot.com,Male,None,Some College,$306.88,"$3,768.22",Oklahoma City,OK
+142,Delcina,Brookes,Delcina.Brookes@datascience.aot.com,Female,Platnium,High School Diploma,$328.75,"$3,238.07",Dallas,TX
+143,Bonni,Bagnell,Bonni.Bagnell@datascience.aot.com,Female,Gold,Master Degree,$375.30,"$4,461.12",Sacramento,CA
+144,Tricia,Wadge,Tricia.Wadge@datascience.aot.com,Female,Platnium,High School Diploma,$359.23,"$2,526.46",Fort Wayne,IN
+145,Tommie,Gwyllt,Tommie.Gwyllt@datascience.aot.com,Male,Silver,PhD,$270.12,"$1,784.91",Shawnee Mission,KS
+146,Marie-jeanne,Lobbe,Marie-jeanne.Lobbe@datascience.aot.com,Female,Platnium,Master Degree,$329.01,"$2,144.85",Tacoma,WA
+147,Dianne,Kestian,Dianne.Kestian@datascience.aot.com,Polygender,None,PhD,$191.95,"$4,548.47",Santa Rosa,CA
+148,Susannah,Vlies,Susannah.Vlies@datascience.aot.com,Female,Gold,High School Diploma,$379.53,"$2,557.23",Minneapolis,MN
+149,Kyle,Saines,Kyle.Saines@datascience.aot.com,Female,None,Bachelor Degree,$171.78,$959.24,Colorado Springs,CO
+150,Tamas,Wiffler,Tamas.Wiffler@datascience.aot.com,Male,None,High School Diploma,$396.01,"$2,313.61",Atlanta,GA
+151,Lawry,Bilney,Lawry.Bilney@datascience.aot.com,Male,Silver,High School Diploma,$247.80,"$2,618.49",Seattle,WA
+152,Teodor,Casella,Teodor.Casella@datascience.aot.com,Male,None,Bachelor Degree,$375.90,"$4,383.42",Houston,TX
+153,Alissa,Schulke,Alissa.Schulke@datascience.aot.com,Female,None,Master Degree,$339.35,$729.51,Palm Bay,FL
+154,Eduard,Radley,Eduard.Radley@datascience.aot.com,Male,Gold,High School Diploma,$215.69,"$3,287.43",Rochester,NY
+155,Briana,Milillo,Briana.Milillo@datascience.aot.com,Female,Silver,Some College,$339.00,"$1,497.12",Spring,TX
+156,Reagan,Gethin,Reagan.Gethin@datascience.aot.com,Male,Gold,High School Diploma,$178.99,"$4,295.38",Kansas City,KS
+157,Fabio,Spellard,Fabio.Spellard@datascience.aot.com,Male,None,PhD,$271.87,"$4,911.69",Wichita,KS
+158,Cori,Colleer,Cori.Colleer@datascience.aot.com,Genderfluid,None,PhD,$345.22,"$4,894.18",Des Moines,IA
+159,Clair,Arthars,Clair.Arthars@datascience.aot.com,Female,Silver,High School Diploma,$201.26,"$1,882.35",Roanoke,VA
+160,Cordey,Mapam,Cordey.Mapam@datascience.aot.com,Female,Silver,PhD,$247.77,"$1,896.41",Spokane,WA
+161,Gwendolyn,Mowson,Gwendolyn.Mowson@datascience.aot.com,Female,Platnium,Master Degree,$171.99,"$1,251.57",Scottsdale,AZ
+162,Nicki,Every,Nicki.Every@datascience.aot.com,Female,Platnium,Bachelor Degree,$392.22,"$1,726.63",Gary,IN
+163,Rafaello,Iowarch,Rafaello.Iowarch@datascience.aot.com,Male,Gold,PhD,$303.22,"$2,432.72",South Bend,IN
+164,Amery,Berresford,Amery.Berresford@datascience.aot.com,Bigender,Gold,PhD,$187.10,"$1,514.68",Temple,TX
+165,Jessi,Northern,Jessi.Northern@datascience.aot.com,Female,None,Master Degree,$198.08,$666.73,Sacramento,CA
+166,Parsifal,Nurcombe,Parsifal.Nurcombe@datascience.aot.com,Male,Gold,Bachelor Degree,$335.80,"$3,630.70",Garland,TX
+167,Katheryn,Vallance,Katheryn.Vallance@datascience.aot.com,Female,Silver,High School Diploma,$377.82,"$3,668.17",Bethlehem,PA
+168,Celisse,Regi,Celisse.Regi@datascience.aot.com,Female,Gold,PhD,$325.75,$925.83,Gainesville,FL
+169,Carlos,Pardoe,Carlos.Pardoe@datascience.aot.com,Male,None,Some College,$172.13,"$2,292.72",Pocatello,ID
+170,Penn,Pinsent,Penn.Pinsent@datascience.aot.com,Male,Silver,Some College,$361.08,"$1,580.23",New York City,NY
+171,Stoddard,Searchfield,Stoddard.Searchfield@datascience.aot.com,Female,None,Master Degree,$386.56,"$1,830.45",Indianapolis,IN
+172,Bibbie,Wreiford,Bibbie.Wreiford@datascience.aot.com,Female,None,Bachelor Degree,$397.34,"$4,413.12",Columbia,MO
+173,Madelyn,Flores,Madelyn.Flores@datascience.aot.com,Female,Silver,PhD,$287.16,"$2,297.61",Lubbock,TX
+174,Cassie,Casale,Cassie.Casale@datascience.aot.com,Female,Platnium,High School Diploma,$336.13,"$1,776.35",Fargo,ND
+175,Edna,Renfree,Edna.Renfree@datascience.aot.com,Genderfluid,Platnium,High School Diploma,$342.52,"$3,578.75",Houston,TX
+176,Farand,Bellingham,Farand.Bellingham@datascience.aot.com,Female,Silver,Bachelor Degree,$269.07,"$2,004.67",South Bend,IN
+177,Ilka,Colyer,Ilka.Colyer@datascience.aot.com,Female,None,Some College,$245.98,$647.21,Saint Petersburg,FL
+178,Megen,Tomlins,Megen.Tomlins@datascience.aot.com,Female,Gold,Some College,$211.53,"$3,782.16",Austin,TX
+179,Nils,Lamkin,Nils.Lamkin@datascience.aot.com,Male,None,Master Degree,$153.11,"$1,375.99",Dallas,TX
+180,Chrisy,Kniveton,Chrisy.Kniveton@datascience.aot.com,Male,Silver,High School Diploma,$382.01,"$1,741.84",Cleveland,OH
+181,Hillel,Gambrell,Hillel.Gambrell@datascience.aot.com,Male,None,Bachelor Degree,$307.15,"$3,527.85",Detroit,MI
+182,Coraline,Tosdevin,Coraline.Tosdevin@datascience.aot.com,Female,Silver,Some College,$159.26,"$1,965.92",Phoenix,AZ
+183,Tamra,Stoodley,Tamra.Stoodley@datascience.aot.com,Female,Platnium,Some College,$166.33,"$2,973.12",Evansville,IN
+184,Alec,Baike,Alec.Baike@datascience.aot.com,Male,Gold,Some College,$185.36,"$3,324.12",Charlotte,NC
+185,Gabbi,Legerton,Gabbi.Legerton@datascience.aot.com,Female,Platnium,Bachelor Degree,$260.86,"$4,838.74",Dallas,TX
+186,Trixi,Retchless,Trixi.Retchless@datascience.aot.com,Female,Silver,High School Diploma,$231.39,"$4,694.66",Portland,OR
+187,Harlin,Penson,Harlin.Penson@datascience.aot.com,Male,Platnium,Master Degree,$245.26,"$4,802.20",Wilmington,NC
+188,Kip,McRory,Kip.McRory@datascience.aot.com,Male,None,High School Diploma,$366.08,"$4,643.63",Jackson,MS
+189,Amye,Flahy,Amye.Flahy@datascience.aot.com,Female,Gold,Some College,$247.02,"$4,433.02",New York City,NY
+190,Twila,Ashbee,Twila.Ashbee@datascience.aot.com,Non-binary,Gold,Some College,$355.27,"$2,862.78",Newark,NJ
+191,Gerda,Walcar,Gerda.Walcar@datascience.aot.com,Female,Silver,Bachelor Degree,$203.39,"$2,315.71",Fort Wayne,IN
+192,Tory,Scatcher,Tory.Scatcher@datascience.aot.com,Genderfluid,Silver,High School Diploma,$276.03,"$2,852.95",Milwaukee,WI
+193,Adelind,Scutcheon,Adelind.Scutcheon@datascience.aot.com,Female,Gold,High School Diploma,$333.15,$775.14,Fort Worth,TX
+194,Theo,McGilvra,Theo.McGilvra@datascience.aot.com,Male,Silver,Some College,$374.10,"$3,937.53",Erie,PA
+195,Sibby,Maleney,Sibby.Maleney@datascience.aot.com,Female,Platnium,Bachelor Degree,$154.86,"$4,377.38",Orlando,FL
+196,Tonie,Soot,Tonie.Soot@datascience.aot.com,Female,Platnium,Bachelor Degree,$180.97,"$1,074.14",Philadelphia,PA
+197,Dale,Sawney,Dale.Sawney@datascience.aot.com,Male,Platnium,High School Diploma,$196.31,"$3,655.62",Mobile,AL
+198,Algernon,Bach,Algernon.Bach@datascience.aot.com,Male,Gold,Master Degree,$350.72,"$4,104.07",,
+199,Bert,Goudy,Bert.Goudy@datascience.aot.com,Female,Gold,Bachelor Degree,$368.64,"$4,197.90",,
+200,Wynnie,Pedler,Wynnie.Pedler@datascience.aot.com,Female,Silver,High School Diploma,$166.94,"$2,165.45",Cincinnati,OH
+201,Moritz,Currie,Moritz.Currie@datascience.aot.com,Male,None,Bachelor Degree,$373.10,"$4,882.80",Tampa,FL
+202,Anne,Spirit,Anne.Spirit@datascience.aot.com,Female,None,PhD,$357.20,"$2,289.59",Fort Worth,TX
+203,Don,Boyfield,Don.Boyfield@datascience.aot.com,Male,None,Bachelor Degree,$301.31,"$1,876.94",Brea,CA
+204,Ardra,Fanton,Ardra.Fanton@datascience.aot.com,Female,Platnium,Bachelor Degree,$270.68,"$4,878.74",Wilkes Barre,PA
+205,Kristina,Laxon,Kristina.Laxon@datascience.aot.com,Female,Silver,Bachelor Degree,$183.01,"$2,003.92",Hartford,CT
+206,Bari,Stileman,Bari.Stileman@datascience.aot.com,Female,Silver,High School Diploma,$197.14,"$3,530.96",Virginia Beach,VA
+207,Meryl,Corter,Meryl.Corter@datascience.aot.com,Male,None,Bachelor Degree,$231.88,"$3,491.37",,
+208,Toby,Butlin,Toby.Butlin@datascience.aot.com,Male,Silver,PhD,$237.53,"$1,282.56",Boston,MA
+209,Caesar,Barnwill,Caesar.Barnwill@datascience.aot.com,Male,Gold,Master Degree,$334.72,"$1,090.36",Spokane,WA
+210,Xena,Rippon,Xena.Rippon@datascience.aot.com,Female,None,PhD,$188.46,"$2,147.27",West Hartford,CT
+211,Vanya,Jotham,Vanya.Jotham@datascience.aot.com,Female,Platnium,Some College,$267.16,"$4,129.19",Round Rock,TX
+212,Aube,Kitcatt,Aube.Kitcatt@datascience.aot.com,Male,Gold,Some College,$197.49,"$3,001.38",Newark,NJ
+213,Field,Affuso,Field.Affuso@datascience.aot.com,Male,Gold,Bachelor Degree,$359.25,"$2,356.20",Fort Worth,TX
+214,Ediva,Chicken,Ediva.Chicken@datascience.aot.com,Female,Gold,,,,Carol Stream,IL
+215,Stuart,Whitaker,Stuart.Whitaker@datascience.aot.com,Male,None,Master Degree,$349.57,"$1,936.63",Tacoma,WA
+216,Georgianna,Cattell,Georgianna.Cattell@datascience.aot.com,Female,Silver,Some College,$375.86,$743.30,,
+217,Chariot,Kisbey,Chariot.Kisbey@datascience.aot.com,Male,Platnium,Bachelor Degree,$346.95,"$3,638.44",Vancouver,WA
+218,Sashenka,Robertacci,Sashenka.Robertacci@datascience.aot.com,Female,Silver,Some College,$163.42,"$3,265.11",Daytona Beach,FL
+219,Ddene,Florey,Ddene.Florey@datascience.aot.com,Female,Silver,PhD,$304.15,"$4,573.47",Jacksonville,FL
+220,Bernie,Urrey,Bernie.Urrey@datascience.aot.com,Female,None,Master Degree,$347.75,$648.13,Camden,NJ
+221,Bryanty,Kitteringham,Bryanty.Kitteringham@datascience.aot.com,Agender,Platnium,Bachelor Degree,$182.42,"$1,115.63",Tacoma,WA
+222,Avigdor,Klimkowski,Avigdor.Klimkowski@datascience.aot.com,Male,None,PhD,$201.48,"$1,559.06",,
+223,Liv,Pinwell,Liv.Pinwell@datascience.aot.com,Female,Platnium,Some College,$362.59,$540.62,El Paso,TX
+224,Bentlee,Lovel,Bentlee.Lovel@datascience.aot.com,Male,Platnium,Bachelor Degree,$302.91,"$1,151.22",Jackson,MS
+225,Loy,De Courtney,Loy.De Courtney@datascience.aot.com,Male,Silver,High School Diploma,$309.13,$932.78,Louisville,KY
+226,Barn,Craister,Barn.Craister@datascience.aot.com,Male,None,Bachelor Degree,$173.10,$614.04,Saint Paul,MN
+227,Cristobal,Romanin,Cristobal.Romanin@datascience.aot.com,Male,Platnium,Bachelor Degree,$290.84,"$2,330.06",Chicago,IL
+228,Dave,Barck,Dave.Barck@datascience.aot.com,Male,Gold,High School Diploma,$321.81,"$4,089.95",Fort Worth,TX
+229,Archibaldo,Sanday,Archibaldo.Sanday@datascience.aot.com,Genderfluid,Gold,Bachelor Degree,$244.46,"$1,385.34",Northridge,CA
+230,Tanny,Beevers,Tanny.Beevers@datascience.aot.com,Male,None,High School Diploma,$248.80,"$2,446.85",Seattle,WA
+231,Averill,Murtimer,Averill.Murtimer@datascience.aot.com,Male,Gold,High School Diploma,$310.64,"$4,800.92",Dayton,OH
+232,Bobbi,Prescote,Bobbi.Prescote@datascience.aot.com,Female,Platnium,Master Degree,$352.15,"$4,402.51",Anaheim,CA
+233,Marcia,Lydster,Marcia.Lydster@datascience.aot.com,Female,Silver,Some College,$298.22,"$1,145.26",,
+234,Liliane,Hucknall,Liliane.Hucknall@datascience.aot.com,Female,Silver,Master Degree,$207.06,"$2,480.16",Detroit,MI
+235,Jordan,Prudham,Jordan.Prudham@datascience.aot.com,Male,Silver,Some College,$190.75,"$4,739.27",Honolulu,HI
+236,Clemence,Mackley,Clemence.Mackley@datascience.aot.com,Female,Gold,High School Diploma,$380.26,"$2,260.54",Detroit,MI
+237,Graig,Sunners,Graig.Sunners@datascience.aot.com,Male,Platnium,Bachelor Degree,$187.49,"$2,336.50",Frankfort,KY
+238,Miner,Truss,Miner.Truss@datascience.aot.com,Male,Platnium,PhD,$331.15,"$3,747.84",Herndon,VA
+239,Adler,Storek,Adler.Storek@datascience.aot.com,Male,Platnium,PhD,$217.72,"$2,071.65",Daytona Beach,FL
+240,Dorthy,Tomsett,Dorthy.Tomsett@datascience.aot.com,Female,Platnium,Some College,$337.70,"$2,496.94",Seattle,WA
+241,Geoff,Soutter,Geoff.Soutter@datascience.aot.com,Male,Platnium,High School Diploma,$201.27,"$2,412.14",,
+242,Maison,Keford,Maison.Keford@datascience.aot.com,Male,None,Master Degree,$194.16,"$4,569.10",New York City,NY
+243,Kat,Bowich,Kat.Bowich@datascience.aot.com,Female,None,Master Degree,$315.78,"$3,461.65",Evansville,IN
+244,Raimondo,Andersson,Raimondo.Andersson@datascience.aot.com,Male,None,Bachelor Degree,$167.32,"$4,649.98",Greensboro,NC
+245,Zonnya,Moxley,Zonnya.Moxley@datascience.aot.com,Female,None,PhD,$245.95,"$1,789.01",Kansas City,MO
+246,Justis,Whitehouse,Justis.Whitehouse@datascience.aot.com,Male,None,Some College,$359.58,$975.01,Sioux City,IA
+247,Costa,Iacopo,Costa.Iacopo@datascience.aot.com,Male,Gold,PhD,$288.28,"$1,449.12",,
+248,Casper,Amiranda,Casper.Amiranda@datascience.aot.com,Male,None,Master Degree,$244.84,"$3,835.81",Pasadena,CA
+249,Agnese,Finlan,Agnese.Finlan@datascience.aot.com,Female,Platnium,Bachelor Degree,$277.80,"$2,940.48",Cincinnati,OH
+250,Dionne,Caspell,Dionne.Caspell@datascience.aot.com,Female,Platnium,PhD,$221.13,"$1,984.32",Orlando,FL
+251,Koren,Kimbrey,Koren.Kimbrey@datascience.aot.com,Female,Silver,Master Degree,$281.47,"$2,486.35",Springfield,MO
+252,Carlos,Annakin,Carlos.Annakin@datascience.aot.com,Bigender,Platnium,Master Degree,$351.01,"$3,945.04",Akron,OH
+253,Kalindi,Huett,Kalindi.Huett@datascience.aot.com,Female,Silver,PhD,$248.80,"$2,324.84",Roanoke,VA
+254,Freddie,Ottee,Freddie.Ottee@datascience.aot.com,Agender,Gold,PhD,$185.18,"$3,364.86",Dallas,TX
+255,Dulcine,Mountford,Dulcine.Mountford@datascience.aot.com,Female,Silver,Bachelor Degree,$224.58,"$3,243.26",Sioux City,IA
+256,Irwinn,Maleck,Irwinn.Maleck@datascience.aot.com,Male,None,Bachelor Degree,$307.66,"$2,242.03",,
+257,Filmore,Dabbes,Filmore.Dabbes@datascience.aot.com,Male,Platnium,PhD,$253.86,"$1,949.98",,
+258,Janeva,Hartell,Janeva.Hartell@datascience.aot.com,Female,Platnium,PhD,$369.11,"$4,901.93",,
+259,Selena,Konzelmann,Selena.Konzelmann@datascience.aot.com,Female,Silver,Bachelor Degree,$375.67,"$3,038.15",,
+260,Eddie,Karpf,Eddie.Karpf@datascience.aot.com,Male,Gold,Master Degree,$311.90,"$2,126.82",Mobile,AL
+261,Auria,Speedy,Auria.Speedy@datascience.aot.com,Female,Silver,Some College,$376.83,"$4,344.49",,
+262,Bartlet,Abbado,Bartlet.Abbado@datascience.aot.com,Male,Platnium,PhD,$153.83,"$2,486.70",Scottsdale,AZ
+263,Brett,Scala,Brett.Scala@datascience.aot.com,Agender,Platnium,Some College,$345.94,"$1,097.25",Las Vegas,NV
+264,Con,Grzeszczak,Con.Grzeszczak@datascience.aot.com,Male,Gold,High School Diploma,$166.42,$717.92,Decatur,IL
+265,Dotty,Btham,Dotty.Btham@datascience.aot.com,Female,Platnium,Some College,$299.83,"$2,995.37",Fort Worth,TX
+266,Barny,Buxcey,Barny.Buxcey@datascience.aot.com,Male,None,Some College,$267.49,"$1,109.51",Manchester,NH
+267,Corbie,Lightwood,Corbie.Lightwood@datascience.aot.com,Male,None,Bachelor Degree,$366.19,"$1,340.86",Pensacola,FL
+268,Carlina,Plover,Carlina.Plover@datascience.aot.com,Female,Platnium,Some College,$321.58,$864.92,Pittsburgh,PA
+269,Maje,Ollenbuttel,Maje.Ollenbuttel@datascience.aot.com,Male,Gold,Some College,$216.06,"$1,285.13",Washington,DC
+270,Gan,Gunnell,Gan.Gunnell@datascience.aot.com,Male,Silver,High School Diploma,$274.65,$637.21,Provo,UT
+271,Locke,Ost,Locke.Ost@datascience.aot.com,Non-binary,None,Bachelor Degree,$380.33,"$1,789.27",Portland,OR
+272,Lilia,Meyer,Lilia.Meyer@datascience.aot.com,Female,None,High School Diploma,$319.51,"$4,342.52",Clearwater,FL
+273,Norby,Vanichkov,Norby.Vanichkov@datascience.aot.com,Male,None,Bachelor Degree,$362.27,"$1,689.86",Pasadena,CA
+274,Wood,McAuslan,Wood.McAuslan@datascience.aot.com,Bigender,Gold,High School Diploma,$324.76,$956.09,Colorado Springs,CO
+275,Keelia,Duignan,Keelia.Duignan@datascience.aot.com,Genderqueer,Gold,Master Degree,$338.80,"$2,959.31",New York City,NY
+276,Olly,Hanshawe,Olly.Hanshawe@datascience.aot.com,Female,Gold,High School Diploma,$288.80,"$4,471.42",Fort Lauderdale,FL
+277,Joyous,Genicke,Joyous.Genicke@datascience.aot.com,Female,None,Master Degree,$217.52,"$4,864.66",San Jose,CA
+278,Kingston,Matias,Kingston.Matias@datascience.aot.com,Male,Silver,PhD,$292.76,"$2,175.74",Lynchburg,VA
+279,Augustine,Larmett,Augustine.Larmett@datascience.aot.com,Female,None,Master Degree,$370.33,"$3,716.23",El Paso,TX
+280,Robbyn,Cox,Robbyn.Cox@datascience.aot.com,Female,Silver,High School Diploma,$336.22,"$1,933.08",Memphis,TN
+281,Cameron,Venners,Cameron.Venners@datascience.aot.com,Male,Platnium,High School Diploma,$360.28,$909.51,Indianapolis,IN
+282,Lorenzo,Belward,Lorenzo.Belward@datascience.aot.com,Male,None,High School Diploma,$172.76,"$4,530.81",Tampa,FL
+283,Ernestus,Pepi,Ernestus.Pepi@datascience.aot.com,Male,None,Some College,$341.28,"$3,821.11",Alexandria,VA
+284,Tad,Udell,Tad.Udell@datascience.aot.com,Male,Platnium,Bachelor Degree,$163.34,"$4,945.37",New Orleans,LA
+285,Grenville,Davsley,Grenville.Davsley@datascience.aot.com,Male,None,Bachelor Degree,$230.15,"$2,288.90",El Paso,TX
+286,Faydra,Syder,Faydra.Syder@datascience.aot.com,Female,None,Master Degree,$328.51,"$4,429.81",Everett,WA
+287,Chip,Benoi,Chip.Benoi@datascience.aot.com,Male,Platnium,Bachelor Degree,$224.46,$710.92,Ridgely,MD
+288,Miran,Warham,Miran.Warham@datascience.aot.com,Female,None,PhD,$181.92,"$2,469.80",,
+289,Eleanor,Blowers,Eleanor.Blowers@datascience.aot.com,Female,Silver,Bachelor Degree,$269.68,"$3,712.11",Pittsburgh,PA
+290,Gill,Hainsworth,Gill.Hainsworth@datascience.aot.com,Female,Silver,Bachelor Degree,$230.71,"$3,052.31",,
+291,Reube,Thewles,Reube.Thewles@datascience.aot.com,Male,None,Bachelor Degree,$245.82,"$4,850.33",Milwaukee,WI
+292,Drucill,Spring,Drucill.Spring@datascience.aot.com,Female,Silver,High School Diploma,$225.37,"$1,109.21",Atlanta,GA
+293,Lorna,Ouldred,Lorna.Ouldred@datascience.aot.com,Agender,Silver,Some College,$272.84,"$3,835.50",San Francisco,CA
+294,Renae,Spraberry,Renae.Spraberry@datascience.aot.com,Female,Platnium,Master Degree,$170.34,"$1,900.68",Odessa,TX
+295,Milo,Greed,Milo.Greed@datascience.aot.com,Male,None,PhD,$363.05,"$4,248.87",Fort Myers,FL
+296,Dinny,Culmer,Dinny.Culmer@datascience.aot.com,Female,Gold,Bachelor Degree,$350.99,"$2,591.91",Charleston,WV
+297,Kathryn,Glencros,Kathryn.Glencros@datascience.aot.com,Female,Silver,Some College,$259.74,$430.91,El Paso,TX
+298,Padget,Crackel,Padget.Crackel@datascience.aot.com,Male,Silver,Some College,$233.20,"$3,154.27",Houston,TX
+299,Hillel,Morgon,Hillel.Morgon@datascience.aot.com,Male,None,High School Diploma,$176.22,"$4,063.64",Shreveport,LA
+300,Warren,Wyrill,Warren.Wyrill@datascience.aot.com,Male,None,Master Degree,$311.47,"$2,499.76",Sacramento,CA
+301,Gilda,Woodier,Gilda.Woodier@datascience.aot.com,Female,Silver,High School Diploma,$154.08,"$4,846.85",,
+302,Virgilio,Weatherell,Virgilio.Weatherell@datascience.aot.com,Male,None,,,,Honolulu,HI
+303,Anny,Mordey,Anny.Mordey@datascience.aot.com,Female,Platnium,Master Degree,$322.46,"$1,830.47",Las Vegas,NV
+304,Roberto,Daine,Roberto.Daine@datascience.aot.com,Male,Silver,High School Diploma,$257.08,$708.75,Kansas City,MO
+305,Alexandr,Rahlof,Alexandr.Rahlof@datascience.aot.com,Male,Gold,PhD,$394.20,"$4,264.83",Albany,NY
+306,Cyrille,Beville,Cyrille.Beville@datascience.aot.com,Male,Platnium,High School Diploma,$260.71,"$3,243.11",Brockton,MA
+307,Gigi,Kiehne,Gigi.Kiehne@datascience.aot.com,Female,Platnium,Bachelor Degree,$291.08,$736.31,Seattle,WA
+308,Leah,Aveline,Leah.Aveline@datascience.aot.com,Female,Gold,Bachelor Degree,$313.86,$492.57,Raleigh,NC
+309,Othello,Pretti,Othello.Pretti@datascience.aot.com,Male,None,PhD,$322.27,"$1,634.48",El Paso,TX
+310,Angelika,Maylor,Angelika.Maylor@datascience.aot.com,Female,Gold,PhD,$376.01,"$4,117.61",Naperville,IL
+311,Marrilee,Parke,Marrilee.Parke@datascience.aot.com,Female,Platnium,Master Degree,$382.97,"$1,682.42",Utica,NY
+312,Tore,Dubble,Tore.Dubble@datascience.aot.com,Male,None,Some College,$204.95,"$2,940.96",Louisville,KY
+313,Giulio,Brassill,Giulio.Brassill@datascience.aot.com,Male,Platnium,Master Degree,$252.59,"$1,012.34",Dallas,TX
+314,Arluene,Jahnke,Arluene.Jahnke@datascience.aot.com,Female,Gold,High School Diploma,$363.18,"$1,594.98",New York City,NY
+315,Tadio,Rugge,Tadio.Rugge@datascience.aot.com,Male,None,Some College,$225.17,$841.99,Houston,TX
+316,Delinda,Reaper,Delinda.Reaper@datascience.aot.com,Polygender,Silver,High School Diploma,$237.17,"$4,074.46",New York City,NY
+317,Galven,Gorman,Galven.Gorman@datascience.aot.com,Male,Gold,High School Diploma,$244.39,"$1,953.59",Charlottesville,VA
+318,Ileana,Slimm,Ileana.Slimm@datascience.aot.com,Genderfluid,None,Some College,$301.14,"$3,014.06",Omaha,NE
+319,Stan,Penburton,Stan.Penburton@datascience.aot.com,Male,Gold,Bachelor Degree,$245.17,"$4,539.75",Roanoke,VA
+320,Aldous,Summerrell,Aldous.Summerrell@datascience.aot.com,Male,None,Master Degree,$369.06,"$3,071.19",,
+321,Pierce,Vanns,Pierce.Vanns@datascience.aot.com,Male,Silver,Some College,$300.93,"$1,719.22",Canton,OH
+322,Kingsley,Zamboniari,Kingsley.Zamboniari@datascience.aot.com,Male,Platnium,Bachelor Degree,$156.11,"$2,594.41",Detroit,MI
+323,Irma,Tebbe,Irma.Tebbe@datascience.aot.com,Female,Gold,PhD,$396.90,$491.35,Reading,PA
+324,Kakalina,Luc,Kakalina.Luc@datascience.aot.com,Female,Platnium,Master Degree,$364.77,"$4,119.41",Camden,NJ
+325,Franklin,Cowle,Franklin.Cowle@datascience.aot.com,Male,None,PhD,$299.51,"$4,431.14",Mesa,AZ
+326,Ruthann,Catterson,Ruthann.Catterson@datascience.aot.com,Female,None,Some College,$280.37,"$1,800.72",El Paso,TX
+327,Karine,Delacoste,Karine.Delacoste@datascience.aot.com,Female,Platnium,High School Diploma,$268.19,$515.97,Raleigh,NC
+328,Beverlee,Sturton,Beverlee.Sturton@datascience.aot.com,Female,Silver,Some College,$241.13,"$3,058.60",Lansing,MI
+329,Petr,Rew,Petr.Rew@datascience.aot.com,Male,Gold,Bachelor Degree,$225.29,"$4,039.29",Oklahoma City,OK
+330,Solomon,McCuaig,Solomon.McCuaig@datascience.aot.com,Male,None,PhD,$246.06,"$2,163.68",Mobile,AL
+331,Ripley,Ousby,Ripley.Ousby@datascience.aot.com,Male,Silver,PhD,$352.53,"$2,873.17",Houston,TX
+332,Ryley,Simpole,Ryley.Simpole@datascience.aot.com,Male,Platnium,PhD,$225.15,"$1,951.89",,
+333,Obidiah,Giraudo,Obidiah.Giraudo@datascience.aot.com,Male,Gold,PhD,$237.02,$588.99,,
+334,Jon,Ballay,Jon.Ballay@datascience.aot.com,Male,Silver,High School Diploma,$352.74,"$2,637.34",,
+335,Idalina,Bedminster,Idalina.Bedminster@datascience.aot.com,Female,Gold,Some College,$205.04,"$3,507.07",Jacksonville,FL
+336,Mikel,Gosnall,Mikel.Gosnall@datascience.aot.com,Male,None,,,,Texarkana,TX
+337,Irv,Thowless,Irv.Thowless@datascience.aot.com,Male,None,Master Degree,$285.85,"$3,472.01",Des Moines,IA
+338,Aurore,Ruddom,Aurore.Ruddom@datascience.aot.com,Female,Platnium,Some College,$250.50,"$4,522.26",Bradenton,FL
+339,Raymond,Poynor,Raymond.Poynor@datascience.aot.com,Male,Gold,Master Degree,$278.64,"$1,710.82",Fort Smith,AR
+340,Louella,Tinman,Louella.Tinman@datascience.aot.com,Female,None,Some College,$320.54,"$1,364.24",Clearwater,FL
+341,William,Balfe,William.Balfe@datascience.aot.com,Male,Gold,High School Diploma,$323.20,"$3,092.32",Durham,NC
+342,Aimee,Zack,Aimee.Zack@datascience.aot.com,Female,Platnium,Master Degree,$242.15,"$3,706.32",Fresno,CA
+343,Tobey,Pinson,Tobey.Pinson@datascience.aot.com,Female,None,Some College,$281.29,"$2,944.29",Ocala,FL
+344,Peggi,Stennes,Peggi.Stennes@datascience.aot.com,Non-binary,Platnium,Bachelor Degree,$374.67,"$4,656.55",Wilmington,DE
+345,Maurizio,Medmore,Maurizio.Medmore@datascience.aot.com,Male,None,PhD,$202.05,$743.61,Fort Worth,TX
+346,Aurlie,Semiraz,Aurlie.Semiraz@datascience.aot.com,Female,Gold,Master Degree,$239.59,"$2,812.82",Sioux Falls,SD
+347,Mateo,Towsey,Mateo.Towsey@datascience.aot.com,Male,Platnium,PhD,$331.37,"$3,389.19",Pittsburgh,PA
+348,Rickie,McJury,Rickie.McJury@datascience.aot.com,Female,None,Some College,$250.87,"$4,105.75",San Diego,CA
+349,Melisandra,Jack,Melisandra.Jack@datascience.aot.com,Female,Gold,High School Diploma,$318.60,"$1,105.22",Tulsa,OK
+350,Twila,Krout,Twila.Krout@datascience.aot.com,Female,Gold,High School Diploma,$372.59,"$3,326.22",Cincinnati,OH
+351,Pietro,Brody,Pietro.Brody@datascience.aot.com,Male,Gold,Bachelor Degree,$346.61,"$3,152.56",Idaho Falls,ID
+352,Ondrea,Cramer,Ondrea.Cramer@datascience.aot.com,Female,Gold,High School Diploma,$226.85,"$1,797.08",Baton Rouge,LA
+353,Nahum,Pree,Nahum.Pree@datascience.aot.com,Male,Silver,Some College,$195.69,"$2,389.07",Baltimore,MD
+354,Arlie,Leyson,Arlie.Leyson@datascience.aot.com,Female,Gold,Master Degree,$239.27,"$1,898.18",Milwaukee,WI
+355,Lorene,Standing,Lorene.Standing@datascience.aot.com,Female,None,High School Diploma,$321.40,"$1,645.72",Orange,CA
+356,Prudy,Offiler,Prudy.Offiler@datascience.aot.com,Female,None,Some College,$387.12,"$3,157.19",New York City,NY
+357,Phelia,Crippill,Phelia.Crippill@datascience.aot.com,Female,None,High School Diploma,$310.69,"$3,735.96",Denver,CO
+358,Stevy,Petr,Stevy.Petr@datascience.aot.com,Male,Silver,Some College,$393.65,"$4,748.56",Omaha,NE
+359,Quintilla,Buff,Quintilla.Buff@datascience.aot.com,Female,Silver,High School Diploma,$267.23,"$3,757.38",Glendale,AZ
+360,Van,Slessor,Van.Slessor@datascience.aot.com,Female,None,PhD,$334.08,"$2,022.55",,
+361,Mano,Gosnold,Mano.Gosnold@datascience.aot.com,Male,Platnium,Bachelor Degree,$300.53,"$1,261.00",Topeka,KS
+362,Anatol,Winfred,Anatol.Winfred@datascience.aot.com,Male,Silver,Bachelor Degree,$195.21,"$4,661.97",Lubbock,TX
+363,Hailee,Brounsell,Hailee.Brounsell@datascience.aot.com,Female,Platnium,Bachelor Degree,$220.94,"$3,125.65",Vancouver,WA
+364,Selie,Plaid,Selie.Plaid@datascience.aot.com,Female,Platnium,High School Diploma,$360.50,"$3,175.40",,
+365,Oona,Southeran,Oona.Southeran@datascience.aot.com,Female,None,High School Diploma,$157.14,"$1,990.77",,
+366,Kylie,Thorsen,Kylie.Thorsen@datascience.aot.com,Male,None,Bachelor Degree,$229.38,"$2,497.46",,
+367,Demetrius,Wilsdon,Demetrius.Wilsdon@datascience.aot.com,Polygender,Silver,High School Diploma,$318.72,"$1,698.28",Birmingham,AL
+368,Del,Normanville,Del.Normanville@datascience.aot.com,Male,Platnium,High School Diploma,$231.59,"$2,061.34",Orlando,FL
+369,Ferrell,Simm,Ferrell.Simm@datascience.aot.com,Male,Silver,High School Diploma,$295.74,"$3,242.14",,
+370,Carline,Packman,Carline.Packman@datascience.aot.com,Female,None,High School Diploma,$271.28,"$1,866.55",Kansas City,MO
+371,Rogers,Greep,Rogers.Greep@datascience.aot.com,Male,Silver,Master Degree,$397.60,"$1,898.74",Van Nuys,CA
+372,Irvine,Silversmid,Irvine.Silversmid@datascience.aot.com,Male,None,,,,Little Rock,AR
+373,Elbert,Lanphier,Elbert.Lanphier@datascience.aot.com,Male,Gold,Master Degree,$295.40,"$4,091.25",Fort Lauderdale,FL
+374,Angelina,Ducker,Angelina.Ducker@datascience.aot.com,Female,None,PhD,$335.35,"$3,368.63",Aurora,CO
+375,Devland,Kersey,Devland.Kersey@datascience.aot.com,Male,Platnium,Bachelor Degree,$162.20,"$4,661.41",Oklahoma City,OK
+376,Joelynn,Jestico,Joelynn.Jestico@datascience.aot.com,Female,Gold,High School Diploma,$236.85,"$1,433.27",Aiken,SC
+377,Hermie,Harcase,Hermie.Harcase@datascience.aot.com,Male,Silver,Master Degree,$383.40,"$2,801.09",Vancouver,WA
+378,Bradan,Barttrum,Bradan.Barttrum@datascience.aot.com,Male,Silver,Bachelor Degree,$209.42,"$2,964.33",Hollywood,FL
+379,Randy,Harden,Randy.Harden@datascience.aot.com,Male,Silver,Some College,$211.10,"$1,116.02",Jacksonville,FL
+380,Renata,Pagram,Renata.Pagram@datascience.aot.com,Female,Gold,Master Degree,$279.51,"$3,522.20",Edmond,OK
+381,Aveline,Pauly,Aveline.Pauly@datascience.aot.com,Female,None,PhD,$192.86,"$1,898.84",Brockton,MA
+382,Fabiano,Handrok,Fabiano.Handrok@datascience.aot.com,Male,Silver,Bachelor Degree,$384.80,$648.34,,
+383,Liesa,Chene,Liesa.Chene@datascience.aot.com,Female,Platnium,High School Diploma,$255.26,"$4,296.54",Philadelphia,PA
+384,Alvie,Stanhope,Alvie.Stanhope@datascience.aot.com,Male,None,Master Degree,$187.62,"$4,545.66",,
+385,Biddy,Gleasane,Biddy.Gleasane@datascience.aot.com,Agender,None,Some College,$281.08,"$3,439.76",White Plains,NY
+386,Giustino,Dinsey,Giustino.Dinsey@datascience.aot.com,Male,None,Master Degree,$302.73,"$2,744.81",El Paso,TX
+387,Peggie,Camilio,Peggie.Camilio@datascience.aot.com,Female,Platnium,Master Degree,$306.00,"$3,987.76",New York City,NY
+388,Rodney,Sillis,Rodney.Sillis@datascience.aot.com,Male,Platnium,High School Diploma,$243.00,"$4,043.02",Newport News,VA
+389,Malcolm,Pritchitt,Malcolm.Pritchitt@datascience.aot.com,Male,None,High School Diploma,$316.04,"$4,228.22",Tulsa,OK
+390,Gayler,Stickney,Gayler.Stickney@datascience.aot.com,Male,None,PhD,$288.28,"$1,836.21",Flushing,NY
+391,Cyndia,Semour,Cyndia.Semour@datascience.aot.com,Female,None,PhD,$369.39,"$3,528.71",Rockford,IL
+392,Derk,Sperrett,Derk.Sperrett@datascience.aot.com,Male,None,Master Degree,$284.47,"$3,315.92",Stockton,CA
+393,Jared,Phillput,Jared.Phillput@datascience.aot.com,Male,Gold,Master Degree,$302.20,"$3,158.72",Las Vegas,NV
+394,Israel,Earpe,Israel.Earpe@datascience.aot.com,Male,None,Master Degree,$220.00,"$1,821.37",Birmingham,AL
+395,Kelcy,McGeechan,Kelcy.McGeechan@datascience.aot.com,Female,Gold,Bachelor Degree,$243.90,"$2,362.27",,
+396,Morgan,Jeanneau,Morgan.Jeanneau@datascience.aot.com,Female,Platnium,PhD,$222.33,"$1,037.40",Dallas,TX
+397,Myrtice,McClintock,Myrtice.McClintock@datascience.aot.com,Female,None,High School Diploma,$203.03,"$3,505.27",Las Vegas,NV
+398,Pall,Bartalin,Pall.Bartalin@datascience.aot.com,Male,Gold,Master Degree,$253.18,"$4,128.44",,
+399,Ira,Elbourne,Ira.Elbourne@datascience.aot.com,Male,Gold,Some College,$398.56,"$3,670.40",Odessa,TX
+400,Selestina,Cowen,Selestina.Cowen@datascience.aot.com,Female,Gold,Some College,$389.13,"$3,935.00",Waltham,MA
+401,Marcile,Birtchnell,Marcile.Birtchnell@datascience.aot.com,Female,Gold,Bachelor Degree,$297.07,"$1,964.80",New York City,NY
+402,Jory,Bartholomieu,Jory.Bartholomieu@datascience.aot.com,Male,None,High School Diploma,$276.12,"$1,021.40",Stockton,CA
+403,Buffy,Suarez,Buffy.Suarez@datascience.aot.com,Female,None,PhD,$343.00,"$4,181.49",Tulsa,OK
+404,August,Summerlie,August.Summerlie@datascience.aot.com,Male,Gold,Some College,$387.40,"$2,205.61",,
+405,Matthus,Haselwood,Matthus.Haselwood@datascience.aot.com,Male,Platnium,Bachelor Degree,$159.55,"$4,603.24",Mesa,AZ
+406,Madison,Anfosso,Madison.Anfosso@datascience.aot.com,Male,Gold,High School Diploma,$304.48,"$1,510.19",Atlanta,GA
+407,Kaine,Leyban,Kaine.Leyban@datascience.aot.com,Male,Platnium,Bachelor Degree,$362.60,"$4,460.96",Columbia,SC
+408,Marlena,Doumenc,Marlena.Doumenc@datascience.aot.com,Female,Platnium,High School Diploma,$314.32,"$2,140.15",Vero Beach,FL
+409,Carmina,Hyman,Carmina.Hyman@datascience.aot.com,Female,Silver,High School Diploma,$301.62,"$3,235.39",Birmingham,AL
+410,Bjorn,Sharram,Bjorn.Sharram@datascience.aot.com,Male,Platnium,High School Diploma,$212.84,"$1,294.56",Petaluma,CA
+411,Foss,Daybell,Foss.Daybell@datascience.aot.com,Male,Silver,Bachelor Degree,$325.50,"$2,038.05",Pasadena,CA
+412,Hayward,Sarten,Hayward.Sarten@datascience.aot.com,Male,Platnium,Bachelor Degree,$252.08,"$4,053.23",Gainesville,GA
+413,Gavra,Sturridge,Gavra.Sturridge@datascience.aot.com,Female,Platnium,Master Degree,$341.74,"$3,388.10",Milwaukee,WI
+414,Thatcher,Scogin,Thatcher.Scogin@datascience.aot.com,Male,None,Bachelor Degree,$158.61,"$3,871.31",Fort Worth,TX
+415,Darline,Gadsden,Darline.Gadsden@datascience.aot.com,Female,Silver,Bachelor Degree,$160.18,$549.24,Portland,OR
+416,Audi,Olyfant,Audi.Olyfant@datascience.aot.com,Female,Silver,High School Diploma,$381.48,"$1,751.54",Miami,FL
+417,Barth,Ellingham,Barth.Ellingham@datascience.aot.com,Male,None,High School Diploma,$309.62,"$2,564.83",Boston,MA
+418,Eva,Beckers,Eva.Beckers@datascience.aot.com,Female,Silver,High School Diploma,$181.50,"$1,526.22",Pittsburgh,PA
+419,Rica,Vest,Rica.Vest@datascience.aot.com,Female,Gold,Master Degree,$170.00,"$2,983.36",Chicago,IL
+420,Candy,Arnoud,Candy.Arnoud@datascience.aot.com,Female,Platnium,Bachelor Degree,$209.21,"$4,333.48",Shreveport,LA
+421,Allan,Bleas,Allan.Bleas@datascience.aot.com,Male,Gold,Some College,$238.93,$609.04,Macon,GA
+422,Kessiah,Delgado,Kessiah.Delgado@datascience.aot.com,Female,None,Some College,$270.57,$792.18,Atlanta,GA
+423,Shel,Bortoli,Shel.Bortoli@datascience.aot.com,Female,Platnium,High School Diploma,$332.85,"$3,985.33",Jamaica,NY
+424,Enriqueta,Rowth,Enriqueta.Rowth@datascience.aot.com,Female,Platnium,High School Diploma,$250.63,"$3,330.97",Houston,TX
+425,Roselia,Crannage,Roselia.Crannage@datascience.aot.com,Female,Platnium,High School Diploma,$227.34,"$2,012.09",Winston Salem,NC
+426,Sharl,Plastow,Sharl.Plastow@datascience.aot.com,Female,Gold,Bachelor Degree,$239.23,"$1,251.43",Mobile,AL
+427,Christoffer,Laimable,Christoffer.Laimable@datascience.aot.com,Male,None,Bachelor Degree,$239.38,"$2,919.68",Saint Louis,MO
+428,Raddy,Durrell,Raddy.Durrell@datascience.aot.com,Bigender,Platnium,High School Diploma,$174.52,$466.32,,
+429,Consolata,Freckleton,Consolata.Freckleton@datascience.aot.com,Female,Silver,Master Degree,$170.26,"$4,590.87",Charleston,WV
+430,Horace,Swalough,Horace.Swalough@datascience.aot.com,Male,Platnium,High School Diploma,$373.29,"$2,229.92",Washington,DC
+431,Udale,Bower,Udale.Bower@datascience.aot.com,Male,Silver,PhD,$207.49,"$2,102.36",Oklahoma City,OK
+432,Marybeth,Pim,Marybeth.Pim@datascience.aot.com,Female,Silver,Bachelor Degree,$369.32,"$3,779.51",,
+433,Richy,Lago,Richy.Lago@datascience.aot.com,Male,Gold,PhD,$231.29,"$2,801.79",Bonita Springs,FL
+434,Raymund,Ockleshaw,Raymund.Ockleshaw@datascience.aot.com,Bigender,Gold,Some College,$381.72,"$1,054.51",,
+435,Allie,Crasswell,Allie.Crasswell@datascience.aot.com,Male,Platnium,Bachelor Degree,$202.87,"$4,660.82",Roanoke,VA
+436,Jennilee,Wenzel,Jennilee.Wenzel@datascience.aot.com,Female,Platnium,Some College,$392.07,"$1,891.69",Lakeland,FL
+437,Jeffy,Buggy,Jeffy.Buggy@datascience.aot.com,Male,Platnium,Master Degree,$195.41,"$2,094.27",El Paso,TX
+438,Lita,Sygroves,Lita.Sygroves@datascience.aot.com,Female,Platnium,Bachelor Degree,$161.43,"$1,479.11",Greensboro,NC
+439,Maje,Harrison,Maje.Harrison@datascience.aot.com,Male,None,Some College,$242.83,"$1,325.39",,
+440,Rana,Moncaster,Rana.Moncaster@datascience.aot.com,Female,Silver,Master Degree,$228.30,"$2,501.51",,
+441,Datha,Chazelle,Datha.Chazelle@datascience.aot.com,Female,Gold,High School Diploma,$350.57,"$4,948.64",Miami,FL
+442,Erika,Bingell,Erika.Bingell@datascience.aot.com,Female,Gold,PhD,$244.97,"$1,045.46",Tampa,FL
+443,Lee,Lydford,Lee.Lydford@datascience.aot.com,Male,Platnium,Master Degree,$333.18,"$2,517.47",Mobile,AL
+444,Dolph,Dimitresco,Dolph.Dimitresco@datascience.aot.com,Male,None,Some College,$179.56,"$1,462.17",Jacksonville,FL
+445,Deirdre,Bourdon,Deirdre.Bourdon@datascience.aot.com,Female,None,Master Degree,$226.73,"$2,270.82",,
+446,Kelcey,Bennell,Kelcey.Bennell@datascience.aot.com,Female,None,Bachelor Degree,$271.22,"$4,790.87",Dallas,TX
+447,Shep,Tenpenny,Shep.Tenpenny@datascience.aot.com,Male,Gold,Master Degree,$314.70,"$4,247.75",Houston,TX
+448,Brittan,Bramsen,Brittan.Bramsen@datascience.aot.com,Female,Gold,Some College,$334.02,"$4,157.14",Brooklyn,NY
+449,Ingaborg,Praten,Ingaborg.Praten@datascience.aot.com,Female,Gold,Master Degree,$288.86,"$1,668.27",Lincoln,NE
+450,Derward,Paolucci,Derward.Paolucci@datascience.aot.com,Male,Silver,Some College,$225.40,"$4,038.60",Baltimore,MD
+451,Vince,Brodnecke,Vince.Brodnecke@datascience.aot.com,Male,Gold,PhD,$268.78,"$1,382.82",Des Moines,IA
+452,Correy,Zmitrichenko,Correy.Zmitrichenko@datascience.aot.com,Agender,Platnium,Master Degree,$264.61,"$1,945.89",Bronx,NY
+453,Niki,Derx,Niki.Derx@datascience.aot.com,Male,Silver,PhD,$220.04,"$1,460.24",Knoxville,TN
+454,Storm,Etherson,Storm.Etherson@datascience.aot.com,Female,Gold,Master Degree,$374.84,$572.73,Amarillo,TX
+455,Nevin,Iiannone,Nevin.Iiannone@datascience.aot.com,Male,Silver,PhD,$277.49,$774.26,Salem,OR
+456,Belia,Qualtro,Belia.Qualtro@datascience.aot.com,Female,Gold,PhD,$156.10,"$2,947.74",Augusta,GA
+457,Brooke,McAvaddy,Brooke.McAvaddy@datascience.aot.com,Female,Gold,Bachelor Degree,$159.12,"$3,155.36",Los Angeles,CA
+458,Rodd,Vedeshkin,Rodd.Vedeshkin@datascience.aot.com,Male,Gold,PhD,$312.80,"$2,127.56",Alexandria,VA
+459,Annissa,Metcalf,Annissa.Metcalf@datascience.aot.com,Female,Platnium,Some College,$316.01,"$2,876.25",Irvine,CA
+460,Christel,Hotson,Christel.Hotson@datascience.aot.com,Female,None,Bachelor Degree,$205.57,"$3,183.80",Tucson,AZ
+461,Brunhilda,Bolland,Brunhilda.Bolland@datascience.aot.com,Female,None,PhD,$299.40,"$2,444.56",Burbank,CA
+462,Kirk,Guerro,Kirk.Guerro@datascience.aot.com,Male,Gold,PhD,$185.74,"$1,489.21",Indianapolis,IN
+463,Manolo,Mussolini,Manolo.Mussolini@datascience.aot.com,Male,Platnium,Some College,$370.19,"$1,013.68",Omaha,NE
+464,Burl,Ducarne,Burl.Ducarne@datascience.aot.com,Male,Platnium,Bachelor Degree,$355.24,"$2,638.59",Beaufort,SC
+465,Saundra,MacCleay,Saundra.MacCleay@datascience.aot.com,Male,Platnium,Bachelor Degree,$384.45,"$4,362.79",Herndon,VA
+466,Giulio,Morphet,Giulio.Morphet@datascience.aot.com,Male,Gold,,,,Phoenix,AZ
+467,Inigo,Garnett,Inigo.Garnett@datascience.aot.com,Male,None,PhD,$183.51,"$1,556.64",,
+468,Uri,Oxterby,Uri.Oxterby@datascience.aot.com,Male,Platnium,Some College,$358.20,"$3,431.34",Albany,GA
+469,Ario,Ruck,Ario.Ruck@datascience.aot.com,Genderqueer,None,PhD,$329.88,"$1,585.77",Henderson,NV
+470,Raychel,Talby,Raychel.Talby@datascience.aot.com,Female,Silver,Master Degree,$278.29,$672.16,Bridgeport,CT
+471,Arlee,Ansill,Arlee.Ansill@datascience.aot.com,Female,Platnium,Bachelor Degree,$289.80,"$4,295.89",,
+472,Crysta,Vignaux,Crysta.Vignaux@datascience.aot.com,Female,None,Some College,$360.46,$889.66,Fort Lauderdale,FL
+473,Marlon,Pardie,Marlon.Pardie@datascience.aot.com,Male,Silver,Master Degree,$259.04,"$3,259.72",Houston,TX
+474,Juana,Airs,Juana.Airs@datascience.aot.com,Female,Platnium,Some College,$347.14,"$3,827.31",Sacramento,CA
+475,Onfroi,Belson,Onfroi.Belson@datascience.aot.com,Male,Platnium,Bachelor Degree,$190.65,"$1,470.01",Canton,OH
+476,Dilan,Trevain,Dilan.Trevain@datascience.aot.com,Male,Silver,PhD,$230.74,"$1,782.30",Bonita Springs,FL
+477,Joyce,Sigfrid,Joyce.Sigfrid@datascience.aot.com,Female,None,Some College,$321.44,"$3,043.88",,
+478,Fidole,Beauchop,Fidole.Beauchop@datascience.aot.com,Male,Gold,Some College,$307.09,"$1,360.31",Tampa,FL
+479,Leshia,Manley,Leshia.Manley@datascience.aot.com,Female,Silver,PhD,$384.04,"$3,997.02",Birmingham,AL
+480,Wilhelmina,Christopherson,Wilhelmina.Christopherson@datascience.aot.com,Female,Gold,,,,Saint Petersburg,FL
+481,Rooney,Gianinotti,Rooney.Gianinotti@datascience.aot.com,Male,Gold,High School Diploma,$361.85,"$1,790.71",Berkeley,CA
+482,Nolana,Shew,Nolana.Shew@datascience.aot.com,Female,Gold,High School Diploma,$285.68,"$2,295.24",Portland,OR
+483,Trent,Saxelby,Trent.Saxelby@datascience.aot.com,Agender,None,Master Degree,$187.32,"$3,846.98",Garden Grove,CA
+484,Byrle,McKilroe,Byrle.McKilroe@datascience.aot.com,Male,Gold,Some College,$247.97,"$4,728.94",Fairbanks,AK
+485,Leo,Wiggett,Leo.Wiggett@datascience.aot.com,Male,Platnium,High School Diploma,$371.07,"$3,184.90",Memphis,TN
+486,Viviana,Westcar,Viviana.Westcar@datascience.aot.com,Female,Silver,Bachelor Degree,$310.33,"$2,564.22",Chesapeake,VA
+487,Gannie,Pierri,Gannie.Pierri@datascience.aot.com,Male,Platnium,High School Diploma,$191.77,"$4,482.88",Yonkers,NY
+488,Zabrina,Oakly,Zabrina.Oakly@datascience.aot.com,Female,None,High School Diploma,$223.65,"$1,082.83",,
+489,Winnah,Burgher,Winnah.Burgher@datascience.aot.com,Female,Silver,High School Diploma,$290.12,"$1,512.31",Topeka,KS
+490,Mildred,Di Biasi,Mildred.Di Biasi@datascience.aot.com,Female,Gold,Bachelor Degree,$378.36,"$2,557.67",Dallas,TX
+491,Caldwell,Stuchbery,Caldwell.Stuchbery@datascience.aot.com,Male,Platnium,Some College,$350.64,$826.68,Tyler,TX
+492,Aeriel,Dormand,Aeriel.Dormand@datascience.aot.com,Female,None,,,,Jersey City,NJ
+493,Erasmus,Cufflin,Erasmus.Cufflin@datascience.aot.com,Male,Silver,Some College,$283.17,"$2,909.35",Vancouver,WA
+494,Kathe,Botly,Kathe.Botly@datascience.aot.com,Bigender,Platnium,Some College,$330.06,"$2,907.61",Scranton,PA
+495,Shellysheldon,Andrag,Shellysheldon.Andrag@datascience.aot.com,Male,Silver,High School Diploma,$353.29,"$2,944.33",Santa Barbara,CA
+496,Bernie,Bradlaugh,Bernie.Bradlaugh@datascience.aot.com,Male,Platnium,PhD,$277.05,"$1,757.83",,
+497,Lucinda,McVitie,Lucinda.McVitie@datascience.aot.com,Female,Gold,High School Diploma,$171.73,"$2,009.64",Winston Salem,NC
+498,Taber,Bielfeld,Taber.Bielfeld@datascience.aot.com,Male,Platnium,PhD,$307.92,"$1,885.47",Killeen,TX
+499,Rosette,Deuss,Rosette.Deuss@datascience.aot.com,Female,Silver,Master Degree,$245.60,$523.71,Norfolk,VA
+500,Robbie,Agneau,Robbie.Agneau@datascience.aot.com,Female,Silver,PhD,$396.44,$416.53,Knoxville,TN
+501,Lindon,Burnand,Lindon.Burnand@datascience.aot.com,Male,Platnium,Bachelor Degree,$300.07,"$3,549.59",Shawnee Mission,KS
+502,Hendrik,Eaken,Hendrik.Eaken@datascience.aot.com,Male,None,PhD,$308.49,"$4,580.50",Warren,OH
+503,Robinia,Fetherstan,Robinia.Fetherstan@datascience.aot.com,Agender,Silver,Master Degree,$198.89,"$4,742.84",,
+504,Manfred,Sherar,Manfred.Sherar@datascience.aot.com,Male,Gold,High School Diploma,$234.88,$863.63,Miami,FL
+505,Sollie,Lahiff,Sollie.Lahiff@datascience.aot.com,Male,Gold,Bachelor Degree,$375.50,"$1,052.38",,
+506,Kelcie,Delete,Kelcie.Delete@datascience.aot.com,Female,Gold,High School Diploma,$322.94,"$2,860.92",Pensacola,FL
+507,Stormy,Huston,Stormy.Huston@datascience.aot.com,Female,None,Bachelor Degree,$329.05,"$1,043.42",,
+508,Constantia,MacAindreis,Constantia.MacAindreis@datascience.aot.com,Genderfluid,Platnium,Some College,$194.59,"$2,013.34",Anaheim,CA
+509,Candie,Water,Candie.Water@datascience.aot.com,Female,Gold,Master Degree,$216.75,$691.71,Dallas,TX
+510,Eustace,Merrywether,Eustace.Merrywether@datascience.aot.com,Male,None,Master Degree,$224.77,"$3,553.42",Pasadena,CA
+511,Hartwell,Artindale,Hartwell.Artindale@datascience.aot.com,Male,Silver,Bachelor Degree,$357.49,"$1,894.05",Panama City,FL
+512,Thayne,Cussins,Thayne.Cussins@datascience.aot.com,Male,Platnium,Some College,$151.16,$526.91,Brockton,MA
+513,Gwendolen,Rhymer,Gwendolen.Rhymer@datascience.aot.com,Female,Platnium,Some College,$221.26,"$4,381.84",Chicago,IL
+514,Tybalt,Van der Kruijs,Tybalt.Van der Kruijs@datascience.aot.com,Male,Silver,Master Degree,$300.13,"$2,851.55",Charleston,WV
+515,Madison,Cram,Madison.Cram@datascience.aot.com,Male,Gold,Some College,$364.39,"$4,470.85",Duluth,MN
+516,Ariela,Rosenblath,Ariela.Rosenblath@datascience.aot.com,Female,Silver,Bachelor Degree,$232.02,"$1,172.01",Tucson,AZ
+517,Todd,Blaschke,Todd.Blaschke@datascience.aot.com,Male,Silver,Bachelor Degree,$222.53,"$2,236.03",Sioux Falls,SD
+518,Mickie,Caudrelier,Mickie.Caudrelier@datascience.aot.com,Female,Gold,High School Diploma,$305.24,"$3,244.01",Marietta,GA
+519,Harvey,Rignall,Harvey.Rignall@datascience.aot.com,Male,Platnium,Bachelor Degree,$261.12,"$2,557.44",Houston,TX
+520,Mahmud,Rosenfrucht,Mahmud.Rosenfrucht@datascience.aot.com,Male,Gold,Some College,$304.66,"$3,362.26",Wichita Falls,TX
+521,Daryl,Sedman,Daryl.Sedman@datascience.aot.com,Male,Silver,Bachelor Degree,$181.48,$900.70,Atlanta,GA
+522,Kathe,Pearse,Kathe.Pearse@datascience.aot.com,Female,None,High School Diploma,$330.32,"$4,998.17",Long Beach,CA
+523,Noble,Rotter,Noble.Rotter@datascience.aot.com,Agender,Silver,Some College,$249.53,"$3,202.57",San Jose,CA
+524,Corri,Allchorne,Corri.Allchorne@datascience.aot.com,Female,Platnium,Some College,$324.22,"$1,969.17",Hattiesburg,MS
+525,Bessy,Madgwick,Bessy.Madgwick@datascience.aot.com,Female,Gold,Bachelor Degree,$150.86,"$4,594.77",Washington,DC
+526,Reamonn,Humphries,Reamonn.Humphries@datascience.aot.com,Male,Platnium,Master Degree,$350.84,$597.60,Davenport,IA
+527,Clio,Meake,Clio.Meake@datascience.aot.com,Female,Platnium,Some College,$342.64,"$1,314.47",Chicago,IL
+528,Lauritz,Angrave,Lauritz.Angrave@datascience.aot.com,Male,Platnium,High School Diploma,$353.39,"$3,869.44",Charleston,SC
+529,Patten,Fumagall,Patten.Fumagall@datascience.aot.com,Male,Platnium,PhD,$394.74,"$1,649.59",Austin,TX
+530,Dalton,Overington,Dalton.Overington@datascience.aot.com,Polygender,Silver,Bachelor Degree,$236.27,"$3,773.23",Sacramento,CA
+531,Ashley,Yakutin,Ashley.Yakutin@datascience.aot.com,Male,None,Master Degree,$241.64,"$2,181.09",Bradenton,FL
+532,Kenny,Culy,Kenny.Culy@datascience.aot.com,Male,Silver,High School Diploma,$230.68,"$1,727.03",Dallas,TX
+533,Gratiana,Salmen,Gratiana.Salmen@datascience.aot.com,Female,Silver,Some College,$342.56,$548.68,Everett,WA
+534,Peri,Stormes,Peri.Stormes@datascience.aot.com,Female,Silver,Master Degree,$257.73,"$3,801.98",Peoria,AZ
+535,Joeann,Iowarch,Joeann.Iowarch@datascience.aot.com,Female,None,High School Diploma,$319.85,"$3,582.95",Portsmouth,NH
+536,Jeanna,Dearle-Palser,Jeanna.Dearle-Palser@datascience.aot.com,Female,None,Bachelor Degree,$330.23,"$4,449.55",Phoenix,AZ
+537,Willamina,Whorlow,Willamina.Whorlow@datascience.aot.com,Female,None,Bachelor Degree,$241.58,"$4,904.41",Portsmouth,NH
+538,Zack,Doche,Zack.Doche@datascience.aot.com,Male,Platnium,PhD,$153.71,$507.95,,
+539,Tomasine,Dibble,Tomasine.Dibble@datascience.aot.com,Female,None,High School Diploma,$314.25,"$2,873.64",Durham,NC
+540,Monty,Ballintyne,Monty.Ballintyne@datascience.aot.com,Male,Gold,High School Diploma,$280.88,"$2,859.13",Charlotte,NC
+541,Eddie,Vuitte,Eddie.Vuitte@datascience.aot.com,Female,Platnium,Some College,$381.78,$721.78,Vienna,VA
+542,Jessalyn,Edden,Jessalyn.Edden@datascience.aot.com,Genderfluid,Platnium,PhD,$159.07,"$1,639.31",Richmond,VA
+543,Steffen,Bilt,Steffen.Bilt@datascience.aot.com,Male,Silver,High School Diploma,$374.45,"$1,743.81",Louisville,KY
+544,Janeta,Hazeldean,Janeta.Hazeldean@datascience.aot.com,Female,Gold,High School Diploma,$385.18,"$1,508.73",Durham,NC
+545,Theobald,Garlant,Theobald.Garlant@datascience.aot.com,Male,Gold,High School Diploma,$257.50,"$2,198.04",Savannah,GA
+546,Cherye,Dutch,Cherye.Dutch@datascience.aot.com,Female,None,High School Diploma,$301.57,"$3,346.73",Jacksonville,FL
+547,Wye,Flecknoe,Wye.Flecknoe@datascience.aot.com,Male,Platnium,Master Degree,$257.53,"$4,735.64",North Hollywood,CA
+548,Herold,Stuck,Herold.Stuck@datascience.aot.com,Male,None,PhD,$260.29,$796.50,Evansville,IN
+549,Skye,La Grange,Skye.La Grange@datascience.aot.com,Male,Gold,PhD,$289.49,"$2,815.59",Terre Haute,IN
+550,Marylin,Mertel,Marylin.Mertel@datascience.aot.com,Female,Platnium,Some College,$327.05,"$3,858.52",Columbia,MO
+551,Emma,Standon,Emma.Standon@datascience.aot.com,Female,Gold,PhD,$230.91,"$3,169.63",Vienna,VA
+552,Lyell,Paule,Lyell.Paule@datascience.aot.com,Genderqueer,Silver,Some College,$334.24,"$2,779.11",Fort Lauderdale,FL
+553,Helaina,Prinn,Helaina.Prinn@datascience.aot.com,Polygender,Gold,Some College,$187.10,"$1,198.90",Baton Rouge,LA
+554,Larine,Richel,Larine.Richel@datascience.aot.com,Female,None,PhD,$323.76,"$2,418.84",Denver,CO
+555,Loutitia,Breinlein,Loutitia.Breinlein@datascience.aot.com,Bigender,Gold,Master Degree,$262.93,"$3,044.05",Colorado Springs,CO
+556,Madison,Slemming,Madison.Slemming@datascience.aot.com,Male,Silver,Some College,$152.63,"$2,256.13",,
+557,Mozelle,Gerasch,Mozelle.Gerasch@datascience.aot.com,Female,Gold,PhD,$207.77,"$2,706.99",Brooklyn,NY
+558,Burl,Sadat,Burl.Sadat@datascience.aot.com,Male,Platnium,Master Degree,$327.44,"$3,899.40",Chicago,IL
+559,Calvin,Pindell,Calvin.Pindell@datascience.aot.com,Male,Gold,Some College,$164.67,$936.83,Fargo,ND
+560,Tad,Benford,Tad.Benford@datascience.aot.com,Male,None,Some College,$367.81,"$3,273.52",Atlanta,GA
+561,Gerry,Simkin,Gerry.Simkin@datascience.aot.com,Genderfluid,Silver,Master Degree,$376.32,"$3,893.80",Petaluma,CA
+562,Brigit,Kerss,Brigit.Kerss@datascience.aot.com,Female,Silver,PhD,$352.53,"$4,277.28",Sacramento,CA
+563,Kathe,Trafford,Kathe.Trafford@datascience.aot.com,Female,Platnium,PhD,$237.14,"$2,561.68",,
+564,Kattie,Bodsworth,Kattie.Bodsworth@datascience.aot.com,Female,Platnium,Master Degree,$374.75,"$3,293.28",Salt Lake City,UT
+565,Mallissa,Longland,Mallissa.Longland@datascience.aot.com,Female,Silver,High School Diploma,$308.71,$635.46,Lakeland,FL
+566,Wallis,Jako,Wallis.Jako@datascience.aot.com,Female,Silver,Bachelor Degree,$209.61,"$2,967.29",Irvine,CA
+567,Ozzy,Cuttles,Ozzy.Cuttles@datascience.aot.com,Male,Silver,High School Diploma,$153.41,"$3,533.23",Arvada,CO
+568,Chicky,Enrdigo,Chicky.Enrdigo@datascience.aot.com,Bigender,Silver,Bachelor Degree,$351.58,"$4,633.16",Miami,FL
+569,Briney,Gallymore,Briney.Gallymore@datascience.aot.com,Female,Gold,Master Degree,$285.58,"$4,583.82",Berkeley,CA
+570,Carlye,Roundtree,Carlye.Roundtree@datascience.aot.com,Female,Silver,Some College,$315.95,"$1,256.43",Newark,NJ
+571,Bellina,Cronkshaw,Bellina.Cronkshaw@datascience.aot.com,Female,Silver,Master Degree,$280.66,"$2,908.23",Phoenix,AZ
+572,Chiquia,Rattenberie,Chiquia.Rattenberie@datascience.aot.com,Female,Platnium,Some College,$273.65,"$1,549.63",Cincinnati,OH
+573,Whitby,Merriment,Whitby.Merriment@datascience.aot.com,Male,Gold,High School Diploma,$205.24,"$3,787.67",Saint Louis,MO
+574,Juanita,Nowick,Juanita.Nowick@datascience.aot.com,Non-binary,Platnium,Some College,$389.82,"$4,287.48",Naples,FL
+575,Neron,Skydall,Neron.Skydall@datascience.aot.com,Male,None,High School Diploma,$281.75,"$1,033.20",,
+576,Myranda,Doggrell,Myranda.Doggrell@datascience.aot.com,Female,Gold,High School Diploma,$308.96,"$2,486.87",Austin,TX
+577,Constancy,Stout,Constancy.Stout@datascience.aot.com,Agender,Silver,High School Diploma,$240.69,"$2,218.59",,
+578,Vilhelmina,Wibrow,Vilhelmina.Wibrow@datascience.aot.com,Female,None,Some College,$301.57,"$4,917.41",Washington,DC
+579,Venita,Hanselmann,Venita.Hanselmann@datascience.aot.com,Non-binary,Silver,High School Diploma,$389.31,"$3,306.03",Mesa,AZ
+580,Avivah,Lukas,Avivah.Lukas@datascience.aot.com,Female,None,PhD,$219.42,"$1,626.65",Killeen,TX
+581,Clio,Rilings,Clio.Rilings@datascience.aot.com,Female,None,Some College,$182.06,"$1,564.38",,
+582,Eloisa,Kirlin,Eloisa.Kirlin@datascience.aot.com,Female,Silver,Some College,$381.23,"$3,912.20",New Haven,CT
+583,Catina,Pentlow,Catina.Pentlow@datascience.aot.com,Female,Gold,Some College,$313.72,"$3,574.91",Minneapolis,MN
+584,Abdel,McCaw,Abdel.McCaw@datascience.aot.com,Male,Platnium,Some College,$297.23,"$4,919.85",Corona,CA
+585,Antony,De Biasi,Antony.De Biasi@datascience.aot.com,Male,Silver,,,,Denver,CO
+586,Oralle,Smail,Oralle.Smail@datascience.aot.com,Female,Platnium,PhD,$398.29,"$4,274.26",Oklahoma City,OK
+587,Franzen,Jindrak,Franzen.Jindrak@datascience.aot.com,Male,Gold,Some College,$292.96,"$3,270.58",Chicago,IL
+588,Berty,Hollingsbee,Berty.Hollingsbee@datascience.aot.com,Male,Silver,High School Diploma,$231.83,"$4,668.68",Bethlehem,PA
+589,Emalia,Sellers,Emalia.Sellers@datascience.aot.com,Genderqueer,Gold,Bachelor Degree,$287.55,"$2,556.49",,
+590,Maiga,Cisec,Maiga.Cisec@datascience.aot.com,Female,None,Some College,$245.86,"$1,770.51",Brooklyn,NY
+591,Dare,Paulton,Dare.Paulton@datascience.aot.com,Male,Silver,Master Degree,$278.16,"$3,198.90",,
+592,Tani,Mateus,Tani.Mateus@datascience.aot.com,Female,Gold,Bachelor Degree,$376.96,"$2,228.85",Topeka,KS
+593,Paul,Plimmer,Paul.Plimmer@datascience.aot.com,Male,Platnium,Some College,$205.97,"$2,016.87",Tuscaloosa,AL
+594,Aldon,Slad,Aldon.Slad@datascience.aot.com,Male,Platnium,High School Diploma,$379.76,"$1,082.96",Spring Hill,FL
+595,Weylin,Drew-Clifton,Weylin.Drew-Clifton@datascience.aot.com,Male,Gold,Master Degree,$385.25,"$1,892.03",,
+596,Dall,Peerless,Dall.Peerless@datascience.aot.com,Male,Silver,Master Degree,$391.17,"$4,373.94",San Antonio,TX
+597,Hersch,Badini,Hersch.Badini@datascience.aot.com,Male,Silver,Bachelor Degree,$272.82,"$3,587.67",Hartford,CT
+598,Tamas,Midlar,Tamas.Midlar@datascience.aot.com,Male,None,Bachelor Degree,$214.33,"$4,845.79",Grand Forks,ND
+599,Gusty,MacParlan,Gusty.MacParlan@datascience.aot.com,Genderqueer,Gold,Master Degree,$367.67,"$4,216.13",New York City,NY
+600,Melinde,Armall,Melinde.Armall@datascience.aot.com,Female,Silver,High School Diploma,$357.33,"$1,148.20",Brockton,MA
+601,Sheri,Behrens,Sheri.Behrens@datascience.aot.com,Female,Platnium,Some College,$366.64,"$1,266.11",,
+602,Kendal,Clawson,Kendal.Clawson@datascience.aot.com,Male,Silver,High School Diploma,$367.90,"$3,868.49",Oceanside,CA
+603,Maryrose,Luckhurst,Maryrose.Luckhurst@datascience.aot.com,Female,Gold,High School Diploma,$368.80,"$4,506.69",Erie,PA
+604,Lezlie,Coveney,Lezlie.Coveney@datascience.aot.com,Female,Silver,Some College,$362.54,"$2,897.78",Saint Paul,MN
+605,Elwin,Pydcock,Elwin.Pydcock@datascience.aot.com,Male,None,Some College,$186.98,"$4,870.22",Sacramento,CA
+606,Brod,Hughesdon,Brod.Hughesdon@datascience.aot.com,Male,None,PhD,$286.90,"$2,214.46",Boulder,CO
+607,Mitchel,Swann,Mitchel.Swann@datascience.aot.com,Genderqueer,None,Bachelor Degree,$231.22,"$3,328.84",Oklahoma City,OK
+608,Lenna,Askie,Lenna.Askie@datascience.aot.com,Female,Gold,Bachelor Degree,$307.83,"$2,783.80",Lafayette,IN
+609,Paten,Gainfort,Paten.Gainfort@datascience.aot.com,Male,Silver,High School Diploma,$309.82,"$2,237.95",Dallas,TX
+610,Ade,Maps,Ade.Maps@datascience.aot.com,Male,Silver,PhD,$299.37,$888.29,Rochester,NY
+611,Karoline,Entwisle,Karoline.Entwisle@datascience.aot.com,Female,Gold,High School Diploma,$354.96,"$1,982.19",San Antonio,TX
+612,Dennie,Fridlington,Dennie.Fridlington@datascience.aot.com,Male,Silver,Some College,$360.65,"$2,446.04",,
+613,Shayna,Goodband,Shayna.Goodband@datascience.aot.com,Female,None,Bachelor Degree,$242.05,"$1,708.67",Washington,DC
+614,Alina,Brunton,Alina.Brunton@datascience.aot.com,Female,Silver,Master Degree,$264.69,"$2,938.65",Jacksonville,FL
+615,Druci,Linnane,Druci.Linnane@datascience.aot.com,Female,Platnium,,,,Nashville,TN
+616,Bari,Di Giorgio,Bari.Di Giorgio@datascience.aot.com,Female,Silver,Some College,$281.84,"$4,793.13",Phoenix,AZ
+617,Barton,Lippiello,Barton.Lippiello@datascience.aot.com,Non-binary,None,High School Diploma,$340.14,"$1,610.21",Oakland,CA
+618,Bevon,Schohier,Bevon.Schohier@datascience.aot.com,Male,Gold,Bachelor Degree,$251.21,$710.08,Wichita Falls,TX
+619,Ronny,Atkins,Ronny.Atkins@datascience.aot.com,Male,Platnium,PhD,$288.18,"$4,636.26",Norfolk,VA
+620,Isa,Doumerque,Isa.Doumerque@datascience.aot.com,Female,Platnium,PhD,$392.10,"$3,851.17",,
+621,Joanne,Crotty,Joanne.Crotty@datascience.aot.com,Female,Gold,High School Diploma,$359.56,"$1,817.44",New York City,NY
+622,Grethel,Meriott,Grethel.Meriott@datascience.aot.com,Bigender,None,High School Diploma,$171.04,"$4,847.80",Fort Lauderdale,FL
+623,Lilli,Frill,Lilli.Frill@datascience.aot.com,Female,Gold,PhD,$365.00,"$2,673.84",Seattle,WA
+624,Bernetta,Littlekit,Bernetta.Littlekit@datascience.aot.com,Agender,Silver,PhD,$227.18,$936.14,Washington,DC
+625,Phyllida,Olesen,Phyllida.Olesen@datascience.aot.com,Agender,Gold,High School Diploma,$186.06,"$4,868.63",Arlington,VA
+626,Alina,Gynn,Alina.Gynn@datascience.aot.com,Female,Silver,PhD,$275.51,"$4,586.09",Washington,DC
+627,Raul,McKinnell,Raul.McKinnell@datascience.aot.com,Male,None,Some College,$225.99,"$2,339.56",,
+628,Rogers,Boldero,Rogers.Boldero@datascience.aot.com,Male,None,Master Degree,$169.11,"$1,220.01",Baltimore,MD
+629,Jessey,Itshak,Jessey.Itshak@datascience.aot.com,Male,Gold,Bachelor Degree,$323.33,"$2,848.11",,
+630,Timotheus,Bedome,Timotheus.Bedome@datascience.aot.com,Male,Silver,PhD,$390.20,"$1,810.47",Hartford,CT
+631,Cortney,Omar,Cortney.Omar@datascience.aot.com,Female,None,Bachelor Degree,$186.26,"$1,001.61",Atlanta,GA
+632,Archibold,Keable,Archibold.Keable@datascience.aot.com,Genderqueer,None,High School Diploma,$372.32,$510.84,Brooklyn,NY
+633,Gottfried,Desporte,Gottfried.Desporte@datascience.aot.com,Male,Gold,Master Degree,$299.66,"$3,676.61",Memphis,TN
+634,Waiter,Hewkin,Waiter.Hewkin@datascience.aot.com,Male,Platnium,High School Diploma,$164.17,"$3,931.96",Seattle,WA
+635,Abagail,Mishaw,Abagail.Mishaw@datascience.aot.com,Female,Platnium,Some College,$165.76,"$4,150.93",,
+636,Nealy,Raftery,Nealy.Raftery@datascience.aot.com,Male,None,Bachelor Degree,$342.95,"$1,374.29",San Antonio,TX
+637,Kathryn,Jensen,Kathryn.Jensen@datascience.aot.com,Female,Platnium,PhD,$370.51,"$4,511.52",Terre Haute,IN
+638,Valeda,McCulley,Valeda.McCulley@datascience.aot.com,Female,Platnium,Some College,$224.97,"$1,811.75",Spartanburg,SC
+639,Cyrus,Bodd,Cyrus.Bodd@datascience.aot.com,Male,Platnium,PhD,$329.54,"$2,266.48",Merrifield,VA
+640,Audry,Crampsy,Audry.Crampsy@datascience.aot.com,Female,Platnium,High School Diploma,$398.58,"$3,342.19",Alexandria,VA
+641,Silva,Mc Comb,Silva.Mc Comb@datascience.aot.com,Female,Silver,PhD,$165.86,$717.62,Louisville,KY
+642,Maressa,Allcorn,Maressa.Allcorn@datascience.aot.com,Female,Gold,High School Diploma,$189.57,"$4,106.65",Las Vegas,NV
+643,Iago,Sweed,Iago.Sweed@datascience.aot.com,Male,None,Bachelor Degree,$174.78,"$4,562.18",Memphis,TN
+644,Hedi,Golborne,Hedi.Golborne@datascience.aot.com,Female,Platnium,Some College,$305.26,"$4,471.93",Daytona Beach,FL
+645,Tobe,Shallcrass,Tobe.Shallcrass@datascience.aot.com,Female,Gold,PhD,$233.97,$693.99,Prescott,AZ
+646,Hendrick,Kirvell,Hendrick.Kirvell@datascience.aot.com,Non-binary,None,PhD,$273.43,$446.42,,
+647,Demetrius,Duggleby,Demetrius.Duggleby@datascience.aot.com,Male,Silver,PhD,$349.14,"$4,564.65",San Antonio,TX
+648,Ingelbert,Ben,Ingelbert.Ben@datascience.aot.com,Male,Silver,Master Degree,$199.70,"$4,757.20",Minneapolis,MN
+649,Mariel,Weldrake,Mariel.Weldrake@datascience.aot.com,Female,None,Master Degree,$216.63,"$4,019.70",Miami,FL
+650,North,Maddison,North.Maddison@datascience.aot.com,Male,None,,,,Fresno,CA
+651,Germain,Rushbrook,Germain.Rushbrook@datascience.aot.com,Male,None,Bachelor Degree,$343.83,"$3,283.11",Cleveland,OH
+652,Desi,McShee,Desi.McShee@datascience.aot.com,Bigender,None,PhD,$174.70,"$2,532.91",Wichita,KS
+653,Drusilla,Frost,Drusilla.Frost@datascience.aot.com,Female,Platnium,PhD,$398.13,"$4,919.50",Greenville,SC
+654,Dorita,Manjot,Dorita.Manjot@datascience.aot.com,Female,Gold,Some College,$180.93,"$3,663.00",Temple,TX
+655,Cleve,Everest,Cleve.Everest@datascience.aot.com,Male,Silver,Bachelor Degree,$160.07,"$3,529.46",Migrate,KY
+656,Cliff,Lohrensen,Cliff.Lohrensen@datascience.aot.com,Male,Silver,Bachelor Degree,$224.54,"$1,143.17",Sandy,UT
+657,Bunny,Widdicombe,Bunny.Widdicombe@datascience.aot.com,Female,Platnium,Master Degree,$278.13,"$3,685.31",Waterbury,CT
+658,Angeli,Laurenson,Angeli.Laurenson@datascience.aot.com,Male,None,Bachelor Degree,$239.14,"$3,148.16",Baltimore,MD
+659,Emmit,Winscom,Emmit.Winscom@datascience.aot.com,Male,Platnium,High School Diploma,$224.59,"$1,764.20",,
+660,Jobi,Baseggio,Jobi.Baseggio@datascience.aot.com,Female,Gold,High School Diploma,$334.78,"$3,109.93",Fresno,CA
+661,Becca,O'Looney,Becca.O'Looney@datascience.aot.com,Female,Gold,Some College,$387.85,$673.32,Trenton,NJ
+662,Prue,Abbiss,Prue.Abbiss@datascience.aot.com,Female,Silver,Bachelor Degree,$397.33,"$3,186.24",Orlando,FL
+663,Katlin,Spradbrow,Katlin.Spradbrow@datascience.aot.com,Female,Gold,High School Diploma,$193.99,$996.09,Staten Island,NY
+664,Gale,Mithan,Gale.Mithan@datascience.aot.com,Male,Silver,,,,,
+665,Ronni,Killeen,Ronni.Killeen@datascience.aot.com,Female,None,Some College,$295.75,"$1,847.08",Atlanta,GA
+666,Tyne,Chetter,Tyne.Chetter@datascience.aot.com,Female,Gold,Master Degree,$347.08,"$4,122.82",Farmington,MI
+667,Jeni,Yurinov,Jeni.Yurinov@datascience.aot.com,Female,Platnium,Bachelor Degree,$204.53,$946.84,Cleveland,OH
+668,Clerissa,Yell,Clerissa.Yell@datascience.aot.com,Female,Silver,High School Diploma,$170.44,"$2,089.79",Charlotte,NC
+669,Ulberto,Alberts,Ulberto.Alberts@datascience.aot.com,Non-binary,Platnium,,,,Paterson,NJ
+670,Tommy,Brandel,Tommy.Brandel@datascience.aot.com,Male,None,High School Diploma,$308.54,"$4,983.92",Austin,TX
+671,Beverley,Kesten,Beverley.Kesten@datascience.aot.com,Female,Gold,High School Diploma,$196.30,$619.43,Miami,FL
+672,Milicent,Beggi,Milicent.Beggi@datascience.aot.com,Female,Gold,Master Degree,$188.15,"$4,804.49",Houston,TX
+673,Lauree,Kayley,Lauree.Kayley@datascience.aot.com,Female,None,Bachelor Degree,$182.44,"$4,790.19",,
+674,Patti,Dobel,Patti.Dobel@datascience.aot.com,Female,Platnium,High School Diploma,$322.14,"$4,427.61",,
+675,Shell,Batman,Shell.Batman@datascience.aot.com,Female,Silver,Some College,$322.47,"$4,117.99",Evansville,IN
+676,Carina,Eakins,Carina.Eakins@datascience.aot.com,Female,Gold,High School Diploma,$243.61,"$4,491.34",Sarasota,FL
+677,Farleigh,Cron,Farleigh.Cron@datascience.aot.com,Male,Gold,High School Diploma,$215.18,$440.41,Washington,DC
+678,Ashley,Chaffer,Ashley.Chaffer@datascience.aot.com,Male,Platnium,Some College,$316.88,"$4,722.85",Glendale,AZ
+679,Sheba,Book,Sheba.Book@datascience.aot.com,Female,Gold,PhD,$355.63,"$3,084.22",Duluth,MN
+680,Nichole,Penna,Nichole.Penna@datascience.aot.com,Male,None,High School Diploma,$255.57,$704.75,Greenville,SC
+681,Russ,Clelland,Russ.Clelland@datascience.aot.com,Male,Gold,High School Diploma,$326.08,"$3,531.48",Los Angeles,CA
+682,Munroe,Garvill,Munroe.Garvill@datascience.aot.com,Male,Silver,Master Degree,$167.41,"$3,218.67",Houston,TX
+683,Daria,Bawle,Daria.Bawle@datascience.aot.com,Non-binary,Silver,Bachelor Degree,$325.32,"$3,339.38",Inglewood,CA
+684,Winifield,Roddy,Winifield.Roddy@datascience.aot.com,Male,Gold,PhD,$184.20,"$1,150.48",,
+685,Floyd,Jallin,Floyd.Jallin@datascience.aot.com,Male,Platnium,,,,New York City,NY
+686,Tobit,Adamolli,Tobit.Adamolli@datascience.aot.com,Male,Gold,Some College,$260.61,"$3,239.66",,
+687,Claiborn,Loble,Claiborn.Loble@datascience.aot.com,Male,Silver,PhD,$212.71,"$1,624.50",Tucson,AZ
+688,Nataline,Chappelle,Nataline.Chappelle@datascience.aot.com,Female,None,High School Diploma,$361.73,"$4,493.95",Tacoma,WA
+689,Glenn,de Guerre,Glenn.de Guerre@datascience.aot.com,Female,None,Some College,$272.45,"$2,299.24",Roanoke,VA
+690,York,Breazeall,York.Breazeall@datascience.aot.com,Male,Silver,High School Diploma,$279.37,"$2,134.97",Charleston,SC
+691,Timofei,Binning,Timofei.Binning@datascience.aot.com,Male,Platnium,Bachelor Degree,$165.28,"$1,893.11",Gatesville,TX
+692,Chrystel,Climson,Chrystel.Climson@datascience.aot.com,Female,Gold,PhD,$355.56,"$2,302.14",,
+693,Aura,Westoff,Aura.Westoff@datascience.aot.com,Female,Platnium,High School Diploma,$345.61,"$1,258.59",,
+694,Sol,Blondell,Sol.Blondell@datascience.aot.com,Non-binary,Gold,High School Diploma,$397.95,"$1,118.38",,
+695,Florinda,Docksey,Florinda.Docksey@datascience.aot.com,Female,Platnium,Bachelor Degree,$350.61,"$1,292.86",Terre Haute,IN
+696,Ethyl,Braisby,Ethyl.Braisby@datascience.aot.com,Female,None,Master Degree,$197.48,"$1,840.02",Charleston,WV
+697,Florentia,Rundall,Florentia.Rundall@datascience.aot.com,Female,Gold,Bachelor Degree,$173.46,$641.63,Albany,NY
+698,Karine,Oxnam,Karine.Oxnam@datascience.aot.com,Female,Gold,PhD,$224.78,$479.45,Raleigh,NC
+699,Fianna,Bert,Fianna.Bert@datascience.aot.com,Female,Gold,Bachelor Degree,$236.54,"$2,228.11",Minneapolis,MN
+700,Gustaf,Sidebotton,Gustaf.Sidebotton@datascience.aot.com,Male,Platnium,Some College,$229.45,"$4,936.41",Kingsport,TN
+701,Jami,Eastham,Jami.Eastham@datascience.aot.com,Female,Gold,PhD,$368.73,"$3,707.91",Seattle,WA
+702,Ola,Potte,Ola.Potte@datascience.aot.com,Female,Silver,Master Degree,$256.96,"$4,421.58",Washington,DC
+703,Heywood,Hindrick,Heywood.Hindrick@datascience.aot.com,Male,Gold,PhD,$381.93,"$4,440.40",Jeffersonville,IN
+704,Dan,Carn,Dan.Carn@datascience.aot.com,Male,Silver,Bachelor Degree,$255.63,"$2,047.04",San Diego,CA
+705,Zelda,O'Keenan,Zelda.O'Keenan@datascience.aot.com,Genderfluid,Silver,Master Degree,$343.59,"$2,935.80",Los Angeles,CA
+706,Danette,Rechert,Danette.Rechert@datascience.aot.com,Female,Silver,Bachelor Degree,$318.79,"$2,861.87",Torrance,CA
+707,Moishe,Elvin,Moishe.Elvin@datascience.aot.com,Male,Silver,PhD,$251.26,"$4,792.17",Toledo,OH
+708,Dillon,Chainey,Dillon.Chainey@datascience.aot.com,Male,Platnium,Master Degree,$168.11,$438.85,,
+709,Nicola,Theriot,Nicola.Theriot@datascience.aot.com,Female,Gold,PhD,$257.74,"$3,352.86",Beaumont,TX
+710,Gay,Stroder,Gay.Stroder@datascience.aot.com,Female,Gold,Some College,$344.73,"$3,637.54",,
+711,Saxe,Whyard,Saxe.Whyard@datascience.aot.com,Male,Silver,Master Degree,$378.66,"$4,664.27",Jacksonville,FL
+712,Reinhard,Coddington,Reinhard.Coddington@datascience.aot.com,Male,Platnium,Some College,$371.21,"$3,434.68",Greensboro,NC
+713,Ketty,Peinton,Ketty.Peinton@datascience.aot.com,Female,Gold,Some College,$336.65,"$1,756.31",Indianapolis,IN
+714,Caprice,Ulrik,Caprice.Ulrik@datascience.aot.com,Female,Gold,High School Diploma,$189.39,"$1,524.15",New York City,NY
+715,Bone,Duke,Bone.Duke@datascience.aot.com,Male,Silver,PhD,$328.25,"$4,373.76",Salt Lake City,UT
+716,Reggy,Putton,Reggy.Putton@datascience.aot.com,Male,Silver,PhD,$335.46,"$3,839.00",Shawnee Mission,KS
+717,Manuel,Breton,Manuel.Breton@datascience.aot.com,Male,Silver,Some College,$336.44,$625.65,Oklahoma City,OK
+718,Paulette,Figger,Paulette.Figger@datascience.aot.com,Genderfluid,Silver,Master Degree,$377.34,"$3,350.80",Lexington,KY
+719,Jephthah,Paris,Jephthah.Paris@datascience.aot.com,Male,None,Master Degree,$300.51,"$3,722.38",Englewood,CO
+720,Brittany,Dallewater,Brittany.Dallewater@datascience.aot.com,Female,None,Master Degree,$154.20,"$4,376.23",Columbia,SC
+721,Carey,Gierth,Carey.Gierth@datascience.aot.com,Male,Gold,Master Degree,$333.45,"$1,922.85",,
+722,Niels,Oller,Niels.Oller@datascience.aot.com,Male,Gold,Some College,$251.59,$718.39,Charlotte,NC
+723,Vinny,Fritchley,Vinny.Fritchley@datascience.aot.com,Female,Silver,High School Diploma,$352.48,$777.47,Des Moines,IA
+724,Jacquie,Whaley,Jacquie.Whaley@datascience.aot.com,Female,Platnium,Some College,$168.56,"$3,854.28",Detroit,MI
+725,Alberto,Lanphier,Alberto.Lanphier@datascience.aot.com,Male,Silver,Master Degree,$332.51,"$1,322.10",Seattle,WA
+726,Bernadette,Jaggers,Bernadette.Jaggers@datascience.aot.com,Female,Platnium,Bachelor Degree,$253.16,"$2,437.97",Canton,OH
+727,Charlean,Keelan,Charlean.Keelan@datascience.aot.com,Female,Silver,Bachelor Degree,$370.17,"$3,967.37",,
+728,Mikel,Minghi,Mikel.Minghi@datascience.aot.com,Male,Platnium,PhD,$214.89,"$2,670.61",Los Angeles,CA
+729,Maryann,Barkly,Maryann.Barkly@datascience.aot.com,Female,Gold,Some College,$194.53,$431.27,Arlington,VA
+730,Bendix,Verrill,Bendix.Verrill@datascience.aot.com,Male,None,PhD,$255.49,"$2,579.23",Pittsburgh,PA
+731,Lonnie,Van Geffen,Lonnie.Van Geffen@datascience.aot.com,Male,Platnium,Bachelor Degree,$231.80,"$4,787.36",Philadelphia,PA
+732,Ciro,Oldershaw,Ciro.Oldershaw@datascience.aot.com,Male,Gold,Some College,$396.46,"$1,804.22",Aurora,CO
+733,Julietta,Louder,Julietta.Louder@datascience.aot.com,Female,None,PhD,$160.30,"$2,238.24",Denver,CO
+734,Valentine,Maw,Valentine.Maw@datascience.aot.com,Male,Gold,High School Diploma,$302.30,"$3,490.30",Roanoke,VA
+735,Seward,Pulfer,Seward.Pulfer@datascience.aot.com,Male,Silver,PhD,$291.54,"$1,404.03",New Orleans,LA
+736,Judie,Newiss,Judie.Newiss@datascience.aot.com,Female,None,Master Degree,$349.89,"$3,560.07",Denver,CO
+737,Prince,Tesimon,Prince.Tesimon@datascience.aot.com,Male,Silver,High School Diploma,$253.65,"$4,413.89",Philadelphia,PA
+738,Ellswerth,Koschke,Ellswerth.Koschke@datascience.aot.com,Male,Platnium,High School Diploma,$367.21,"$1,234.29",Fort Lauderdale,FL
+739,Lion,Ilewicz,Lion.Ilewicz@datascience.aot.com,Male,Silver,Some College,$186.89,"$3,585.83",Newark,NJ
+740,Tallulah,Yosselevitch,Tallulah.Yosselevitch@datascience.aot.com,Genderqueer,Gold,Some College,$215.75,"$1,475.68",Alexandria,VA
+741,Zia,Benthall,Zia.Benthall@datascience.aot.com,Female,Platnium,High School Diploma,$351.76,"$1,835.73",,
+742,Desiri,Popov,Desiri.Popov@datascience.aot.com,Female,Silver,Some College,$293.40,"$2,054.90",Saint Louis,MO
+743,Ivie,Stickells,Ivie.Stickells@datascience.aot.com,Genderqueer,None,Master Degree,$378.00,"$3,803.00",Richmond,VA
+744,Bil,Copello,Bil.Copello@datascience.aot.com,Male,Silver,High School Diploma,$161.70,"$4,444.95",Chesapeake,VA
+745,Moreen,Matthieson,Moreen.Matthieson@datascience.aot.com,Female,None,PhD,$292.12,"$2,603.67",Johnson City,TN
+746,Ezra,Forsdicke,Ezra.Forsdicke@datascience.aot.com,Male,Gold,PhD,$166.55,"$4,297.65",Peoria,IL
+747,Rory,Yeend,Rory.Yeend@datascience.aot.com,Female,Gold,Some College,$160.39,$538.03,Birmingham,AL
+748,Tris,Shoebotham,Tris.Shoebotham@datascience.aot.com,Male,Gold,High School Diploma,$315.90,"$3,269.25",Indianapolis,IN
+749,Donella,Gorman,Donella.Gorman@datascience.aot.com,Female,Gold,Master Degree,$219.04,"$3,493.83",San Antonio,TX
+750,Skye,Pydcock,Skye.Pydcock@datascience.aot.com,Male,Silver,Master Degree,$377.80,"$3,032.81",Bismarck,ND
+751,Aliza,Capelin,Aliza.Capelin@datascience.aot.com,Female,Silver,Bachelor Degree,$231.70,"$4,455.13",,
+752,Eddi,Kerley,Eddi.Kerley@datascience.aot.com,Female,Silver,Some College,$377.13,$536.56,Odessa,TX
+753,Karim,Joslyn,Karim.Joslyn@datascience.aot.com,Male,Silver,Master Degree,$367.34,$740.67,San Antonio,TX
+754,Tremayne,Le Breton De La Vieuville,Tremayne.Le Breton De La Vieuville@datascience.aot.com,Male,Platnium,Master Degree,$203.17,"$2,506.07",Fort Worth,TX
+755,Marta,Tertre,Marta.Tertre@datascience.aot.com,Female,Gold,Bachelor Degree,$262.98,"$4,945.29",Henderson,NV
+756,Othello,Ricoald,Othello.Ricoald@datascience.aot.com,Male,Silver,High School Diploma,$197.15,"$2,192.00",,
+757,Lind,Ainsley,Lind.Ainsley@datascience.aot.com,Female,Silver,High School Diploma,$288.37,"$4,683.87",,
+758,Krishna,Cleft,Krishna.Cleft@datascience.aot.com,Polygender,Gold,Master Degree,$346.18,"$2,504.97",Paterson,NJ
+759,Mickie,Managh,Mickie.Managh@datascience.aot.com,Male,Platnium,Bachelor Degree,$350.01,"$2,969.04",Oklahoma City,OK
+760,Sofie,Selly,Sofie.Selly@datascience.aot.com,Female,Silver,Master Degree,$349.87,$830.82,Shreveport,LA
+761,Harper,Whalley,Harper.Whalley@datascience.aot.com,Agender,Silver,Some College,$172.93,"$3,943.51",Baltimore,MD
+762,Maribelle,Liddard,Maribelle.Liddard@datascience.aot.com,Female,None,High School Diploma,$362.63,"$3,483.01",Spring Hill,FL
+763,Billy,Bizzey,Billy.Bizzey@datascience.aot.com,Female,None,PhD,$228.51,"$2,718.07",Richmond,VA
+764,Jermaine,Drees,Jermaine.Drees@datascience.aot.com,Female,Gold,Master Degree,$390.06,"$3,563.57",Torrance,CA
+765,Clemmie,O'Leahy,Clemmie.O'Leahy@datascience.aot.com,Female,None,Some College,$307.00,$743.84,Homestead,FL
+766,Monty,Shingler,Monty.Shingler@datascience.aot.com,Bigender,Gold,Master Degree,$299.48,"$2,333.25",Kent,WA
+767,Winthrop,Pele,Winthrop.Pele@datascience.aot.com,Male,Platnium,Master Degree,$349.74,"$2,713.68",,
+768,Stearn,Diviny,Stearn.Diviny@datascience.aot.com,Male,Gold,High School Diploma,$300.35,$994.74,Birmingham,AL
+769,Hestia,Haselup,Hestia.Haselup@datascience.aot.com,Female,None,High School Diploma,$203.03,"$2,599.66",Seattle,WA
+770,Glyn,Webley,Glyn.Webley@datascience.aot.com,Female,Platnium,High School Diploma,$376.45,"$4,210.66",Nashville,TN
+771,Balduin,Streatley,Balduin.Streatley@datascience.aot.com,Male,Platnium,Master Degree,$365.51,"$3,721.71",Young America,MN
+772,Lemuel,De Gogay,Lemuel.De Gogay@datascience.aot.com,Male,Gold,High School Diploma,$296.16,"$3,114.17",Lafayette,LA
+773,Gladys,Waldera,Gladys.Waldera@datascience.aot.com,Female,Silver,Some College,$276.95,"$4,249.58",Sacramento,CA
+774,Pavlov,Revely,Pavlov.Revely@datascience.aot.com,Genderqueer,Silver,Some College,$393.27,"$4,321.54",Los Angeles,CA
+775,Helsa,Larive,Helsa.Larive@datascience.aot.com,Female,Platnium,High School Diploma,$227.53,"$1,278.31",Lansing,MI
+776,Lonee,Yacob,Lonee.Yacob@datascience.aot.com,Female,Silver,High School Diploma,$311.28,"$3,129.44",Boca Raton,FL
+777,Roberto,Macauley,Roberto.Macauley@datascience.aot.com,Male,Platnium,High School Diploma,$201.90,"$3,875.48",Wichita,KS
+778,Sharron,McCreery,Sharron.McCreery@datascience.aot.com,Agender,None,Some College,$312.54,"$3,189.73",Portsmouth,NH
+779,Bari,Duck,Bari.Duck@datascience.aot.com,Female,None,Master Degree,$190.98,"$1,360.89",Richmond,VA
+780,Blaire,Gauler,Blaire.Gauler@datascience.aot.com,Female,Gold,Master Degree,$261.79,"$1,821.28",Pittsburgh,PA
+781,Sutherlan,Epgrave,Sutherlan.Epgrave@datascience.aot.com,Male,Silver,Some College,$399.50,"$1,756.97",Norwalk,CT
+782,Garland,MacClay,Garland.MacClay@datascience.aot.com,Female,Gold,Some College,$217.55,"$3,311.44",Richmond,VA
+783,Nicko,Minger,Nicko.Minger@datascience.aot.com,Male,Silver,Bachelor Degree,$211.44,"$1,128.56",Topeka,KS
+784,Rhody,Pautot,Rhody.Pautot@datascience.aot.com,Female,Platnium,Bachelor Degree,$281.55,"$3,988.63",Bloomington,IL
+785,Enriqueta,Finkle,Enriqueta.Finkle@datascience.aot.com,Female,Silver,Master Degree,$382.45,"$1,379.11",Silver Spring,MD
+786,Benedict,Lethley,Benedict.Lethley@datascience.aot.com,Male,Platnium,Master Degree,$346.48,"$1,589.17",Savannah,GA
+787,Dotty,Pinckney,Dotty.Pinckney@datascience.aot.com,Female,None,Some College,$157.19,"$3,519.73",Garland,TX
+788,Haydon,Ferrario,Haydon.Ferrario@datascience.aot.com,Male,Gold,High School Diploma,$287.68,"$2,888.03",Tulsa,OK
+789,Rosie,Scoterbosh,Rosie.Scoterbosh@datascience.aot.com,Female,Silver,Some College,$226.13,$718.72,Boulder,CO
+790,Keary,Deverille,Keary.Deverille@datascience.aot.com,Male,None,PhD,$270.40,"$2,976.07",New York City,NY
+791,Joana,Jerwood,Joana.Jerwood@datascience.aot.com,Female,Gold,Master Degree,$192.77,"$3,788.95",,
+792,Evan,Jacquet,Evan.Jacquet@datascience.aot.com,Male,Silver,Some College,$157.82,"$4,402.40",,
+793,Jasper,McCready,Jasper.McCready@datascience.aot.com,Bigender,Platnium,Bachelor Degree,$193.18,$770.86,Shawnee Mission,KS
+794,Elias,Grosvenor,Elias.Grosvenor@datascience.aot.com,Male,Silver,Some College,$340.47,"$3,175.89",Los Angeles,CA
+795,Yorgo,Arran,Yorgo.Arran@datascience.aot.com,Male,Gold,Bachelor Degree,$203.42,"$2,766.17",Fredericksburg,VA
+796,Si,McCome,Si.McCome@datascience.aot.com,Male,Platnium,Some College,$360.37,"$1,418.44",,
+797,Wait,Cockshott,Wait.Cockshott@datascience.aot.com,Male,Gold,PhD,$334.76,"$1,295.83",Alexandria,LA
+798,Gabrielle,Urling,Gabrielle.Urling@datascience.aot.com,Female,Platnium,,,,,
+799,Emylee,Sugden,Emylee.Sugden@datascience.aot.com,Genderqueer,Silver,PhD,$369.17,"$4,157.12",New Orleans,LA
+800,Juline,Caselick,Juline.Caselick@datascience.aot.com,Female,None,PhD,$235.14,"$2,368.77",Orlando,FL
+801,Hermione,Kobu,Hermione.Kobu@datascience.aot.com,Non-binary,Gold,PhD,$253.69,"$3,371.84",Everett,WA
+802,Gladi,Umpleby,Gladi.Umpleby@datascience.aot.com,Female,None,PhD,$188.35,"$4,106.26",Roanoke,VA
+803,Haily,Jirzik,Haily.Jirzik@datascience.aot.com,Female,None,Master Degree,$339.23,"$2,189.80",Newton,MA
+804,Courtney,Leveret,Courtney.Leveret@datascience.aot.com,Female,Silver,High School Diploma,$182.82,"$4,476.84",Mobile,AL
+805,Darrin,Sandys,Darrin.Sandys@datascience.aot.com,Male,None,PhD,$363.00,"$4,511.42",Tacoma,WA
+806,Gualterio,Olliar,Gualterio.Olliar@datascience.aot.com,Male,Platnium,High School Diploma,$255.04,"$2,943.21",Modesto,CA
+807,Astrid,Bissatt,Astrid.Bissatt@datascience.aot.com,Female,Gold,Bachelor Degree,$213.84,$440.61,Rockford,IL
+808,Drucill,Canario,Drucill.Canario@datascience.aot.com,Female,None,High School Diploma,$209.43,"$4,183.49",Naples,FL
+809,Erminia,Neames,Erminia.Neames@datascience.aot.com,Female,Gold,High School Diploma,$226.20,"$1,199.80",Springfield,MO
+810,Malva,Mozzi,Malva.Mozzi@datascience.aot.com,Non-binary,Gold,PhD,$166.20,"$3,064.34",Omaha,NE
+811,Godfry,Learmonth,Godfry.Learmonth@datascience.aot.com,Male,Platnium,Master Degree,$160.12,$952.41,Houston,TX
+812,Wynny,Thom,Wynny.Thom@datascience.aot.com,Bigender,Gold,High School Diploma,$228.21,$533.54,Fresno,CA
+813,Gaspard,Fonzone,Gaspard.Fonzone@datascience.aot.com,Male,Silver,High School Diploma,$327.22,"$1,092.81",Trenton,NJ
+814,Chester,Blacklawe,Chester.Blacklawe@datascience.aot.com,Male,Platnium,Master Degree,$217.25,"$4,031.51",Boston,MA
+815,Kari,Cockerill,Kari.Cockerill@datascience.aot.com,Female,None,PhD,$212.82,"$2,144.05",,
+816,Aleta,Felstead,Aleta.Felstead@datascience.aot.com,Female,Platnium,Master Degree,$196.04,"$2,661.11",Kalamazoo,MI
+817,Barri,Zanre,Barri.Zanre@datascience.aot.com,Male,Platnium,PhD,$387.64,"$3,653.62",,
+818,Deane,Hamner,Deane.Hamner@datascience.aot.com,Male,None,High School Diploma,$329.09,"$3,772.21",Atlanta,GA
+819,Mikaela,Silly,Mikaela.Silly@datascience.aot.com,Polygender,Platnium,Bachelor Degree,$239.70,"$1,967.09",Albany,NY
+820,Lucian,Strugnell,Lucian.Strugnell@datascience.aot.com,Genderfluid,Gold,PhD,$254.86,"$3,684.38",Shreveport,LA
+821,Carena,Ruffles,Carena.Ruffles@datascience.aot.com,Female,Platnium,Bachelor Degree,$194.89,$636.57,,
+822,Hedda,Tuxwell,Hedda.Tuxwell@datascience.aot.com,Female,None,High School Diploma,$211.79,$585.34,Fort Collins,CO
+823,Olive,Crimp,Olive.Crimp@datascience.aot.com,Female,Silver,Bachelor Degree,$384.33,"$2,345.38",Boca Raton,FL
+824,Raf,Hadgraft,Raf.Hadgraft@datascience.aot.com,Female,None,Bachelor Degree,$291.72,"$2,342.59",Amarillo,TX
+825,Silva,Toupe,Silva.Toupe@datascience.aot.com,Female,Silver,Master Degree,$219.94,"$4,208.25",Irving,TX
+826,Hammad,Nairne,Hammad.Nairne@datascience.aot.com,Male,Gold,Bachelor Degree,$378.33,"$2,535.55",Springfield,IL
+827,Gratiana,Relph,Gratiana.Relph@datascience.aot.com,Female,Platnium,Master Degree,$260.69,"$3,121.92",Arlington,TX
+828,Kimmie,Harrismith,Kimmie.Harrismith@datascience.aot.com,Female,Platnium,High School Diploma,$290.28,"$2,807.62",Denver,CO
+829,Dedra,Daviot,Dedra.Daviot@datascience.aot.com,Female,Platnium,High School Diploma,$382.17,"$3,915.66",Philadelphia,PA
+830,Barry,Gaytor,Barry.Gaytor@datascience.aot.com,Female,Silver,Some College,$384.22,"$2,025.05",Worcester,MA
+831,Trix,Babonau,Trix.Babonau@datascience.aot.com,Female,None,High School Diploma,$222.23,"$1,905.24",Huntington,WV
+832,Nicolai,Petrasso,Nicolai.Petrasso@datascience.aot.com,Male,None,PhD,$283.13,"$3,878.55",Fort Smith,AR
+833,Care,Basire,Care.Basire@datascience.aot.com,Male,Silver,Some College,$221.26,"$4,764.38",Pittsburgh,PA
+834,Eddi,Jekyll,Eddi.Jekyll@datascience.aot.com,Female,Platnium,Master Degree,$189.15,$593.14,Winter Haven,FL
+835,Ashley,Flook,Ashley.Flook@datascience.aot.com,Genderqueer,None,PhD,$323.27,"$3,104.32",,
+836,Dennis,Ashpital,Dennis.Ashpital@datascience.aot.com,Genderqueer,Gold,Some College,$230.57,"$1,801.08",Ogden,UT
+837,Augustina,Sans,Augustina.Sans@datascience.aot.com,Polygender,Gold,Master Degree,$150.57,"$1,888.48",,
+838,Caleb,Carruthers,Caleb.Carruthers@datascience.aot.com,Genderqueer,Silver,Master Degree,$253.60,"$1,343.63",El Paso,TX
+839,Emanuel,Blamphin,Emanuel.Blamphin@datascience.aot.com,Male,Silver,Some College,$329.30,"$4,320.13",Baton Rouge,LA
+840,Ahmed,Dunseath,Ahmed.Dunseath@datascience.aot.com,Genderqueer,Platnium,PhD,$265.88,"$3,154.30",Cincinnati,OH
+841,Silvester,Bohman,Silvester.Bohman@datascience.aot.com,Male,Silver,Master Degree,$295.20,"$2,213.21",Kissimmee,FL
+842,Karoly,Sigfrid,Karoly.Sigfrid@datascience.aot.com,Male,Silver,PhD,$157.24,"$1,427.60",Hartford,CT
+843,Pearle,Tomaskov,Pearle.Tomaskov@datascience.aot.com,Female,Platnium,Bachelor Degree,$161.69,"$1,986.35",Jackson,MS
+844,Glori,Antoniottii,Glori.Antoniottii@datascience.aot.com,Female,None,Master Degree,$269.07,"$1,507.55",Wilkes Barre,PA
+845,Kissiah,Kiffe,Kissiah.Kiffe@datascience.aot.com,Female,Platnium,Bachelor Degree,$347.74,$776.77,Austin,TX
+846,Lacie,Arnal,Lacie.Arnal@datascience.aot.com,Female,Gold,High School Diploma,$389.91,$511.85,Saint Louis,MO
+847,Bridgette,Thorouggood,Bridgette.Thorouggood@datascience.aot.com,Female,None,PhD,$210.97,"$4,207.81",Mobile,AL
+848,Ursala,Bradman,Ursala.Bradman@datascience.aot.com,Female,Gold,Some College,$320.69,"$4,064.91",Oklahoma City,OK
+849,Adelaide,Alastair,Adelaide.Alastair@datascience.aot.com,Female,Platnium,Bachelor Degree,$257.07,"$3,062.94",Katy,TX
+850,Eward,Cordner,Eward.Cordner@datascience.aot.com,Male,None,Master Degree,$347.08,"$4,554.73",Champaign,IL
+851,Alejandrina,Matusovsky,Alejandrina.Matusovsky@datascience.aot.com,Female,Silver,High School Diploma,$388.43,"$1,916.98",Louisville,KY
+852,Amandi,Spincke,Amandi.Spincke@datascience.aot.com,Female,Platnium,Some College,$220.09,"$2,483.14",Augusta,GA
+853,Alameda,Madge,Alameda.Madge@datascience.aot.com,Female,Gold,PhD,$194.75,"$2,074.02",,
+854,Arri,Claussen,Arri.Claussen@datascience.aot.com,Male,None,Bachelor Degree,$208.51,"$3,193.82",Kansas City,MO
+855,Adolphe,Flanders,Adolphe.Flanders@datascience.aot.com,Male,Platnium,Master Degree,$319.32,"$2,362.12",South Bend,IN
+856,Edith,Duggon,Edith.Duggon@datascience.aot.com,Female,Platnium,Bachelor Degree,$378.23,"$3,654.74",,
+857,Layney,Pratt,Layney.Pratt@datascience.aot.com,Female,None,Some College,$242.46,"$4,527.29",Dallas,TX
+858,Kenton,Deny,Kenton.Deny@datascience.aot.com,Male,Platnium,Master Degree,$198.34,"$2,098.94",,
+859,Giustina,Merredy,Giustina.Merredy@datascience.aot.com,Female,None,High School Diploma,$260.18,$794.41,Scranton,PA
+860,Yale,Nagle,Yale.Nagle@datascience.aot.com,Male,None,High School Diploma,$346.82,$554.83,Los Angeles,CA
+861,Rancell,Rawcliffe,Rancell.Rawcliffe@datascience.aot.com,Male,Silver,PhD,$153.28,"$4,509.37",Rochester,NY
+862,Valentino,Pettitt,Valentino.Pettitt@datascience.aot.com,Agender,None,Master Degree,$162.80,"$1,949.44",Henderson,NV
+863,Fran,Guitt,Fran.Guitt@datascience.aot.com,Female,Gold,Master Degree,$204.97,"$2,740.38",Oakland,CA
+864,Dov,De Caville,Dov.De Caville@datascience.aot.com,Male,Silver,High School Diploma,$292.43,$468.10,Charleston,WV
+865,Dedra,Rattenberie,Dedra.Rattenberie@datascience.aot.com,Agender,Platnium,Master Degree,$280.83,"$1,888.37",Portland,OR
+866,Samson,Siney,Samson.Siney@datascience.aot.com,Male,Gold,Master Degree,$334.20,"$4,223.74",New York City,NY
+867,Maridel,Seer,Maridel.Seer@datascience.aot.com,Genderqueer,Gold,Some College,$348.64,"$1,337.71",Fort Lauderdale,FL
+868,Loraine,Gilbey,Loraine.Gilbey@datascience.aot.com,Female,None,Master Degree,$212.21,$565.22,Dallas,TX
+869,Terrijo,Innocenti,Terrijo.Innocenti@datascience.aot.com,Female,Gold,Some College,$257.63,"$2,323.69",,
+870,Fernande,Tradewell,Fernande.Tradewell@datascience.aot.com,Female,None,Master Degree,$306.27,"$1,468.06",,
+871,Nerti,Flott,Nerti.Flott@datascience.aot.com,Female,Gold,Some College,$270.11,"$3,708.60",Bethesda,MD
+872,Marlin,Matiebe,Marlin.Matiebe@datascience.aot.com,Genderfluid,None,Some College,$268.71,"$3,095.52",Boston,MA
+873,Shirley,Royl,Shirley.Royl@datascience.aot.com,Female,None,High School Diploma,$315.70,"$1,667.77",Boise,ID
+874,Lindie,Hardesty,Lindie.Hardesty@datascience.aot.com,Female,None,Some College,$333.08,$876.08,Colorado Springs,CO
+875,Elisa,Bonevant,Elisa.Bonevant@datascience.aot.com,Female,Silver,Master Degree,$352.38,"$2,009.38",Lincoln,NE
+876,Allyce,Paty,Allyce.Paty@datascience.aot.com,Female,Silver,Bachelor Degree,$222.41,"$3,841.10",Norman,OK
+877,Savina,Ackrill,Savina.Ackrill@datascience.aot.com,Non-binary,Gold,Some College,$338.15,"$2,373.12",,
+878,Gage,Alywen,Gage.Alywen@datascience.aot.com,Male,Silver,Bachelor Degree,$255.62,$776.42,Baton Rouge,LA
+879,Gerrie,Vreiberg,Gerrie.Vreiberg@datascience.aot.com,Female,Silver,,,,Fort Wayne,IN
+880,Orv,Gatchel,Orv.Gatchel@datascience.aot.com,Male,Platnium,,,,,
+881,Kennett,Heymes,Kennett.Heymes@datascience.aot.com,Genderqueer,Silver,Master Degree,$234.98,"$1,478.38",Cincinnati,OH
+882,Aldus,Brocks,Aldus.Brocks@datascience.aot.com,Male,Gold,Some College,$335.82,$820.35,Everett,WA
+883,Gabriellia,Islep,Gabriellia.Islep@datascience.aot.com,Female,None,PhD,$163.63,"$1,137.21",Austin,TX
+884,Daven,Meiner,Daven.Meiner@datascience.aot.com,Male,Gold,Master Degree,$173.86,"$4,960.93",Valley Forge,PA
+885,Dion,Burkwood,Dion.Burkwood@datascience.aot.com,Male,None,PhD,$292.89,"$3,769.07",Fort Wayne,IN
+886,Emylee,Hadkins,Emylee.Hadkins@datascience.aot.com,Female,Gold,,,,Madison,WI
+887,Olivier,de Cullip,Olivier.de Cullip@datascience.aot.com,Male,Silver,Master Degree,$170.75,"$2,731.28",Miami,FL
+888,Viv,Duffitt,Viv.Duffitt@datascience.aot.com,Female,Gold,Bachelor Degree,$150.60,"$1,477.96",Kingsport,TN
+889,Annmaria,Sherwood,Annmaria.Sherwood@datascience.aot.com,Agender,Silver,Some College,$282.16,$555.39,Los Angeles,CA
+890,Alon,O'Reilly,Alon.O'Reilly@datascience.aot.com,Non-binary,Silver,PhD,$160.69,"$2,185.37",Tulsa,OK
+891,Shandee,Onn,Shandee.Onn@datascience.aot.com,Female,Silver,Bachelor Degree,$381.42,"$4,951.96",Young America,MN
+892,Kerwinn,Ragg,Kerwinn.Ragg@datascience.aot.com,Male,Gold,Some College,$222.50,$798.22,Toledo,OH
+893,Melosa,Gritskov,Melosa.Gritskov@datascience.aot.com,Female,Gold,PhD,$312.01,"$4,957.63",Washington,DC
+894,Talbert,Beche,Talbert.Beche@datascience.aot.com,Male,Gold,Master Degree,$162.25,"$1,961.27",Shreveport,LA
+895,Shanan,Schnieder,Shanan.Schnieder@datascience.aot.com,Male,Gold,Bachelor Degree,$363.54,$462.37,Santa Rosa,CA
+896,Gunner,Scotter,Gunner.Scotter@datascience.aot.com,Male,Silver,PhD,$214.16,"$2,878.20",,
+897,Chester,Mugglestone,Chester.Mugglestone@datascience.aot.com,Agender,Platnium,Some College,$347.07,"$3,841.11",Springfield,MO
+898,Tessa,Issatt,Tessa.Issatt@datascience.aot.com,Female,Gold,High School Diploma,$262.73,"$4,067.07",Dallas,TX
+899,Boonie,Begin,Boonie.Begin@datascience.aot.com,Agender,None,High School Diploma,$162.92,"$1,046.45",Edmond,OK
+900,Oralie,Eastcourt,Oralie.Eastcourt@datascience.aot.com,Female,Silver,PhD,$362.78,$958.97,New York City,NY
+901,Burtie,Beard,Burtie.Beard@datascience.aot.com,Male,Platnium,Some College,$260.51,"$2,341.76",Boulder,CO
+902,Pyotr,Rawnsley,Pyotr.Rawnsley@datascience.aot.com,Male,Gold,Some College,$270.45,"$4,610.57",Reston,VA
+903,Emmanuel,Bengal,Emmanuel.Bengal@datascience.aot.com,Male,Platnium,PhD,$327.42,"$2,127.36",Santa Fe,NM
+904,Concordia,Frankton,Concordia.Frankton@datascience.aot.com,Female,Platnium,Bachelor Degree,$313.12,"$4,427.62",Fort Worth,TX
+905,Chic,Boice,Chic.Boice@datascience.aot.com,Male,None,High School Diploma,$341.63,"$2,247.58",New York City,NY
+906,Ethe,Frane,Ethe.Frane@datascience.aot.com,Male,Platnium,Some College,$347.41,"$3,171.06",Colorado Springs,CO
+907,Joni,Coulthard,Joni.Coulthard@datascience.aot.com,Female,Silver,PhD,$204.28,"$4,245.30",Houston,TX
+908,Anthiathia,Duffan,Anthiathia.Duffan@datascience.aot.com,Female,Gold,Some College,$314.38,"$2,131.73",,
+909,Elissa,Grimstead,Elissa.Grimstead@datascience.aot.com,Female,None,High School Diploma,$369.31,"$3,393.27",Birmingham,AL
+910,Beryle,Paur,Beryle.Paur@datascience.aot.com,Bigender,Silver,Master Degree,$225.27,"$1,558.79",San Francisco,CA
+911,Brad,Stowte,Brad.Stowte@datascience.aot.com,Male,Platnium,Bachelor Degree,$373.51,"$2,383.63",Philadelphia,PA
+912,Arron,Sloy,Arron.Sloy@datascience.aot.com,Male,None,Bachelor Degree,$221.30,$678.12,Shawnee Mission,KS
+913,Vinnie,Antecki,Vinnie.Antecki@datascience.aot.com,Male,Silver,High School Diploma,$311.76,"$4,055.49",Minneapolis,MN
+914,Manuel,McCloy,Manuel.McCloy@datascience.aot.com,Male,Gold,,,,Rochester,NY
+915,Damon,Iacovides,Damon.Iacovides@datascience.aot.com,Genderfluid,Platnium,Bachelor Degree,$365.42,"$4,098.59",Chicago,IL
+916,Monroe,Abramowsky,Monroe.Abramowsky@datascience.aot.com,Male,None,Bachelor Degree,$378.28,"$4,624.90",Fort Worth,TX
+917,Allin,Hufton,Allin.Hufton@datascience.aot.com,Male,None,Some College,$164.26,"$4,034.82",New York City,NY
+918,Christophorus,Smewings,Christophorus.Smewings@datascience.aot.com,Male,None,PhD,$287.96,"$3,246.89",Austin,TX
+919,Ranique,Reary,Ranique.Reary@datascience.aot.com,Genderqueer,None,Master Degree,$266.30,$664.38,Atlanta,GA
+920,Nat,Wellman,Nat.Wellman@datascience.aot.com,Male,Silver,High School Diploma,$241.45,"$1,862.35",Roanoke,VA
+921,Shelton,Capini,Shelton.Capini@datascience.aot.com,Male,Platnium,High School Diploma,$212.36,"$1,294.47",Erie,PA
+922,Harrietta,Elington,Harrietta.Elington@datascience.aot.com,Female,Silver,PhD,$182.61,"$4,942.46",Mesquite,TX
+923,Cacilia,MacMurray,Cacilia.MacMurray@datascience.aot.com,Female,None,Some College,$152.58,"$1,432.34",Sioux Falls,SD
+924,Baillie,Riquet,Baillie.Riquet@datascience.aot.com,Male,Gold,PhD,$238.98,"$4,469.03",,
+925,Vassili,Huge,Vassili.Huge@datascience.aot.com,Male,Gold,Some College,$363.86,"$4,039.71",Wilmington,NC
+926,Stephana,McParlin,Stephana.McParlin@datascience.aot.com,Genderfluid,Silver,Bachelor Degree,$215.09,$620.77,Inglewood,CA
+927,Reyna,Caunter,Reyna.Caunter@datascience.aot.com,Female,Gold,PhD,$320.87,$573.54,Denver,CO
+928,Brocky,Hannabuss,Brocky.Hannabuss@datascience.aot.com,Male,Platnium,High School Diploma,$306.44,"$3,628.12",Raleigh,NC
+929,Berry,Gorce,Berry.Gorce@datascience.aot.com,Female,Silver,Some College,$232.68,"$1,605.21",Hartford,CT
+930,Pat,Feacham,Pat.Feacham@datascience.aot.com,Male,Platnium,Master Degree,$369.71,"$2,465.62",Seminole,FL
+931,Prentiss,Cartan,Prentiss.Cartan@datascience.aot.com,Male,None,Master Degree,$314.76,"$4,338.82",,
+932,Blakelee,Bruster,Blakelee.Bruster@datascience.aot.com,Female,Platnium,High School Diploma,$378.43,"$4,351.21",Cleveland,OH
+933,Bridie,Crowth,Bridie.Crowth@datascience.aot.com,Female,Silver,Master Degree,$230.37,$913.93,Indianapolis,IN
+934,Erda,Haddinton,Erda.Haddinton@datascience.aot.com,Female,None,Master Degree,$330.23,"$1,021.31",New York City,NY
+935,Dyann,Wadesworth,Dyann.Wadesworth@datascience.aot.com,Female,Gold,Bachelor Degree,$270.09,"$3,376.58",Decatur,IL
+936,Reade,Quaif,Reade.Quaif@datascience.aot.com,Male,None,High School Diploma,$371.47,"$2,948.54",Philadelphia,PA
+937,Arley,Matys,Arley.Matys@datascience.aot.com,Non-binary,Gold,PhD,$176.50,"$1,332.23",Peoria,IL
+938,Daren,Harome,Daren.Harome@datascience.aot.com,Male,Silver,Bachelor Degree,$374.95,"$3,947.19",Glendale,AZ
+939,Verena,Darington,Verena.Darington@datascience.aot.com,Female,Gold,PhD,$326.88,"$2,646.54",Fort Worth,TX
+940,Addison,Birwhistle,Addison.Birwhistle@datascience.aot.com,Male,Platnium,Bachelor Degree,$336.04,$754.07,Charlotte,NC
+941,Bertha,Devonshire,Bertha.Devonshire@datascience.aot.com,Female,Gold,High School Diploma,$179.67,"$1,202.01",Sacramento,CA
+942,Shina,Brocket,Shina.Brocket@datascience.aot.com,Female,Silver,High School Diploma,$267.82,"$3,911.03",Philadelphia,PA
+943,Dominique,Colvie,Dominique.Colvie@datascience.aot.com,Male,Silver,,,,Houston,TX
+944,Kitti,Fronzek,Kitti.Fronzek@datascience.aot.com,Female,Silver,Bachelor Degree,$288.72,"$1,347.31",Kansas City,MO
+945,Jo-anne,Trett,Jo-anne.Trett@datascience.aot.com,Polygender,Gold,Bachelor Degree,$391.88,"$4,580.07",Odessa,TX
+946,Immanuel,Catt,Immanuel.Catt@datascience.aot.com,Male,Platnium,Bachelor Degree,$240.97,$664.87,,
+947,Kessiah,Meece,Kessiah.Meece@datascience.aot.com,Female,Silver,Master Degree,$367.42,"$4,201.41",Saint Louis,MO
+948,Alexandro,Weitzel,Alexandro.Weitzel@datascience.aot.com,Male,Silver,Bachelor Degree,$320.55,"$3,721.38",Birmingham,AL
+949,Ephrayim,Greatex,Ephrayim.Greatex@datascience.aot.com,Male,Platnium,Some College,$277.40,$946.31,Johnstown,PA
+950,Rodrigo,Peile,Rodrigo.Peile@datascience.aot.com,Male,Platnium,PhD,$296.67,"$4,636.45",Lexington,KY
+951,Cassius,Carnoghan,Cassius.Carnoghan@datascience.aot.com,Male,Gold,High School Diploma,$391.44,"$1,145.47",Spokane,WA
+952,Nikola,Baldwin,Nikola.Baldwin@datascience.aot.com,Male,Silver,Bachelor Degree,$340.63,"$1,518.68",Houston,TX
+953,Papageno,Buffy,Papageno.Buffy@datascience.aot.com,Male,Silver,Some College,$270.75,"$3,171.52",Washington,DC
+954,Ferne,Murtagh,Ferne.Murtagh@datascience.aot.com,Polygender,Platnium,Master Degree,$202.53,"$3,166.66",Jamaica,NY
+955,Cristian,Hambrick,Cristian.Hambrick@datascience.aot.com,Male,None,High School Diploma,$171.37,"$1,238.92",El Paso,TX
+956,Luciana,Greenalf,Luciana.Greenalf@datascience.aot.com,Female,Silver,Master Degree,$380.13,"$1,652.24",Fort Lauderdale,FL
+957,Lynnelle,Blaisdale,Lynnelle.Blaisdale@datascience.aot.com,Female,Silver,Master Degree,$218.47,"$4,942.62",Tyler,TX
+958,Melvyn,Mankor,Melvyn.Mankor@datascience.aot.com,Male,Gold,Master Degree,$156.95,$843.00,Anniston,AL
+959,Kit,Kunert,Kit.Kunert@datascience.aot.com,Female,Gold,Some College,$356.39,"$2,823.16",Topeka,KS
+960,Etienne,Lundbeck,Etienne.Lundbeck@datascience.aot.com,Male,None,Master Degree,$380.05,"$2,642.58",Dallas,TX
+961,Nicoline,Ramlot,Nicoline.Ramlot@datascience.aot.com,Female,Gold,Master Degree,$251.11,"$4,456.11",New York City,NY
+962,Merv,Smurfitt,Merv.Smurfitt@datascience.aot.com,Male,Silver,PhD,$171.33,"$4,799.47",,
+963,Netty,Hachette,Netty.Hachette@datascience.aot.com,Female,Platnium,High School Diploma,$384.70,"$2,278.37",Huntington,WV
+964,Cara,Peteri,Cara.Peteri@datascience.aot.com,Genderqueer,Platnium,PhD,$274.55,"$1,174.05",Santa Fe,NM
+965,Jacquetta,Bonson,Jacquetta.Bonson@datascience.aot.com,Female,None,Bachelor Degree,$154.53,"$4,116.38",Plano,TX
+966,Mallissa,Gomery,Mallissa.Gomery@datascience.aot.com,Female,None,High School Diploma,$196.82,"$2,879.32",Amarillo,TX
+967,Cly,Hunn,Cly.Hunn@datascience.aot.com,Male,Gold,Bachelor Degree,$392.40,$588.63,New York City,NY
+968,Karlis,Talton,Karlis.Talton@datascience.aot.com,Male,Gold,High School Diploma,$228.23,"$3,147.28",Knoxville,TN
+969,Merline,Cayton,Merline.Cayton@datascience.aot.com,Female,Platnium,High School Diploma,$199.23,$836.61,Tulsa,OK
+970,Blondie,Luberti,Blondie.Luberti@datascience.aot.com,Female,None,High School Diploma,$260.43,"$4,626.94",Washington,DC
+971,Hans,Rippingall,Hans.Rippingall@datascience.aot.com,Male,None,High School Diploma,$327.95,"$1,729.46",Washington,DC
+972,Franky,McBrearty,Franky.McBrearty@datascience.aot.com,Male,None,PhD,$292.12,"$2,100.76",Hampton,VA
+973,Lamond,Pizzey,Lamond.Pizzey@datascience.aot.com,Male,Gold,Bachelor Degree,$188.26,"$1,760.08",Raleigh,NC
+974,Weston,Bolf,Weston.Bolf@datascience.aot.com,Male,None,High School Diploma,$348.75,"$2,796.05",Dallas,TX
+975,Sadella,Orteaux,Sadella.Orteaux@datascience.aot.com,Female,Gold,PhD,$352.45,"$4,590.36",Albuquerque,NM
+976,Shanon,Yeatman,Shanon.Yeatman@datascience.aot.com,Female,None,High School Diploma,$258.77,"$2,661.81",Pompano Beach,FL
+977,Jacobo,Doddridge,Jacobo.Doddridge@datascience.aot.com,Male,None,High School Diploma,$312.67,"$2,447.51",Fort Myers,FL
+978,Julina,Berns,Julina.Berns@datascience.aot.com,Female,None,PhD,$345.04,"$3,667.47",Philadelphia,PA
+979,Lianna,Lamke,Lianna.Lamke@datascience.aot.com,Female,Silver,Some College,$197.58,$713.16,Odessa,TX
+980,Nerti,Stokoe,Nerti.Stokoe@datascience.aot.com,Female,Platnium,Some College,$237.80,"$2,110.05",Killeen,TX
+981,Renaud,Mongeot,Renaud.Mongeot@datascience.aot.com,Male,None,PhD,$244.21,$729.34,Alexandria,VA
+982,Serena,Oxby,Serena.Oxby@datascience.aot.com,Female,Silver,High School Diploma,$370.62,"$1,840.25",Denver,CO
+983,Jeanne,Pietz,Jeanne.Pietz@datascience.aot.com,Female,None,Bachelor Degree,$340.79,"$3,088.64",,
+984,Kalinda,Bradborne,Kalinda.Bradborne@datascience.aot.com,Female,Gold,PhD,$255.67,"$3,472.31",North Las Vegas,NV
+985,Marylin,Downgate,Marylin.Downgate@datascience.aot.com,Female,Silver,High School Diploma,$335.78,"$2,900.71",Buffalo,NY
+986,Freddy,McIlraith,Freddy.McIlraith@datascience.aot.com,Female,Gold,PhD,$215.31,"$2,901.93",Cleveland,OH
+987,Mitchell,St Ledger,Mitchell.St Ledger@datascience.aot.com,Male,None,Master Degree,$164.30,"$3,444.76",Myrtle Beach,SC
+988,Ozzy,McAlarney,Ozzy.McAlarney@datascience.aot.com,Male,Silver,Bachelor Degree,$333.94,"$2,909.79",Philadelphia,PA
+989,Raviv,Bantock,Raviv.Bantock@datascience.aot.com,Male,Platnium,Master Degree,$274.09,"$4,735.03",Spokane,WA
+990,Debera,Dracksford,Debera.Dracksford@datascience.aot.com,Female,Platnium,Master Degree,$363.93,"$2,987.23",Roanoke,VA
+991,Chuck,Pagan,Chuck.Pagan@datascience.aot.com,Male,Gold,Bachelor Degree,$281.68,$961.17,San Diego,CA
+992,Fiona,Ruddock,Fiona.Ruddock@datascience.aot.com,Female,Platnium,High School Diploma,$195.94,"$2,667.32",Atlanta,GA
+993,Katie,Ellen,Katie.Ellen@datascience.aot.com,Female,None,Some College,$257.77,"$4,718.16",Clearwater,FL
+994,Brantley,Feechum,Brantley.Feechum@datascience.aot.com,Non-binary,Platnium,Some College,$320.21,"$2,733.18",Huntsville,AL
+995,Kirstyn,Klulik,Kirstyn.Klulik@datascience.aot.com,Non-binary,Silver,PhD,$230.08,"$2,260.82",Charlotte,NC
+996,Violante,Dran,Violante.Dran@datascience.aot.com,Female,Silver,Some College,$303.10,$444.70,Aurora,CO
+997,Salvatore,Keneford,Salvatore.Keneford@datascience.aot.com,Male,Platnium,Master Degree,$293.19,"$4,789.27",Las Vegas,NV
+998,Judye,Brazenor,Judye.Brazenor@datascience.aot.com,Female,Silver,,,,Sacramento,CA
+999,Marchall,Goodhay,Marchall.Goodhay@datascience.aot.com,Male,Platnium,High School Diploma,$212.34,"$1,150.36",Green Bay,WI
+1000,Nero,Horning,Nero.Horning@datascience.aot.com,Male,None,High School Diploma,$168.89,"$2,863.89",,
+1001,Kenna,Gilvary,Kenna.Gilvary@datascience.aot.com,Female,Platnium,High School Diploma,$368.82,"$4,029.61",Tyler,TX
+1002,Athene,D'Adamo,Athene.D'Adamo@datascience.aot.com,Female,None,PhD,$202.99,"$2,567.84",Denver,CO
+1003,Madel,Balchen,Madel.Balchen@datascience.aot.com,Female,Silver,Master Degree,$396.55,"$1,167.27",Pittsburgh,PA
+1004,Kacie,Jiru,Kacie.Jiru@datascience.aot.com,Female,Gold,PhD,$372.84,"$3,032.80",Cincinnati,OH
+1005,Eugenio,Caldera,Eugenio.Caldera@datascience.aot.com,Male,Silver,Master Degree,$167.71,"$1,081.16",Detroit,MI
+1006,Mile,Preuvost,Mile.Preuvost@datascience.aot.com,Genderqueer,Gold,High School Diploma,$210.80,$895.11,Atlanta,GA
+1007,Danni,Wickersley,Danni.Wickersley@datascience.aot.com,Female,None,Master Degree,$235.39,"$4,401.94",Pasadena,CA
+1008,Debee,Delacourt,Debee.Delacourt@datascience.aot.com,Female,Silver,PhD,$266.26,"$3,019.79",Las Vegas,NV
+1009,Linn,Lyte,Linn.Lyte@datascience.aot.com,Female,Silver,High School Diploma,$364.82,"$3,390.48",Louisville,KY
+1010,Jeramey,Pearmain,Jeramey.Pearmain@datascience.aot.com,Male,Platnium,Some College,$399.47,"$1,543.07",,
+1011,Bryant,Williamson,Bryant.Williamson@datascience.aot.com,Male,None,Bachelor Degree,$298.21,"$1,872.99",Atlanta,GA
+1012,Janot,Wenderoth,Janot.Wenderoth@datascience.aot.com,Female,None,PhD,$355.71,"$3,487.04",Pittsburgh,PA
+1013,Janot,Overell,Janot.Overell@datascience.aot.com,Female,Silver,Master Degree,$381.10,"$1,906.60",Birmingham,AL
+1014,Kimberli,Laxston,Kimberli.Laxston@datascience.aot.com,Female,Silver,Master Degree,$325.95,"$1,511.30",Santa Barbara,CA
+1015,Kirbee,Sadat,Kirbee.Sadat@datascience.aot.com,Female,Platnium,Some College,$155.62,"$4,051.40",Little Rock,AR
+1016,Ad,Fossick,Ad.Fossick@datascience.aot.com,Male,Gold,Bachelor Degree,$178.64,"$4,756.14",Pasadena,CA
+1017,Ramon,Cornely,Ramon.Cornely@datascience.aot.com,Male,None,Master Degree,$275.97,"$1,442.97",Washington,DC
+1018,Cacilie,Bonifacio,Cacilie.Bonifacio@datascience.aot.com,Female,Gold,Bachelor Degree,$182.35,"$3,169.85",Merrifield,VA
+1019,Katti,Rizzardini,Katti.Rizzardini@datascience.aot.com,Female,Platnium,Master Degree,$298.44,"$1,713.07",Pittsburgh,PA
+1020,Nicki,Storek,Nicki.Storek@datascience.aot.com,Female,Platnium,Bachelor Degree,$364.26,"$2,780.59",,
+1021,Mechelle,Tuxill,Mechelle.Tuxill@datascience.aot.com,Non-binary,None,Bachelor Degree,$249.18,$932.45,Houston,TX
+1022,Matias,Foxall,Matias.Foxall@datascience.aot.com,Male,Platnium,Some College,$335.01,"$3,408.22",Kansas City,MO
+1023,Blake,Berthomieu,Blake.Berthomieu@datascience.aot.com,Male,None,High School Diploma,$176.82,"$1,979.22",Little Rock,AR
+1024,Jarvis,Dagworthy,Jarvis.Dagworthy@datascience.aot.com,Male,Silver,Master Degree,$170.32,"$3,592.14",Staten Island,NY
+1025,Alister,Temprell,Alister.Temprell@datascience.aot.com,Male,Gold,Bachelor Degree,$183.63,"$3,723.41",Virginia Beach,VA
+1026,Nonie,Saunderson,Nonie.Saunderson@datascience.aot.com,Bigender,Silver,PhD,$336.33,"$1,384.90",Abilene,TX
+1027,Benedick,Roderham,Benedick.Roderham@datascience.aot.com,Male,None,Some College,$297.29,"$4,681.77",Columbus,OH
+1028,Cyndi,Gaw,Cyndi.Gaw@datascience.aot.com,Female,None,Master Degree,$299.83,"$3,145.27",Atlanta,GA
+1029,Uriah,Dally,Uriah.Dally@datascience.aot.com,Male,None,Master Degree,$267.41,"$3,169.16",,
+1030,Killian,Shingfield,Killian.Shingfield@datascience.aot.com,Male,Gold,High School Diploma,$233.85,$586.39,Orlando,FL
+1031,Maurene,Rominov,Maurene.Rominov@datascience.aot.com,Female,Platnium,Bachelor Degree,$305.75,"$4,707.60",,
+1032,Zolly,De Vuyst,Zolly.De Vuyst@datascience.aot.com,Male,Silver,PhD,$363.61,$700.83,Washington,DC
+1033,Ira,Josefsson,Ira.Josefsson@datascience.aot.com,Female,Silver,PhD,$354.38,"$3,269.20",Dallas,TX
+1034,Annamaria,Hufton,Annamaria.Hufton@datascience.aot.com,Bigender,Silver,High School Diploma,$362.29,"$1,359.84",Brooklyn,NY
+1035,Prudy,Argue,Prudy.Argue@datascience.aot.com,Female,Platnium,Bachelor Degree,$334.26,"$2,815.97",El Paso,TX
+1036,Ilse,Brownlow,Ilse.Brownlow@datascience.aot.com,Female,Silver,PhD,$349.03,"$4,188.47",Orlando,FL
+1037,Udall,Stidson,Udall.Stidson@datascience.aot.com,Male,None,Master Degree,$258.01,"$2,950.49",Sacramento,CA
+1038,Joellyn,O'Bruen,Joellyn.O'Bruen@datascience.aot.com,Female,Silver,Bachelor Degree,$382.14,"$4,928.91",Columbus,OH
+1039,Kessiah,Bradfield,Kessiah.Bradfield@datascience.aot.com,Female,Platnium,PhD,$267.69,"$4,751.27",Miami,FL
+1040,Elysia,Lilley,Elysia.Lilley@datascience.aot.com,Genderqueer,Gold,PhD,$391.18,"$1,808.07",Roanoke,VA
+1041,Emmett,Duffin,Emmett.Duffin@datascience.aot.com,Male,Platnium,High School Diploma,$366.45,"$4,430.97",Melbourne,FL
+1042,Nicki,Cowton,Nicki.Cowton@datascience.aot.com,Genderqueer,Gold,Master Degree,$290.12,$967.57,Brooklyn,NY
+1043,Maurizio,Covendon,Maurizio.Covendon@datascience.aot.com,Male,Silver,PhD,$248.00,"$3,354.36",Boston,MA
+1044,Emlyn,Artus,Emlyn.Artus@datascience.aot.com,Male,Silver,PhD,$172.84,"$4,892.39",Alexandria,VA
+1045,Thaddus,Ellson,Thaddus.Ellson@datascience.aot.com,Non-binary,Platnium,Bachelor Degree,$382.41,"$3,739.40",Pittsburgh,PA
+1046,Anthony,Newbatt,Anthony.Newbatt@datascience.aot.com,Male,Gold,High School Diploma,$264.86,"$1,883.65",Buffalo,NY
+1047,Kathrine,Kadar,Kathrine.Kadar@datascience.aot.com,Female,Gold,Bachelor Degree,$292.55,"$1,428.65",Seminole,FL
+1048,Gram,Bethel,Gram.Bethel@datascience.aot.com,Male,Silver,Bachelor Degree,$283.87,"$1,364.62",Dallas,TX
+1049,Gayle,Leathart,Gayle.Leathart@datascience.aot.com,Female,None,Some College,$331.42,"$1,422.04",,
+1050,Noll,Pelling,Noll.Pelling@datascience.aot.com,Male,Platnium,PhD,$263.19,"$3,224.15",London,KY
+1051,Nichols,Bilyard,Nichols.Bilyard@datascience.aot.com,Male,Gold,PhD,$160.42,$826.46,Roanoke,VA
+1052,Stormi,Kille,Stormi.Kille@datascience.aot.com,Non-binary,None,Bachelor Degree,$319.66,"$4,625.77",Springfield,IL
+1053,Cathy,Harnett,Cathy.Harnett@datascience.aot.com,Genderfluid,Platnium,PhD,$236.60,"$1,129.37",Syracuse,NY
+1054,Kermie,Jerke,Kermie.Jerke@datascience.aot.com,Male,Silver,Bachelor Degree,$176.18,$705.14,Birmingham,AL
+1055,Jacinthe,Pedrocco,Jacinthe.Pedrocco@datascience.aot.com,Female,Silver,High School Diploma,$308.41,"$3,911.77",Houston,TX
+1056,Sergei,Toor,Sergei.Toor@datascience.aot.com,Male,Platnium,Bachelor Degree,$318.25,"$1,549.85",San Antonio,TX
+1057,Raddy,Foro,Raddy.Foro@datascience.aot.com,Male,Gold,Master Degree,$290.64,"$2,843.68",Denver,CO
+1058,Marlowe,Robken,Marlowe.Robken@datascience.aot.com,Genderfluid,None,Master Degree,$325.76,"$4,611.37",Tallahassee,FL
+1059,Jerrie,Orchart,Jerrie.Orchart@datascience.aot.com,Male,Gold,PhD,$226.90,"$2,843.00",San Antonio,TX
+1060,Carolyne,Emmanuel,Carolyne.Emmanuel@datascience.aot.com,Female,Gold,PhD,$199.39,"$1,537.57",,
+1061,Sallie,Branche,Sallie.Branche@datascience.aot.com,Female,Gold,Bachelor Degree,$159.46,"$1,231.08",Topeka,KS
+1062,Jdavie,Maltman,Jdavie.Maltman@datascience.aot.com,Male,Gold,PhD,$286.64,"$4,281.05",Boise,ID
+1063,Jennica,Medlar,Jennica.Medlar@datascience.aot.com,Female,Gold,Some College,$266.54,"$4,682.59",Huntsville,AL
+1064,Diarmid,Epine,Diarmid.Epine@datascience.aot.com,Male,Silver,PhD,$230.27,"$2,142.36",San Antonio,TX
+1065,Elonore,Langcaster,Elonore.Langcaster@datascience.aot.com,Female,Gold,PhD,$249.69,$728.96,Little Rock,AR
+1066,Pace,Vannuccini,Pace.Vannuccini@datascience.aot.com,Male,Silver,Bachelor Degree,$170.70,"$3,259.74",Loretto,MN
+1067,Galvan,Shepstone,Galvan.Shepstone@datascience.aot.com,Male,None,Some College,$300.37,"$3,205.02",Newark,NJ
+1068,Cyrus,Slobom,Cyrus.Slobom@datascience.aot.com,Male,None,Bachelor Degree,$311.27,"$1,252.66",Buffalo,NY
+1069,Carol-jean,Burren,Carol-jean.Burren@datascience.aot.com,Female,Gold,Bachelor Degree,$307.12,"$1,017.34",Great Neck,NY
+1070,Reynard,McReidy,Reynard.McReidy@datascience.aot.com,Male,Platnium,Bachelor Degree,$246.82,"$2,555.18",Daytona Beach,FL
+1071,Julee,Gingedale,Julee.Gingedale@datascience.aot.com,Female,Platnium,PhD,$385.08,"$1,254.45",Corpus Christi,TX
+1072,Devina,Ballintime,Devina.Ballintime@datascience.aot.com,Female,Silver,High School Diploma,$165.18,"$2,911.69",Denver,CO
+1073,Derick,Dory,Derick.Dory@datascience.aot.com,Male,Platnium,Some College,$189.18,"$1,094.39",West Palm Beach,FL
+1074,Darleen,Morales,Darleen.Morales@datascience.aot.com,Female,Silver,Some College,$166.23,"$3,881.34",Idaho Falls,ID
+1075,Nanny,Pinching,Nanny.Pinching@datascience.aot.com,Female,Gold,Some College,$365.79,"$4,405.02",,
+1076,George,Cecchetelli,George.Cecchetelli@datascience.aot.com,Male,Gold,Some College,$353.88,"$1,438.56",Kansas City,MO
+1077,Persis,Bone,Persis.Bone@datascience.aot.com,Female,None,Master Degree,$257.88,$590.53,Wichita,KS
+1078,Tonie,Kilbourne,Tonie.Kilbourne@datascience.aot.com,Female,Silver,Master Degree,$209.77,"$1,569.39",Shawnee Mission,KS
+1079,Wilma,Firman,Wilma.Firman@datascience.aot.com,Female,Platnium,Bachelor Degree,$338.15,"$1,801.71",Dallas,TX
+1080,Philbert,Justham,Philbert.Justham@datascience.aot.com,Male,Gold,PhD,$160.18,"$2,960.09",El Paso,TX
+1081,Barthel,Diable,Barthel.Diable@datascience.aot.com,Male,Gold,Some College,$358.64,"$2,975.82",Greenville,SC
+1082,Cletus,Esmonde,Cletus.Esmonde@datascience.aot.com,Male,Silver,PhD,$191.68,"$2,918.35",,
+1083,Archer,Sicha,Archer.Sicha@datascience.aot.com,Polygender,Silver,PhD,$347.98,"$4,691.91",Paterson,NJ
+1084,Gradeigh,Edmenson,Gradeigh.Edmenson@datascience.aot.com,Male,Platnium,High School Diploma,$190.76,"$4,681.84",Chula Vista,CA
+1085,Jonah,Sargent,Jonah.Sargent@datascience.aot.com,Male,Silver,Some College,$226.04,"$1,035.60",Austin,TX
+1086,Fitz,Miettinen,Fitz.Miettinen@datascience.aot.com,Agender,None,Master Degree,$391.75,"$1,897.49",,
+1087,Georgette,Clerk,Georgette.Clerk@datascience.aot.com,Female,None,PhD,$195.34,"$2,870.21",El Paso,TX
+1088,Ralina,Dyble,Ralina.Dyble@datascience.aot.com,Female,Silver,High School Diploma,$315.91,"$2,891.23",Houston,TX
+1089,Fred,Helleker,Fred.Helleker@datascience.aot.com,Female,None,,,,,
+1090,Alon,Ivain,Alon.Ivain@datascience.aot.com,Male,None,Master Degree,$214.08,"$4,795.85",Vienna,VA
+1091,Trace,Lofting,Trace.Lofting@datascience.aot.com,Male,Platnium,Bachelor Degree,$204.58,"$2,418.48",Bakersfield,CA
+1092,Cazzie,Everil,Cazzie.Everil@datascience.aot.com,Male,Gold,High School Diploma,$267.15,"$2,260.45",New Haven,CT
+1093,Dionne,Goldstone,Dionne.Goldstone@datascience.aot.com,Female,Platnium,Master Degree,$185.35,"$1,992.07",Pompano Beach,FL
+1094,Jacky,Boarer,Jacky.Boarer@datascience.aot.com,Female,Platnium,Bachelor Degree,$396.75,"$4,513.47",,
+1095,Meade,Scawton,Meade.Scawton@datascience.aot.com,Female,Gold,High School Diploma,$340.36,"$1,743.87",Shawnee Mission,KS
+1096,Noby,Blackah,Noby.Blackah@datascience.aot.com,Male,Gold,Master Degree,$382.81,"$3,745.10",,
+1097,Scarface,Bruyet,Scarface.Bruyet@datascience.aot.com,Male,Platnium,Bachelor Degree,$354.05,"$4,887.98",Akron,OH
+1098,Ade,Tivenan,Ade.Tivenan@datascience.aot.com,Male,None,Some College,$278.87,"$1,211.58",Redwood City,CA
+1099,Yorker,Moth,Yorker.Moth@datascience.aot.com,Male,None,Master Degree,$191.65,"$1,612.84",Nashville,TN
+1100,Dulsea,Widdicombe,Dulsea.Widdicombe@datascience.aot.com,Female,Platnium,Master Degree,$157.99,"$3,647.61",Tucson,AZ
+1101,Meris,Simpkin,Meris.Simpkin@datascience.aot.com,Female,Gold,Some College,$368.08,"$2,713.47",Miami,FL
+1102,Cara,Downie,Cara.Downie@datascience.aot.com,Genderfluid,Gold,Bachelor Degree,$373.50,"$4,228.88",,
+1103,Krisha,Delve,Krisha.Delve@datascience.aot.com,Male,Gold,,,,New Haven,CT
+1104,Jerald,Barroux,Jerald.Barroux@datascience.aot.com,Male,Platnium,High School Diploma,$197.99,"$4,365.70",San Diego,CA
+1105,Kacie,O'Heyne,Kacie.O'Heyne@datascience.aot.com,Female,Silver,High School Diploma,$232.77,"$2,997.31",Dallas,TX
+1106,Elenore,Bocke,Elenore.Bocke@datascience.aot.com,Female,Platnium,Master Degree,$277.60,"$1,929.00",Indianapolis,IN
+1107,Pat,Stains,Pat.Stains@datascience.aot.com,Female,None,Bachelor Degree,$344.04,$953.99,Jacksonville,FL
+1108,Morris,Stickland,Morris.Stickland@datascience.aot.com,Male,Gold,High School Diploma,$169.51,"$4,409.60",Bronx,NY
+1109,Karlis,Lampaert,Karlis.Lampaert@datascience.aot.com,Male,None,Bachelor Degree,$251.46,"$2,591.54",Decatur,GA
+1110,Tucky,Dobrowolny,Tucky.Dobrowolny@datascience.aot.com,Male,Gold,High School Diploma,$383.59,"$4,187.44",Peoria,IL
+1111,Sarah,O'Dyvoy,Sarah.O'Dyvoy@datascience.aot.com,Female,Gold,Master Degree,$281.39,"$4,035.44",,
+1112,Ernesta,Sulley,Ernesta.Sulley@datascience.aot.com,Female,Silver,High School Diploma,$187.17,"$3,295.29",Fort Lauderdale,FL
+1113,Mariellen,Poff,Mariellen.Poff@datascience.aot.com,Polygender,Gold,Bachelor Degree,$204.50,"$2,820.23",Pueblo,CO
+1114,Gasper,Figliovanni,Gasper.Figliovanni@datascience.aot.com,Genderfluid,Silver,High School Diploma,$199.76,"$2,077.86",,
+1115,Ingar,Scarse,Ingar.Scarse@datascience.aot.com,Male,Silver,Master Degree,$293.30,"$3,009.18",Saint Petersburg,FL
+1116,Brigg,Paragreen,Brigg.Paragreen@datascience.aot.com,Male,None,Bachelor Degree,$378.48,"$2,286.22",Denver,CO
+1117,Alanna,Hovey,Alanna.Hovey@datascience.aot.com,Female,Silver,High School Diploma,$288.25,"$2,570.36",,
+1118,Dick,Sallery,Dick.Sallery@datascience.aot.com,Male,Silver,Master Degree,$331.04,"$3,320.16",Vancouver,WA
+1119,Mozelle,Jarmain,Mozelle.Jarmain@datascience.aot.com,Female,Silver,High School Diploma,$263.90,"$2,296.14",Topeka,KS
+1120,Basile,Bank,Basile.Bank@datascience.aot.com,Male,Gold,High School Diploma,$384.34,"$4,745.26",Norman,OK
+1121,Winn,McLauchlin,Winn.McLauchlin@datascience.aot.com,Male,Platnium,PhD,$347.43,"$2,356.04",San Diego,CA
+1122,Rebecca,Spofford,Rebecca.Spofford@datascience.aot.com,Female,Silver,High School Diploma,$373.28,"$4,401.90",Sacramento,CA
+1123,Sayres,Leeder,Sayres.Leeder@datascience.aot.com,Male,None,Bachelor Degree,$161.52,"$2,858.06",Duluth,GA
+1124,Odey,Skein,Odey.Skein@datascience.aot.com,Male,Silver,PhD,$171.55,"$2,921.17",,
+1125,Beverley,Mowne,Beverley.Mowne@datascience.aot.com,Polygender,Gold,PhD,$392.04,"$2,177.38",Yakima,WA
+1126,Pepi,Humburton,Pepi.Humburton@datascience.aot.com,Female,Gold,Bachelor Degree,$212.45,"$4,710.89",Bozeman,MT
+1127,Lydie,Heamus,Lydie.Heamus@datascience.aot.com,Female,Gold,High School Diploma,$286.11,"$2,551.76",Austin,TX
+1128,Leroi,Larenson,Leroi.Larenson@datascience.aot.com,Male,Gold,High School Diploma,$347.62,"$1,229.76",Boston,MA
+1129,Neil,Soro,Neil.Soro@datascience.aot.com,Male,Platnium,Bachelor Degree,$278.16,"$1,538.81",Chicago,IL
+1130,Ardelia,Winsborrow,Ardelia.Winsborrow@datascience.aot.com,Female,Platnium,,,,Muskegon,MI
+1131,Storm,Udale,Storm.Udale@datascience.aot.com,Female,Gold,PhD,$284.90,"$4,369.47",Birmingham,AL
+1132,Yorker,Quincey,Yorker.Quincey@datascience.aot.com,Male,None,Master Degree,$341.22,"$1,390.78",Kansas City,MO
+1133,Lonny,Ranscombe,Lonny.Ranscombe@datascience.aot.com,Male,None,High School Diploma,$280.21,"$2,333.33",,
+1134,Valentijn,Imlen,Valentijn.Imlen@datascience.aot.com,Male,None,PhD,$253.29,"$4,126.50",,
+1135,Georgiana,Lingard,Georgiana.Lingard@datascience.aot.com,Female,Gold,Bachelor Degree,$304.15,"$3,277.27",Portland,OR
+1136,Lorettalorna,Olliver,Lorettalorna.Olliver@datascience.aot.com,Female,None,PhD,$154.19,"$2,787.82",Bozeman,MT
+1137,Catherina,Serrurier,Catherina.Serrurier@datascience.aot.com,Female,Silver,Bachelor Degree,$171.53,"$2,939.86",Idaho Falls,ID
+1138,Torin,Hrinchenko,Torin.Hrinchenko@datascience.aot.com,Male,Silver,Bachelor Degree,$362.35,$486.17,,
+1139,Ilyssa,Friel,Ilyssa.Friel@datascience.aot.com,Female,Silver,Master Degree,$232.12,"$1,345.17",Greensboro,NC
+1140,Miranda,Tubble,Miranda.Tubble@datascience.aot.com,Female,Silver,Bachelor Degree,$360.02,"$3,074.47",Boynton Beach,FL
+1141,Danyelle,Hambrook,Danyelle.Hambrook@datascience.aot.com,Female,Platnium,Bachelor Degree,$388.52,"$3,430.26",Austin,TX
+1142,Stevana,Romanelli,Stevana.Romanelli@datascience.aot.com,Non-binary,Gold,PhD,$239.75,"$2,415.75",Denver,CO
+1143,Adoree,Adger,Adoree.Adger@datascience.aot.com,Female,Platnium,High School Diploma,$165.97,"$3,752.21",Charlotte,NC
+1144,Berthe,Konke,Berthe.Konke@datascience.aot.com,Genderqueer,Platnium,PhD,$163.05,"$1,159.69",Boise,ID
+1145,Martica,Tiesman,Martica.Tiesman@datascience.aot.com,Female,Silver,Some College,$207.08,$640.05,Evansville,IN
+1146,Sybille,Lovie,Sybille.Lovie@datascience.aot.com,Female,Gold,Master Degree,$217.17,"$3,638.24",Madison,WI
+1147,Ula,Searsby,Ula.Searsby@datascience.aot.com,Female,Silver,PhD,$278.19,"$3,817.74",Los Angeles,CA
+1148,Ax,McLernon,Ax.McLernon@datascience.aot.com,Male,Silver,PhD,$386.51,"$3,234.60",Young America,MN
+1149,Boy,Henricsson,Boy.Henricsson@datascience.aot.com,Male,Platnium,Master Degree,$219.00,"$4,193.42",Arlington,VA
+1150,Freeland,Cowey,Freeland.Cowey@datascience.aot.com,Male,Gold,High School Diploma,$217.40,"$3,852.62",Fort Myers,FL
+1151,Hanna,Roumier,Hanna.Roumier@datascience.aot.com,Female,Platnium,Master Degree,$291.00,$834.63,,
+1152,Werner,Swannell,Werner.Swannell@datascience.aot.com,Male,Silver,High School Diploma,$307.68,"$4,924.13",Birmingham,AL
+1153,Saloma,Kearley,Saloma.Kearley@datascience.aot.com,Female,None,Some College,$356.20,"$4,877.56",Davenport,IA
+1154,Carmine,Profit,Carmine.Profit@datascience.aot.com,Male,None,PhD,$173.02,"$3,390.02",Tampa,FL
+1155,Giovanni,Hedworth,Giovanni.Hedworth@datascience.aot.com,Male,Platnium,Some College,$246.11,"$3,829.54",Ogden,UT
+1156,Jefferson,Oliveto,Jefferson.Oliveto@datascience.aot.com,Male,Platnium,High School Diploma,$197.12,"$2,455.70",,
+1157,Even,Stalf,Even.Stalf@datascience.aot.com,Male,Silver,PhD,$200.32,"$2,847.33",Brockton,MA
+1158,Frederico,Donaway,Frederico.Donaway@datascience.aot.com,Male,Gold,Master Degree,$298.71,"$4,579.80",Flint,MI
+1159,Reinhold,Pre,Reinhold.Pre@datascience.aot.com,Male,None,Bachelor Degree,$238.18,"$1,332.25",Pompano Beach,FL
+1160,Cacilia,Affron,Cacilia.Affron@datascience.aot.com,Female,None,,,,Raleigh,NC
+1161,Tamas,Alcorn,Tamas.Alcorn@datascience.aot.com,Male,Silver,Some College,$328.07,"$3,161.79",Washington,DC
+1162,Yule,Bolesma,Yule.Bolesma@datascience.aot.com,Male,Platnium,High School Diploma,$280.00,"$4,303.30",,
+1163,Linc,Gadesby,Linc.Gadesby@datascience.aot.com,Male,Silver,Master Degree,$205.94,"$3,854.36",Cincinnati,OH
+1164,Christoffer,Lintott,Christoffer.Lintott@datascience.aot.com,Male,Silver,PhD,$246.35,"$1,810.46",Saint Petersburg,FL
+1165,Estrella,Lindermann,Estrella.Lindermann@datascience.aot.com,Bigender,Silver,Bachelor Degree,$338.06,"$4,488.28",Harrisburg,PA
+1166,Concordia,Roger,Concordia.Roger@datascience.aot.com,Female,None,Some College,$233.11,$951.17,Largo,FL
+1167,Rogerio,Viall,Rogerio.Viall@datascience.aot.com,Male,None,High School Diploma,$355.95,$874.04,Houston,TX
+1168,Leighton,Perrin,Leighton.Perrin@datascience.aot.com,Male,Gold,PhD,$268.35,"$3,230.39",Jacksonville,FL
+1169,Lisette,Cruikshank,Lisette.Cruikshank@datascience.aot.com,Female,Silver,Bachelor Degree,$211.86,"$2,591.00",Evansville,IN
+1170,Janet,Towndrow,Janet.Towndrow@datascience.aot.com,Female,Silver,Master Degree,$394.30,"$2,932.18",Terre Haute,IN
+1171,Dody,O'Lenane,Dody.O'Lenane@datascience.aot.com,Agender,None,Some College,$383.15,"$2,124.72",Columbia,SC
+1172,Jerry,Knok,Jerry.Knok@datascience.aot.com,Female,Platnium,PhD,$266.25,"$3,100.83",Odessa,TX
+1173,Ruddie,Landy,Ruddie.Landy@datascience.aot.com,Male,Gold,PhD,$278.89,"$3,654.32",Columbus,GA
+1174,Jinny,Heynen,Jinny.Heynen@datascience.aot.com,Female,Platnium,High School Diploma,$229.44,"$2,368.78",Miami Beach,FL
+1175,Carlyn,Gutcher,Carlyn.Gutcher@datascience.aot.com,Female,Platnium,Bachelor Degree,$302.35,"$4,005.24",Orange,CA
+1176,Ingelbert,Woolner,Ingelbert.Woolner@datascience.aot.com,Male,Platnium,PhD,$213.21,"$3,642.64",Wichita,KS
+1177,Deerdre,Garland,Deerdre.Garland@datascience.aot.com,Female,Platnium,Master Degree,$341.82,"$1,155.28",San Francisco,CA
+1178,Roch,McRinn,Roch.McRinn@datascience.aot.com,Female,Platnium,Master Degree,$347.66,"$1,174.38",Miami,FL
+1179,Cobbie,Twohig,Cobbie.Twohig@datascience.aot.com,Male,Platnium,High School Diploma,$306.51,"$3,241.07",Dayton,OH
+1180,Isabeau,Winterscale,Isabeau.Winterscale@datascience.aot.com,Female,Silver,PhD,$311.03,"$2,404.82",Roanoke,VA
+1181,Bar,Winear,Bar.Winear@datascience.aot.com,Male,Gold,Master Degree,$239.76,"$4,248.26",Anaheim,CA
+1182,Wit,Kearney,Wit.Kearney@datascience.aot.com,Male,None,Bachelor Degree,$183.38,"$2,023.37",Baton Rouge,LA
+1183,Harriott,Bruckmann,Harriott.Bruckmann@datascience.aot.com,Female,Gold,Bachelor Degree,$269.59,$592.30,Phoenix,AZ
+1184,Eyde,Nockalls,Eyde.Nockalls@datascience.aot.com,Female,Gold,Some College,$356.52,"$4,370.64",Amarillo,TX
+1185,Emory,Busse,Emory.Busse@datascience.aot.com,Male,Gold,Master Degree,$282.92,"$4,671.72",Fort Smith,AR
+1186,Jeffry,Fulks,Jeffry.Fulks@datascience.aot.com,Male,Gold,Bachelor Degree,$207.93,"$3,473.90",Buffalo,NY
+1187,Coop,Houtby,Coop.Houtby@datascience.aot.com,Genderfluid,Platnium,High School Diploma,$362.23,"$3,458.13",Albany,NY
+1188,Olivero,Prayer,Olivero.Prayer@datascience.aot.com,Male,Gold,Master Degree,$221.30,"$3,579.96",Alexandria,LA
+1189,Sibylle,Piborn,Sibylle.Piborn@datascience.aot.com,Female,None,Some College,$320.25,"$4,148.25",,
+1190,Tamma,Safell,Tamma.Safell@datascience.aot.com,Female,Gold,Bachelor Degree,$212.62,$896.42,,
+1191,Alvis,Viollet,Alvis.Viollet@datascience.aot.com,Male,Platnium,Bachelor Degree,$166.49,"$2,569.97",Waterbury,CT
+1192,Zaneta,Pullar,Zaneta.Pullar@datascience.aot.com,Female,Silver,Bachelor Degree,$240.22,"$4,250.93",,
+1193,Tanny,Rudsdale,Tanny.Rudsdale@datascience.aot.com,Male,Silver,Some College,$229.03,"$2,600.18",Roanoke,VA
+1194,Hewe,O'Teague,Hewe.O'Teague@datascience.aot.com,Non-binary,Silver,PhD,$178.20,"$4,797.16",Louisville,KY
+1195,Blair,Teggin,Blair.Teggin@datascience.aot.com,Female,Gold,,,,Washington,DC
+1196,Taryn,Gueste,Taryn.Gueste@datascience.aot.com,Female,Gold,Master Degree,$285.94,"$2,794.84",Detroit,MI
+1197,Ariel,Cromleholme,Ariel.Cromleholme@datascience.aot.com,Genderqueer,Silver,PhD,$274.91,"$4,200.07",Houston,TX
+1198,Sisile,Strowthers,Sisile.Strowthers@datascience.aot.com,Female,Platnium,High School Diploma,$163.84,"$1,371.82",Washington,DC
+1199,Micheal,Hoofe,Micheal.Hoofe@datascience.aot.com,Male,Platnium,Master Degree,$156.36,$787.61,North Port,FL
+1200,Irving,Silverthorne,Irving.Silverthorne@datascience.aot.com,Genderqueer,Platnium,PhD,$207.84,"$1,663.03",Fort Wayne,IN
+1201,Baily,Ayree,Baily.Ayree@datascience.aot.com,Male,Platnium,Some College,$159.66,"$2,230.10",,
+1202,Pennie,Van De Cappelle,Pennie.Van De Cappelle@datascience.aot.com,Male,None,,,,Des Moines,IA
+1203,Crissie,Purdon,Crissie.Purdon@datascience.aot.com,Female,None,Master Degree,$202.31,"$3,653.78",,
+1204,Olivero,McWaters,Olivero.McWaters@datascience.aot.com,Male,Platnium,PhD,$172.00,"$4,099.53",Washington,DC
+1205,Debor,Koppens,Debor.Koppens@datascience.aot.com,Female,Gold,Bachelor Degree,$309.99,"$1,580.10",Reston,VA
+1206,Woodie,Hirthe,Woodie.Hirthe@datascience.aot.com,Male,Gold,Some College,$234.57,"$2,986.92",,
+1207,Tabbi,Walters,Tabbi.Walters@datascience.aot.com,Female,None,Bachelor Degree,$197.47,"$1,902.07",Panama City,FL
+1208,Somerset,Clemett,Somerset.Clemett@datascience.aot.com,Male,Silver,PhD,$184.21,"$3,669.07",Washington,DC
+1209,Sly,Tomasino,Sly.Tomasino@datascience.aot.com,Non-binary,None,Some College,$262.96,$879.25,Arlington,TX
+1210,Julita,Grahl,Julita.Grahl@datascience.aot.com,Female,Silver,Bachelor Degree,$234.73,"$4,004.46",Salt Lake City,UT
+1211,Aryn,Haskey,Aryn.Haskey@datascience.aot.com,Female,Silver,PhD,$235.87,"$3,426.04",Philadelphia,PA
+1212,Imojean,Everal,Imojean.Everal@datascience.aot.com,Female,Platnium,High School Diploma,$354.18,"$1,814.86",San Antonio,TX
+1213,Carter,Danslow,Carter.Danslow@datascience.aot.com,Male,None,Master Degree,$251.87,"$4,020.03",Temple,TX
+1214,Keslie,Malyan,Keslie.Malyan@datascience.aot.com,Female,Platnium,Master Degree,$226.90,$442.11,Hialeah,FL
+1215,Sarine,Posnett,Sarine.Posnett@datascience.aot.com,Female,Platnium,Bachelor Degree,$189.93,"$2,393.69",Portsmouth,VA
+1216,Parry,Mole,Parry.Mole@datascience.aot.com,Male,Silver,PhD,$352.87,"$2,401.26",,
+1217,Martin,Normanvell,Martin.Normanvell@datascience.aot.com,Male,None,Bachelor Degree,$195.37,"$3,726.04",Saint Paul,MN
+1218,Kristyn,Dorran,Kristyn.Dorran@datascience.aot.com,Female,Platnium,Master Degree,$225.66,"$1,686.13",Columbia,SC
+1219,Hinze,Rosenschein,Hinze.Rosenschein@datascience.aot.com,Male,None,High School Diploma,$253.10,$867.49,Abilene,TX
+1220,Brandise,Arnefield,Brandise.Arnefield@datascience.aot.com,Female,None,High School Diploma,$343.51,"$3,035.31",New York City,NY
+1221,Basilio,Chasemoore,Basilio.Chasemoore@datascience.aot.com,Male,Gold,Bachelor Degree,$220.48,$813.83,Milwaukee,WI
+1222,Edouard,Dennitts,Edouard.Dennitts@datascience.aot.com,Male,Silver,Bachelor Degree,$233.58,"$4,974.78",,
+1223,Hedy,Holliar,Hedy.Holliar@datascience.aot.com,Female,Gold,PhD,$170.47,"$1,597.46",Los Angeles,CA
+1224,Dorian,Semiras,Dorian.Semiras@datascience.aot.com,Agender,Gold,Master Degree,$365.85,"$2,235.91",Grand Rapids,MI
+1225,Winona,Dainty,Winona.Dainty@datascience.aot.com,Female,Gold,Some College,$230.56,"$1,247.50",Bethesda,MD
+1226,Dimitry,Message,Dimitry.Message@datascience.aot.com,Male,Platnium,Some College,$267.73,$619.26,,
+1227,Robert,Cowup,Robert.Cowup@datascience.aot.com,Male,Silver,Master Degree,$382.71,"$2,656.02",Bakersfield,CA
+1228,Doralin,Wyper,Doralin.Wyper@datascience.aot.com,Female,Silver,High School Diploma,$198.32,"$4,215.43",,
+1229,Arielle,Jaksic,Arielle.Jaksic@datascience.aot.com,Female,None,Bachelor Degree,$280.14,$946.43,Norwalk,CT
+1230,Konstantine,Cockerell,Konstantine.Cockerell@datascience.aot.com,Male,Gold,High School Diploma,$212.58,"$3,919.46",Texarkana,TX
+1231,Hyacinthia,Antrack,Hyacinthia.Antrack@datascience.aot.com,Female,Silver,PhD,$204.52,"$1,796.25",Tacoma,WA
+1232,Janey,Manns,Janey.Manns@datascience.aot.com,Female,Silver,PhD,$302.05,"$1,603.55",,
+1233,Guillaume,Feasby,Guillaume.Feasby@datascience.aot.com,Male,Gold,Master Degree,$347.13,$825.13,Tucson,AZ
+1234,Netta,Stanwix,Netta.Stanwix@datascience.aot.com,Female,Gold,PhD,$289.12,"$3,229.63",Chicago,IL
+1235,Fernande,Duding,Fernande.Duding@datascience.aot.com,Female,None,Master Degree,$360.84,$685.56,,
+1236,Kacey,Gritsunov,Kacey.Gritsunov@datascience.aot.com,Female,None,Bachelor Degree,$184.36,"$4,180.14",Lincoln,NE
+1237,Linn,McMurty,Linn.McMurty@datascience.aot.com,Male,Silver,Bachelor Degree,$269.88,"$3,803.43",,
+1238,Moira,Portchmouth,Moira.Portchmouth@datascience.aot.com,Female,Platnium,Master Degree,$328.20,"$2,863.41",Tulsa,OK
+1239,Mora,Goady,Mora.Goady@datascience.aot.com,Female,Gold,PhD,$155.87,"$4,164.19",Tucson,AZ
+1240,Leonerd,Moynham,Leonerd.Moynham@datascience.aot.com,Male,Gold,Some College,$177.33,"$2,170.59",Houston,TX
+1241,Meghan,Heel,Meghan.Heel@datascience.aot.com,Female,Platnium,Some College,$390.86,"$2,718.10",San Diego,CA
+1242,Tiebold,Sydall,Tiebold.Sydall@datascience.aot.com,Genderqueer,Gold,Master Degree,$207.69,$877.01,Wichita,KS
+1243,Rosie,Collett,Rosie.Collett@datascience.aot.com,Female,Gold,Master Degree,$234.90,"$1,738.33",Ventura,CA
+1244,Robinson,Cominotti,Robinson.Cominotti@datascience.aot.com,Male,Platnium,High School Diploma,$219.24,$668.55,Maple Plain,MN
+1245,Giorgio,Woolcocks,Giorgio.Woolcocks@datascience.aot.com,Polygender,Silver,Bachelor Degree,$160.69,"$3,551.28",Lexington,KY
+1246,Abra,Harwick,Abra.Harwick@datascience.aot.com,Female,Gold,Some College,$389.80,"$3,277.07",,
+1247,Adele,Sanper,Adele.Sanper@datascience.aot.com,Female,Silver,Bachelor Degree,$233.11,"$4,928.36",,
+1248,Laureen,Collett,Laureen.Collett@datascience.aot.com,Female,Platnium,High School Diploma,$301.56,"$2,645.78",Great Neck,NY
+1249,Javier,Milkeham,Javier.Milkeham@datascience.aot.com,Bigender,None,Master Degree,$157.91,"$4,689.72",Tucson,AZ
+1250,Rockey,Sculley,Rockey.Sculley@datascience.aot.com,Male,None,Bachelor Degree,$258.38,"$3,433.35",Miami,FL
+1251,Clara,Tsar,Clara.Tsar@datascience.aot.com,Female,Silver,PhD,$389.09,$935.73,Nashville,TN
+1252,Isabelita,Beazleigh,Isabelita.Beazleigh@datascience.aot.com,Female,Gold,Master Degree,$386.94,"$4,334.66",Tulsa,OK
+1253,Karlee,Shuttell,Karlee.Shuttell@datascience.aot.com,Female,Silver,,,,,
+1254,Elinore,Durnell,Elinore.Durnell@datascience.aot.com,Female,Gold,Bachelor Degree,$368.56,"$1,324.71",,
+1255,Leeanne,Byer,Leeanne.Byer@datascience.aot.com,Female,Silver,Master Degree,$181.51,"$3,943.93",Lawrenceville,GA
+1256,Malcolm,Parcells,Malcolm.Parcells@datascience.aot.com,Male,Silver,Bachelor Degree,$175.67,"$2,041.61",Raleigh,NC
+1257,Jedd,Morfett,Jedd.Morfett@datascience.aot.com,Male,Silver,PhD,$276.39,"$1,309.61",Fort Worth,TX
+1258,Zared,Rimer,Zared.Rimer@datascience.aot.com,Male,None,Some College,$333.05,"$1,761.26",Panama City,FL
+1259,Derby,Withrington,Derby.Withrington@datascience.aot.com,Male,Silver,Bachelor Degree,$379.51,"$4,239.20",Washington,DC
+1260,Hope,Scriven,Hope.Scriven@datascience.aot.com,Female,None,High School Diploma,$198.74,"$3,849.84",,
+1261,Sawyer,Boswell,Sawyer.Boswell@datascience.aot.com,Male,Gold,Bachelor Degree,$365.96,"$1,480.88",Jersey City,NJ
+1262,Clara,Hadden,Clara.Hadden@datascience.aot.com,Female,Platnium,High School Diploma,$319.95,"$1,579.92",Fairbanks,AK
+1263,Bondie,Flowith,Bondie.Flowith@datascience.aot.com,Male,Silver,PhD,$384.10,"$2,384.56",San Diego,CA
+1264,Fionnula,Turrill,Fionnula.Turrill@datascience.aot.com,Female,Platnium,Master Degree,$304.08,$470.62,El Paso,TX
+1265,Leicester,Soaper,Leicester.Soaper@datascience.aot.com,Male,Gold,PhD,$182.60,"$1,531.62",Minneapolis,MN
+1266,Hymie,Goadbie,Hymie.Goadbie@datascience.aot.com,Male,Silver,Bachelor Degree,$191.71,"$3,366.06",Baltimore,MD
+1267,Mary,Bikker,Mary.Bikker@datascience.aot.com,Female,Gold,Some College,$348.26,"$3,698.05",Louisville,KY
+1268,Gery,McGriele,Gery.McGriele@datascience.aot.com,Male,Silver,Some College,$394.67,"$3,046.42",San Jose,CA
+1269,Addie,Oboy,Addie.Oboy@datascience.aot.com,Male,Gold,PhD,$249.07,"$4,016.13",Kansas City,MO
+1270,Gannie,Vittori,Gannie.Vittori@datascience.aot.com,Male,Gold,Bachelor Degree,$258.05,"$4,123.49",Tampa,FL
+1271,Clayton,Sent,Clayton.Sent@datascience.aot.com,Male,Platnium,Some College,$296.59,"$2,742.57",Washington,DC
+1272,Dusty,Handforth,Dusty.Handforth@datascience.aot.com,Female,Gold,Master Degree,$250.26,"$2,211.22",New Orleans,LA
+1273,Steffie,McNeish,Steffie.McNeish@datascience.aot.com,Genderqueer,Silver,Some College,$275.12,"$2,063.45",Corpus Christi,TX
+1274,Leigh,Prandin,Leigh.Prandin@datascience.aot.com,Male,Silver,PhD,$161.39,"$3,637.58",Pensacola,FL
+1275,Penelopa,Housecroft,Penelopa.Housecroft@datascience.aot.com,Female,None,Bachelor Degree,$302.19,$613.10,Baltimore,MD
+1276,Kinny,Cricket,Kinny.Cricket@datascience.aot.com,Male,Platnium,PhD,$263.51,"$4,502.24",Dallas,TX
+1277,Cassey,MacDougall,Cassey.MacDougall@datascience.aot.com,Female,Gold,High School Diploma,$221.55,$721.20,Washington,DC
+1278,Even,Haining,Even.Haining@datascience.aot.com,Male,Gold,Bachelor Degree,$303.60,$777.83,North Hollywood,CA
+1279,Evin,Sabater,Evin.Sabater@datascience.aot.com,Male,None,Master Degree,$359.34,"$3,378.52",Flushing,NY
+1280,Arman,Vasyatkin,Arman.Vasyatkin@datascience.aot.com,Male,Gold,Some College,$365.12,$690.78,,
+1281,Josias,Tilburn,Josias.Tilburn@datascience.aot.com,Male,None,PhD,$250.59,"$2,920.06",Des Moines,IA
+1282,Stanislas,Rosetti,Stanislas.Rosetti@datascience.aot.com,Male,Silver,Bachelor Degree,$360.88,"$1,199.85",Garland,TX
+1283,Shaylah,Moresby,Shaylah.Moresby@datascience.aot.com,Female,Silver,Bachelor Degree,$289.00,"$4,296.41",Detroit,MI
+1284,Nathalia,Gellier,Nathalia.Gellier@datascience.aot.com,Female,Platnium,Master Degree,$192.92,"$4,371.13",Omaha,NE
+1285,Anson,Pigford,Anson.Pigford@datascience.aot.com,Male,Platnium,Bachelor Degree,$223.78,"$4,587.43",Baltimore,MD
+1286,Allene,Flatte,Allene.Flatte@datascience.aot.com,Genderqueer,Platnium,High School Diploma,$320.72,"$1,519.74",San Diego,CA
+1287,Selma,Kilbourn,Selma.Kilbourn@datascience.aot.com,Female,None,High School Diploma,$374.17,"$3,336.34",Vancouver,WA
+1288,Jeniece,Strowthers,Jeniece.Strowthers@datascience.aot.com,Female,Silver,Some College,$375.40,"$2,807.96",Peoria,IL
+1289,Leeland,Impett,Leeland.Impett@datascience.aot.com,Male,None,High School Diploma,$316.79,"$3,620.88",Las Cruces,NM
+1290,Stephanie,Beatty,Stephanie.Beatty@datascience.aot.com,Female,Platnium,Some College,$240.96,"$2,231.13",Irvine,CA
+1291,Gilligan,Lawling,Gilligan.Lawling@datascience.aot.com,Female,None,High School Diploma,$212.91,"$1,573.95",Huntsville,AL
+1292,Amalee,Umney,Amalee.Umney@datascience.aot.com,Female,None,PhD,$342.29,"$1,210.84",Toledo,OH
+1293,Terrell,Doble,Terrell.Doble@datascience.aot.com,Male,Gold,Master Degree,$162.08,"$2,554.76",San Francisco,CA
+1294,Virge,McWard,Virge.McWard@datascience.aot.com,Male,Platnium,Master Degree,$235.85,"$4,918.31",,
+1295,Kizzie,Stailey,Kizzie.Stailey@datascience.aot.com,Female,Platnium,PhD,$369.59,"$2,164.91",Tulsa,OK
+1296,Florentia,Pearsall,Florentia.Pearsall@datascience.aot.com,Female,None,Some College,$335.71,$948.33,San Antonio,TX
+1297,Audry,Dobie,Audry.Dobie@datascience.aot.com,Genderfluid,Gold,Some College,$360.78,"$1,023.81",Boston,MA
+1298,Chlo,Patek,Chlo.Patek@datascience.aot.com,Female,Gold,Some College,$221.08,"$3,973.56",Corona,CA
+1299,Putnem,Rouby,Putnem.Rouby@datascience.aot.com,Genderqueer,Silver,Bachelor Degree,$160.96,"$3,723.60",Salt Lake City,UT
+1300,Mauricio,Beet,Mauricio.Beet@datascience.aot.com,Polygender,Platnium,PhD,$172.00,"$1,020.10",Houston,TX
+1301,Roxy,Keese,Roxy.Keese@datascience.aot.com,Female,Gold,Bachelor Degree,$249.58,$506.31,,
+1302,Gianna,Stit,Gianna.Stit@datascience.aot.com,Female,Platnium,Master Degree,$342.83,"$2,869.65",Brooklyn,NY
+1303,Putnam,Leete,Putnam.Leete@datascience.aot.com,Bigender,Gold,PhD,$387.28,"$3,819.64",Milwaukee,WI
+1304,Oneida,Bruyett,Oneida.Bruyett@datascience.aot.com,Female,None,Master Degree,$334.59,"$3,708.32",Rochester,NY
+1305,Crichton,Tant,Crichton.Tant@datascience.aot.com,Male,Silver,,,,Washington,DC
+1306,Ginger,Knightley,Ginger.Knightley@datascience.aot.com,Bigender,Gold,High School Diploma,$164.27,"$3,477.92",Nashville,TN
+1307,Con,Laver,Con.Laver@datascience.aot.com,Female,Silver,Bachelor Degree,$288.58,"$1,635.36",Roanoke,VA
+1308,Hanny,Nussey,Hanny.Nussey@datascience.aot.com,Female,None,High School Diploma,$296.81,"$3,071.56",New York City,NY
+1309,Vanya,Gilderoy,Vanya.Gilderoy@datascience.aot.com,Female,Gold,PhD,$186.81,"$1,013.72",Brooklyn,NY
+1310,Baxy,Winchester,Baxy.Winchester@datascience.aot.com,Male,None,Some College,$161.76,"$2,253.42",Naples,FL
+1311,Ivonne,Way,Ivonne.Way@datascience.aot.com,Female,Silver,Bachelor Degree,$242.92,"$2,904.91",,
+1312,Athene,Cella,Athene.Cella@datascience.aot.com,Female,Gold,Master Degree,$298.27,"$1,976.98",Tempe,AZ
+1313,Wilbur,Gerardi,Wilbur.Gerardi@datascience.aot.com,Male,Silver,Master Degree,$252.59,"$1,384.77",Lexington,KY
+1314,Kori,Warham,Kori.Warham@datascience.aot.com,Female,None,Some College,$236.45,$727.32,Biloxi,MS
+1315,Wendel,Bauduin,Wendel.Bauduin@datascience.aot.com,Male,Gold,,,,San Antonio,TX
+1316,Vivien,Ramsby,Vivien.Ramsby@datascience.aot.com,Female,Platnium,Master Degree,$275.49,"$3,983.89",,
+1317,Ransell,Peealess,Ransell.Peealess@datascience.aot.com,Male,Silver,Some College,$398.58,"$1,195.38",Pittsburgh,PA
+1318,Anallise,Hatfield,Anallise.Hatfield@datascience.aot.com,Female,Platnium,High School Diploma,$322.13,"$2,936.67",Washington,DC
+1319,Sissie,Brambley,Sissie.Brambley@datascience.aot.com,Genderfluid,Silver,High School Diploma,$239.52,"$3,330.43",San Francisco,CA
+1320,Theresita,Nevison,Theresita.Nevison@datascience.aot.com,Genderqueer,Silver,Bachelor Degree,$285.00,"$3,307.77",Bethesda,MD
+1321,Jacquelyn,Quaif,Jacquelyn.Quaif@datascience.aot.com,Female,Gold,Bachelor Degree,$335.85,"$4,992.72",Sarasota,FL
+1322,Yolande,Rodda,Yolande.Rodda@datascience.aot.com,Bigender,Silver,High School Diploma,$370.89,$821.30,Indianapolis,IN
+1323,Ali,Blanchflower,Ali.Blanchflower@datascience.aot.com,Male,None,Bachelor Degree,$206.26,$546.16,Sacramento,CA
+1324,Drugi,Garvagh,Drugi.Garvagh@datascience.aot.com,Male,Platnium,Master Degree,$311.05,"$4,034.28",Oxnard,CA
+1325,Sherill,Beeho,Sherill.Beeho@datascience.aot.com,Female,Silver,PhD,$392.50,"$3,418.31",Atlanta,GA
+1326,Fitzgerald,Draper,Fitzgerald.Draper@datascience.aot.com,Male,None,Bachelor Degree,$213.14,$805.10,Cincinnati,OH
+1327,Terra,Damiral,Terra.Damiral@datascience.aot.com,Female,Platnium,Master Degree,$352.83,"$4,841.52",Alpharetta,GA
+1328,Brady,Pavolillo,Brady.Pavolillo@datascience.aot.com,Male,Gold,Some College,$218.47,"$3,650.79",,
+1329,Miriam,Hallick,Miriam.Hallick@datascience.aot.com,Female,Gold,PhD,$336.69,"$1,401.80",Jamaica,NY
+1330,Rodolph,Scedall,Rodolph.Scedall@datascience.aot.com,Male,Silver,Bachelor Degree,$288.24,"$2,409.59",Norwalk,CT
+1331,Taffy,Lyle,Taffy.Lyle@datascience.aot.com,Female,None,Master Degree,$156.45,$927.23,Los Angeles,CA
+1332,Bryanty,Dudden,Bryanty.Dudden@datascience.aot.com,Male,Platnium,Master Degree,$214.51,"$3,125.38",Rockville,MD
+1333,Trudie,Jeannaud,Trudie.Jeannaud@datascience.aot.com,Genderfluid,Silver,High School Diploma,$329.68,"$4,144.22",Cincinnati,OH
+1334,Jo ann,Gurden,Jo ann.Gurden@datascience.aot.com,Female,Platnium,PhD,$388.48,"$1,763.39",Washington,DC
+1335,Clarette,Watsham,Clarette.Watsham@datascience.aot.com,Bigender,None,High School Diploma,$176.17,"$2,620.21",New Orleans,LA
+1336,Nicolas,MacKeever,Nicolas.MacKeever@datascience.aot.com,Male,Silver,Bachelor Degree,$240.10,"$2,202.70",,
+1337,Hesther,Chevalier,Hesther.Chevalier@datascience.aot.com,Female,Silver,Master Degree,$303.34,"$4,553.20",,
+1338,Tedda,Scrivens,Tedda.Scrivens@datascience.aot.com,Female,None,PhD,$260.40,"$3,480.98",Anchorage,AK
+1339,Mureil,Van Der Straaten,Mureil.Van Der Straaten@datascience.aot.com,Female,None,,,,Albuquerque,NM
+1340,Jedidiah,Jayes,Jedidiah.Jayes@datascience.aot.com,Male,Platnium,,,,,
+1341,Nadia,Cleworth,Nadia.Cleworth@datascience.aot.com,Female,Gold,Bachelor Degree,$157.43,$647.07,San Francisco,CA
+1342,Caralie,Potten,Caralie.Potten@datascience.aot.com,Female,Platnium,High School Diploma,$352.38,"$2,382.22",,
+1343,Kennith,Goch,Kennith.Goch@datascience.aot.com,Male,Gold,PhD,$286.38,"$2,381.34",Raleigh,NC
+1344,Sharai,De Winton,Sharai.De Winton@datascience.aot.com,Female,Platnium,PhD,$150.65,"$3,365.48",Davenport,IA
+1345,Meggie,Shemmin,Meggie.Shemmin@datascience.aot.com,Non-binary,Silver,High School Diploma,$249.42,"$2,373.34",Indianapolis,IN
+1346,Farris,Stanislaw,Farris.Stanislaw@datascience.aot.com,Male,Gold,Bachelor Degree,$388.51,"$1,670.96",Columbus,OH
+1347,Ursala,Broomhead,Ursala.Broomhead@datascience.aot.com,Female,None,Bachelor Degree,$318.88,"$1,488.15",Houston,TX
+1348,Craig,Loadman,Craig.Loadman@datascience.aot.com,Male,Gold,PhD,$275.03,"$2,827.28",,
+1349,Eveline,Ruspine,Eveline.Ruspine@datascience.aot.com,Bigender,Silver,PhD,$329.77,$400.23,Anchorage,AK
+1350,Stafford,Chittenden,Stafford.Chittenden@datascience.aot.com,Male,None,Some College,$289.89,$802.46,Dallas,TX
+1351,Scotty,Blannin,Scotty.Blannin@datascience.aot.com,Male,Silver,PhD,$321.20,"$3,519.25",,
+1352,Jose,Patershall,Jose.Patershall@datascience.aot.com,Male,Silver,Master Degree,$275.71,"$2,605.45",Shreveport,LA
+1353,Germain,Fern,Germain.Fern@datascience.aot.com,Male,Gold,Bachelor Degree,$201.52,"$3,769.34",Washington,DC
+1354,Marcella,Trahear,Marcella.Trahear@datascience.aot.com,Female,Gold,Bachelor Degree,$284.51,"$4,451.29",Charleston,WV
+1355,Sibyl,Slyde,Sibyl.Slyde@datascience.aot.com,Genderqueer,Platnium,Bachelor Degree,$163.29,$747.36,San Antonio,TX
+1356,Colver,Hentzeler,Colver.Hentzeler@datascience.aot.com,Male,Platnium,PhD,$261.83,$718.83,Spartanburg,SC
+1357,Kiri,Wolfit,Kiri.Wolfit@datascience.aot.com,Female,Gold,Master Degree,$376.69,"$2,660.20",Jamaica,NY
+1358,Jessi,Poulton,Jessi.Poulton@datascience.aot.com,Female,Gold,Bachelor Degree,$161.99,"$2,477.95",Las Vegas,NV
+1359,Tallia,Houdmont,Tallia.Houdmont@datascience.aot.com,Female,None,PhD,$238.24,"$4,638.30",Charleston,WV
+1360,Agathe,Fenty,Agathe.Fenty@datascience.aot.com,Female,None,PhD,$273.09,"$3,604.50",Portland,OR
+1361,Barnebas,Cudworth,Barnebas.Cudworth@datascience.aot.com,Male,Silver,High School Diploma,$152.00,"$2,039.65",Boulder,CO
+1362,Jared,Waterhouse,Jared.Waterhouse@datascience.aot.com,Polygender,None,Some College,$386.12,"$1,152.90",Boston,MA
+1363,Gill,Brodie,Gill.Brodie@datascience.aot.com,Female,Platnium,Some College,$181.11,$888.14,Louisville,KY
+1364,Kelci,McLachlan,Kelci.McLachlan@datascience.aot.com,Female,None,PhD,$336.04,"$4,781.57",Englewood,CO
+1365,Rouvin,Davenell,Rouvin.Davenell@datascience.aot.com,Male,Silver,High School Diploma,$198.74,"$2,567.47",Indianapolis,IN
+1366,Berny,Phin,Berny.Phin@datascience.aot.com,Female,None,Some College,$377.25,"$2,996.46",Jackson,TN
+1367,Cathie,Kenrick,Cathie.Kenrick@datascience.aot.com,Female,Silver,PhD,$394.17,"$3,940.76",Baton Rouge,LA
+1368,Lenard,Kynett,Lenard.Kynett@datascience.aot.com,Male,Silver,Master Degree,$377.10,"$1,682.81",Miami,FL
+1369,Umberto,Paulillo,Umberto.Paulillo@datascience.aot.com,Male,Silver,Some College,$298.88,"$4,444.90",Des Moines,IA
+1370,Rowan,Primak,Rowan.Primak@datascience.aot.com,Male,Platnium,PhD,$398.52,"$4,218.28",Pensacola,FL
+1371,Lisa,Dinkin,Lisa.Dinkin@datascience.aot.com,Female,Gold,Some College,$381.29,"$4,788.98",,
+1372,Derrik,Turford,Derrik.Turford@datascience.aot.com,Male,None,PhD,$289.40,$756.06,Cleveland,OH
+1373,Arda,Jenkin,Arda.Jenkin@datascience.aot.com,Female,Platnium,Some College,$246.62,"$3,560.51",New York City,NY
+1374,Tymon,De Biasio,Tymon.De Biasio@datascience.aot.com,Male,Gold,Master Degree,$231.26,"$4,028.15",,
+1375,Carolus,Fawcitt,Carolus.Fawcitt@datascience.aot.com,Male,Silver,High School Diploma,$368.76,"$3,928.99",,
+1376,Kerianne,Woffenden,Kerianne.Woffenden@datascience.aot.com,Female,None,PhD,$358.06,"$3,794.10",Minneapolis,MN
+1377,Avery,Presley,Avery.Presley@datascience.aot.com,Male,Silver,PhD,$395.00,$502.39,Anchorage,AK
+1378,Jeffry,Grisley,Jeffry.Grisley@datascience.aot.com,Male,Platnium,High School Diploma,$246.87,"$3,154.11",Charleston,WV
+1379,Mendie,Hollyard,Mendie.Hollyard@datascience.aot.com,Male,None,High School Diploma,$341.09,"$3,722.89",New York City,NY
+1380,Jenica,Pennino,Jenica.Pennino@datascience.aot.com,Female,Platnium,Some College,$351.12,"$2,454.57",Salem,OR
+1381,Dniren,Posnett,Dniren.Posnett@datascience.aot.com,Female,Gold,High School Diploma,$309.03,"$1,513.18",Lake Worth,FL
+1382,Etty,Tesh,Etty.Tesh@datascience.aot.com,Agender,Platnium,High School Diploma,$169.08,$854.99,Whittier,CA
+1383,Karon,Paolucci,Karon.Paolucci@datascience.aot.com,Female,Silver,Bachelor Degree,$347.46,"$3,112.08",Miami,FL
+1384,Tilda,Backson,Tilda.Backson@datascience.aot.com,Female,Gold,Bachelor Degree,$355.11,"$3,792.60",,
+1385,Ali,Seage,Ali.Seage@datascience.aot.com,Male,None,Bachelor Degree,$318.80,"$2,592.43",Migrate,KY
+1386,Al,Jewel,Al.Jewel@datascience.aot.com,Male,Silver,Master Degree,$289.26,"$3,163.74",Salem,OR
+1387,Hyacinth,Rother,Hyacinth.Rother@datascience.aot.com,Female,None,Bachelor Degree,$351.65,"$3,883.10",Little Rock,AR
+1388,Nissa,Dulanty,Nissa.Dulanty@datascience.aot.com,Female,None,PhD,$277.06,"$4,984.04",,
+1389,Nike,McRonald,Nike.McRonald@datascience.aot.com,Female,None,PhD,$387.28,"$4,249.49",Jacksonville,FL
+1390,Sonny,Wooffitt,Sonny.Wooffitt@datascience.aot.com,Non-binary,None,Some College,$351.77,"$4,544.52",Pittsburgh,PA
+1391,Roselia,Pechet,Roselia.Pechet@datascience.aot.com,Female,Gold,Bachelor Degree,$342.37,"$2,834.20",New York City,NY
+1392,Shandee,Morefield,Shandee.Morefield@datascience.aot.com,Female,Platnium,Master Degree,$157.64,"$3,513.35",Lubbock,TX
+1393,Delmore,Craik,Delmore.Craik@datascience.aot.com,Male,Gold,Master Degree,$360.72,"$3,380.58",Kansas City,KS
+1394,Gray,Janovsky,Gray.Janovsky@datascience.aot.com,Male,Silver,Bachelor Degree,$205.48,"$2,940.23",Jacksonville,FL
+1395,Lynett,Feld,Lynett.Feld@datascience.aot.com,Female,Silver,Master Degree,$150.24,"$2,670.87",San Francisco,CA
+1396,Gwendolen,Noury,Gwendolen.Noury@datascience.aot.com,Female,Gold,PhD,$168.62,"$4,803.48",Sioux Falls,SD
+1397,Enrique,Scole,Enrique.Scole@datascience.aot.com,Male,None,High School Diploma,$242.36,"$3,703.31",,
+1398,Gregor,Boyington,Gregor.Boyington@datascience.aot.com,Male,None,Some College,$188.97,"$4,175.67",El Paso,TX
+1399,Jakob,Georges,Jakob.Georges@datascience.aot.com,Bigender,Gold,High School Diploma,$218.72,"$4,239.70",,
+1400,Alwin,Gonthard,Alwin.Gonthard@datascience.aot.com,Male,None,Bachelor Degree,$254.46,"$1,154.74",Dallas,TX
+1401,Casper,Thirsk,Casper.Thirsk@datascience.aot.com,Genderfluid,Platnium,High School Diploma,$219.14,"$3,165.25",Orlando,FL
+1402,Robby,MacGinlay,Robby.MacGinlay@datascience.aot.com,Female,None,Master Degree,$247.18,"$4,828.75",Ocala,FL
+1403,Adelheid,Shearstone,Adelheid.Shearstone@datascience.aot.com,Female,None,Bachelor Degree,$161.37,"$1,585.12",Reading,PA
+1404,Molly,Raynton,Molly.Raynton@datascience.aot.com,Female,Platnium,High School Diploma,$266.74,"$4,251.11",Washington,DC
+1405,Sibyl,Fatkin,Sibyl.Fatkin@datascience.aot.com,Male,Platnium,PhD,$159.34,"$2,122.18",,
+1406,Bartlett,Dove,Bartlett.Dove@datascience.aot.com,Male,Platnium,Some College,$291.34,$618.11,Long Beach,CA
+1407,Jessey,McIlriach,Jessey.McIlriach@datascience.aot.com,Male,Platnium,Some College,$197.00,"$4,522.64",Springfield,IL
+1408,Edy,Smedley,Edy.Smedley@datascience.aot.com,Female,Platnium,Some College,$223.37,$560.07,San Bernardino,CA
+1409,Jocelyn,Wilbud,Jocelyn.Wilbud@datascience.aot.com,Female,Gold,Bachelor Degree,$300.23,"$2,127.30",New York City,NY
+1410,Maxim,Spon,Maxim.Spon@datascience.aot.com,Male,None,Master Degree,$228.12,$668.55,Chicago,IL
+1411,Leigha,Witchalls,Leigha.Witchalls@datascience.aot.com,Female,Platnium,Master Degree,$349.39,"$4,738.32",Austin,TX
+1412,Monty,Durnford,Monty.Durnford@datascience.aot.com,Male,Gold,PhD,$219.21,"$3,400.98",Raleigh,NC
+1413,Welbie,Kermannes,Welbie.Kermannes@datascience.aot.com,Male,Silver,Bachelor Degree,$172.03,"$1,382.14",Kansas City,KS
+1414,Lucian,McKeran,Lucian.McKeran@datascience.aot.com,Male,Platnium,Some College,$234.35,"$3,427.07",Bellevue,WA
+1415,Durant,Muller,Durant.Muller@datascience.aot.com,Male,None,Bachelor Degree,$230.35,$439.29,Washington,DC
+1416,Broderic,Arnaudet,Broderic.Arnaudet@datascience.aot.com,Male,Silver,Master Degree,$381.93,"$2,941.86",San Bernardino,CA
+1417,Devora,O'Fielly,Devora.O'Fielly@datascience.aot.com,Female,None,Master Degree,$260.56,"$1,097.52",New York City,NY
+1418,Ring,Kunzelmann,Ring.Kunzelmann@datascience.aot.com,Male,Platnium,Master Degree,$238.93,$442.50,Fort Worth,TX
+1419,Laney,Clues,Laney.Clues@datascience.aot.com,Male,None,Some College,$297.47,$948.01,Melbourne,FL
+1420,Magdalen,Snelling,Magdalen.Snelling@datascience.aot.com,Female,Platnium,High School Diploma,$393.28,"$4,330.93",Sacramento,CA
+1421,Avrom,Chapleo,Avrom.Chapleo@datascience.aot.com,Male,Platnium,PhD,$223.00,"$4,549.99",Lincoln,NE
+1422,Dale,Sockell,Dale.Sockell@datascience.aot.com,Female,Gold,Bachelor Degree,$342.97,$683.92,,
+1423,Neill,Spykins,Neill.Spykins@datascience.aot.com,Male,Platnium,PhD,$314.91,"$3,502.95",Boston,MA
+1424,Johnette,Everington,Johnette.Everington@datascience.aot.com,Female,Platnium,Master Degree,$172.06,"$1,449.16",Cincinnati,OH
+1425,Quinlan,Varian,Quinlan.Varian@datascience.aot.com,Male,None,Bachelor Degree,$196.79,"$1,422.32",Washington,DC
+1426,Ferdie,Ferrarini,Ferdie.Ferrarini@datascience.aot.com,Male,Silver,Some College,$264.78,"$4,935.87",Washington,DC
+1427,Eirena,Geere,Eirena.Geere@datascience.aot.com,Genderfluid,Gold,High School Diploma,$387.78,"$1,692.33",Louisville,KY
+1428,Hali,Sherrett,Hali.Sherrett@datascience.aot.com,Female,None,Bachelor Degree,$372.18,$902.89,Chicago,IL
+1429,Emalia,Trude,Emalia.Trude@datascience.aot.com,Female,Silver,Master Degree,$255.02,"$4,477.16",Philadelphia,PA
+1430,Jobina,Cradey,Jobina.Cradey@datascience.aot.com,Female,Platnium,High School Diploma,$158.89,"$4,368.42",Oklahoma City,OK
+1431,Sybille,Golds,Sybille.Golds@datascience.aot.com,Female,Silver,Some College,$245.35,$799.55,Monticello,MN
+1432,Malvina,Murford,Malvina.Murford@datascience.aot.com,Female,Gold,Master Degree,$311.31,"$2,147.74",,
+1433,Vonnie,Dufer,Vonnie.Dufer@datascience.aot.com,Female,Platnium,Some College,$219.20,"$2,478.26",Sterling,VA
+1434,Vito,Sugarman,Vito.Sugarman@datascience.aot.com,Male,None,Master Degree,$213.56,$472.96,Muncie,IN
+1435,Myrwyn,Airlie,Myrwyn.Airlie@datascience.aot.com,Male,Platnium,PhD,$294.46,"$1,520.47",Jacksonville,FL
+1436,Nelie,Goodacre,Nelie.Goodacre@datascience.aot.com,Female,Gold,Some College,$216.88,"$1,522.70",Denver,CO
+1437,Ody,McTeggart,Ody.McTeggart@datascience.aot.com,Male,Silver,Bachelor Degree,$260.66,"$1,518.25",Fresno,CA
+1438,Ave,Kuschek,Ave.Kuschek@datascience.aot.com,Male,None,Bachelor Degree,$350.41,"$1,567.92",Sacramento,CA
+1439,Barbey,Ramelet,Barbey.Ramelet@datascience.aot.com,Female,Gold,Master Degree,$269.54,$773.95,Wilkes Barre,PA
+1440,Royal,McGowan,Royal.McGowan@datascience.aot.com,Male,Silver,Some College,$157.01,"$1,284.44",Houston,TX
+1441,Maddy,Kinsley,Maddy.Kinsley@datascience.aot.com,Female,Gold,Master Degree,$252.94,"$1,587.18",Lexington,KY
+1442,Beth,Hembling,Beth.Hembling@datascience.aot.com,Female,Platnium,Master Degree,$334.72,"$3,397.86",El Paso,TX
+1443,Kelcie,Hullett,Kelcie.Hullett@datascience.aot.com,Female,None,Master Degree,$379.14,"$2,165.37",Arlington,TX
+1444,Sander,Brabbins,Sander.Brabbins@datascience.aot.com,Male,None,Bachelor Degree,$232.82,"$2,872.03",Boston,MA
+1445,Mair,Fulham,Mair.Fulham@datascience.aot.com,Female,Gold,High School Diploma,$217.54,"$2,803.64",Green Bay,WI
+1446,Haydon,Jiles,Haydon.Jiles@datascience.aot.com,Male,None,Master Degree,$259.15,"$4,871.32",Spokane,WA
+1447,Reggie,Chennells,Reggie.Chennells@datascience.aot.com,Male,Gold,Master Degree,$278.18,$829.61,Denver,CO
+1448,Shell,Fitzpayn,Shell.Fitzpayn@datascience.aot.com,Male,None,High School Diploma,$209.29,$497.93,Phoenix,AZ
+1449,Ophelia,Pomfret,Ophelia.Pomfret@datascience.aot.com,Female,Gold,Bachelor Degree,$219.24,"$3,629.07",El Paso,TX
+1450,Leilah,McGready,Leilah.McGready@datascience.aot.com,Female,Gold,High School Diploma,$381.08,"$3,400.64",Austin,TX
+1451,Elaina,Chardin,Elaina.Chardin@datascience.aot.com,Female,Silver,PhD,$302.25,"$1,871.09",Huntington,WV
+1452,Cornell,Bethell,Cornell.Bethell@datascience.aot.com,Male,None,High School Diploma,$388.19,"$2,701.73",Buffalo,NY
+1453,Elsy,Pheasant,Elsy.Pheasant@datascience.aot.com,Female,Gold,Master Degree,$234.81,"$2,299.46",Rockford,IL
+1454,Egan,Belliard,Egan.Belliard@datascience.aot.com,Male,None,Some College,$378.61,"$3,453.68",,
+1455,Nady,Harvett,Nady.Harvett@datascience.aot.com,Female,Platnium,High School Diploma,$272.70,$862.93,Tampa,FL
+1456,Sumner,Tweddell,Sumner.Tweddell@datascience.aot.com,Male,Platnium,High School Diploma,$333.27,$634.10,Chicago,IL
+1457,Karena,Huglin,Karena.Huglin@datascience.aot.com,Genderfluid,None,Master Degree,$205.23,"$4,514.57",Minneapolis,MN
+1458,Sylvia,Gorusso,Sylvia.Gorusso@datascience.aot.com,Polygender,Platnium,High School Diploma,$383.55,"$1,669.15",New Haven,CT
+1459,Giffie,Cupitt,Giffie.Cupitt@datascience.aot.com,Male,Gold,Some College,$186.03,"$2,399.65",,
+1460,Camille,Dufer,Camille.Dufer@datascience.aot.com,Female,Platnium,Master Degree,$156.41,"$2,638.94",,
+1461,Anatol,Thomasen,Anatol.Thomasen@datascience.aot.com,Male,Silver,High School Diploma,$178.51,"$2,383.61",Jacksonville,FL
+1462,Floyd,Frango,Floyd.Frango@datascience.aot.com,Male,None,Some College,$391.44,"$1,537.11",Los Angeles,CA
+1463,Teodorico,Rosborough,Teodorico.Rosborough@datascience.aot.com,Male,None,PhD,$300.22,"$4,385.14",Miami,FL
+1464,Shandy,Vance,Shandy.Vance@datascience.aot.com,Female,Gold,High School Diploma,$282.73,$500.06,Fresno,CA
+1465,Dorree,Macbeth,Dorree.Macbeth@datascience.aot.com,Female,Silver,PhD,$321.39,"$1,143.88",Lincoln,NE
+1466,Liv,Bruce,Liv.Bruce@datascience.aot.com,Female,Gold,Bachelor Degree,$375.87,"$1,995.05",Honolulu,HI
+1467,Bobby,Bullene,Bobby.Bullene@datascience.aot.com,Male,Gold,PhD,$172.99,"$1,460.81",,
+1468,Ethelred,Allaker,Ethelred.Allaker@datascience.aot.com,Male,Gold,High School Diploma,$354.57,"$3,202.22",New Orleans,LA
+1469,Joann,Seabert,Joann.Seabert@datascience.aot.com,Female,None,Some College,$318.67,"$1,282.93",West Palm Beach,FL
+1470,Abbot,Withey,Abbot.Withey@datascience.aot.com,Male,Platnium,Bachelor Degree,$217.80,"$3,424.43",Las Vegas,NV
+1471,Daphene,Lude,Daphene.Lude@datascience.aot.com,Female,Platnium,,,,Houston,TX
+1472,Bird,Brownsett,Bird.Brownsett@datascience.aot.com,Female,Silver,Master Degree,$156.36,"$4,128.87",Salt Lake City,UT
+1473,Thibaut,Kinforth,Thibaut.Kinforth@datascience.aot.com,Male,Gold,Bachelor Degree,$231.41,"$1,892.53",,
+1474,Sylvan,Whysall,Sylvan.Whysall@datascience.aot.com,Genderfluid,Gold,PhD,$197.09,"$1,340.89",Reno,NV
+1475,Chantal,Kirvell,Chantal.Kirvell@datascience.aot.com,Female,Silver,Some College,$320.37,"$4,310.09",Wichita,KS
+1476,Calla,Luther,Calla.Luther@datascience.aot.com,Female,None,Master Degree,$220.42,"$2,655.53",Philadelphia,PA
+1477,Elia,Domoni,Elia.Domoni@datascience.aot.com,Male,None,PhD,$385.81,"$2,698.99",Springfield,MO
+1478,Lucienne,Petz,Lucienne.Petz@datascience.aot.com,Female,Silver,Bachelor Degree,$314.64,"$1,503.64",Philadelphia,PA
+1479,Margie,Mechell,Margie.Mechell@datascience.aot.com,Female,Platnium,Bachelor Degree,$325.12,"$3,121.73",Madison,WI
+1480,Lura,Connor,Lura.Connor@datascience.aot.com,Female,Gold,Bachelor Degree,$308.91,"$4,091.79",Lehigh Acres,FL
+1481,Kean,Jolin,Kean.Jolin@datascience.aot.com,Male,Platnium,PhD,$269.58,"$3,699.15",Toledo,OH
+1482,Lester,Pinfold,Lester.Pinfold@datascience.aot.com,Male,Gold,PhD,$208.86,"$2,179.27",Los Angeles,CA
+1483,Blanch,Bowland,Blanch.Bowland@datascience.aot.com,Female,None,PhD,$306.43,"$3,849.89",,
+1484,Harrie,Chisnell,Harrie.Chisnell@datascience.aot.com,Female,Gold,Some College,$157.55,"$3,132.95",Chicago,IL
+1485,Kenn,Giacomozzo,Kenn.Giacomozzo@datascience.aot.com,Male,Gold,Some College,$399.09,"$2,160.29",Miami,FL
+1486,Orelle,Manhare,Orelle.Manhare@datascience.aot.com,Female,Silver,PhD,$318.17,"$4,524.33",Peoria,AZ
+1487,Matilda,Diggens,Matilda.Diggens@datascience.aot.com,Female,Platnium,PhD,$177.85,$478.86,Fresno,CA
+1488,Jodi,Hess,Jodi.Hess@datascience.aot.com,Male,Gold,PhD,$225.88,"$3,422.89",Dallas,TX
+1489,Eben,Spittall,Eben.Spittall@datascience.aot.com,Bigender,Gold,Bachelor Degree,$352.99,"$2,606.54",Cincinnati,OH
+1490,Dean,Argente,Dean.Argente@datascience.aot.com,Male,None,Master Degree,$384.53,"$1,324.78",Pompano Beach,FL
+1491,Kassey,Burhill,Kassey.Burhill@datascience.aot.com,Bigender,None,Bachelor Degree,$158.52,"$3,035.07",Fairfield,CT
+1492,April,Willcocks,April.Willcocks@datascience.aot.com,Female,None,Some College,$363.11,"$1,653.05",,
+1493,Frederico,Halahan,Frederico.Halahan@datascience.aot.com,Bigender,Silver,Some College,$194.61,"$4,472.25",Largo,FL
+1494,Allin,Pennacci,Allin.Pennacci@datascience.aot.com,Male,Platnium,Master Degree,$346.84,"$4,507.08",Pasadena,CA
+1495,Kaylil,Golson,Kaylil.Golson@datascience.aot.com,Female,Platnium,,,,,
+1496,Ferdy,Harrad,Ferdy.Harrad@datascience.aot.com,Male,Silver,Master Degree,$286.85,"$2,675.50",New Orleans,LA
+1497,Vanya,Caulket,Vanya.Caulket@datascience.aot.com,Female,Gold,PhD,$151.97,"$1,287.34",Colorado Springs,CO
+1498,Emalee,Folke,Emalee.Folke@datascience.aot.com,Agender,None,High School Diploma,$337.59,"$2,379.43",Lake Charles,LA
+1499,Lorine,Matyukon,Lorine.Matyukon@datascience.aot.com,Female,Platnium,Master Degree,$234.99,"$2,361.13",Columbus,GA
+1500,Otes,Linton,Otes.Linton@datascience.aot.com,Male,Gold,Master Degree,$322.34,$721.85,,
